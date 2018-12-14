@@ -1,17 +1,13 @@
-site_name: Coding tutorials and snippets
+site_name: Apache Lucene developer's guide
 nav:
   - Home: index.md
-  - Tutorials:
-    - Lucene: lucene.md
-    - Swagger: swagger.md
-    - MkDocs: mkdocs.md
+  - Getting started: lucene.md
+  - links.md
 
-#theme:
-#  name: readthedocs
 theme:
   name: material
   feature:
-    tabs: true
+    tabs: false
 
 
 markdown_extensions:

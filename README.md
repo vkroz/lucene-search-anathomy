@@ -1,19 +1,5 @@
-Lucene dependencies
+# Apache Lucene developer's guide
 
-        <dependency>
-            <groupId>org.apache.lucene</groupId>
-            <artifactId>lucene-core</artifactId>
-            <version>7.4.0</version>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.lucene</groupId>
-            <artifactId>lucene-queryparser</artifactId>
-            <version>7.4.0</version>
-        </dependency>
+Tutorial, documentation and code examples for Lucene developers
 
-
-What this app does? It reproduces steps described in Lucene tutorial: 
-http://lucene.apache.org/core/7_5_0/demo/overview-summary.html#overview_description
-
-
-
+See: [https://vkroz.github.io/lucene-tutorial/](https://vkroz.github.io/lucene-tutorial/)
