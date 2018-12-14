@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d5/d8c/classorg_1_1apache_1_1lucene_1_1codecs_1_1_codec.html" title="Encodes/decodes an inverted index segment. " alt="" coords="5,39,187,80"/>
+<area shape="rect" id="node2" href="$d2/d2d/classorg_1_1apache_1_1lucene_1_1codecs_1_1_filter_codec.html" title="A codec that forwards all its method calls to another codec. " alt="" coords="263,5,445,47"/>
+<area shape="rect" id="node3" href="$d4/d8a/classorg_1_1apache_1_1lucene_1_1codecs_1_1lucene80_1_1_lucene80_codec.html" title="Implements the Lucene 8.0 index format, with configurable per&#45;field postings and docvalues formats..." alt="" coords="235,71,473,112"/>
+</map>

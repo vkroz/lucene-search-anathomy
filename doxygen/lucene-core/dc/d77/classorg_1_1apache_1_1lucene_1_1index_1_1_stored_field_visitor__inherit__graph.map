@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.index.StoredFieldVisitor" name="org.apache.lucene.index.StoredFieldVisitor">
+<area shape="rect" id="node2" href="$db/d5f/classorg_1_1apache_1_1lucene_1_1codecs_1_1_stored_fields_writer_1_1_merge_visitor.html" title="A visitor that adds every field it sees. " alt="" coords="224,5,435,47"/>
+<area shape="rect" id="node3" href="$d6/d21/classorg_1_1apache_1_1lucene_1_1document_1_1_document_stored_field_visitor.html" title="A StoredFieldVisitor that creates a Document from stored fields. " alt="" coords="231,71,428,112"/>
+</map>

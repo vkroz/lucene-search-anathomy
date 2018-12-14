@@ -1,0 +1,21 @@
+<map id="org.apache.lucene.codecs.lucene60.Lucene60PointsWriter" name="org.apache.lucene.codecs.lucene60.Lucene60PointsWriter">
+<area shape="rect" id="node2" href="$d1/d44/classorg_1_1apache_1_1lucene_1_1codecs_1_1_points_writer.html" title="Abstract API to write points. " alt="" coords="651,72,832,113"/>
+<area shape="rect" id="node4" href="$da/d29/classorg_1_1apache_1_1lucene_1_1store_1_1_index_output.html" title="A DataOutput for appending data to a file in a Directory. " alt="" coords="441,13,611,55"/>
+<area shape="rect" id="node7" href="$dd/d43/classorg_1_1apache_1_1lucene_1_1util_1_1_info_stream.html" title="Debugging API for Lucene classes such as IndexWriter and SegmentInfos. " alt="" coords="652,211,831,252"/>
+<area shape="rect" id="node27" href="$d3/dcb/classorg_1_1apache_1_1lucene_1_1store_1_1_directory.html" title="A. " alt="" coords="441,305,611,347"/>
+<area shape="rect" id="node5" href="$de/d31/classorg_1_1apache_1_1lucene_1_1store_1_1_data_output.html" title="Abstract base class for performing write operations of Lucene&#39;s low&#45;level data types. " alt="" coords="35,5,205,47"/>
+<area shape="rect" id="node6" href="$d2/dd8/classorg_1_1apache_1_1lucene_1_1index_1_1_segment_write_state.html" title="Holder class for common parameters used during write. " alt="" coords="1171,371,1341,412"/>
+<area shape="rect" id="node8" title="Holds buffered deletes and updates, by docID, term or query for a single segment. ..." alt="" coords="441,371,611,412"/>
+<area shape="rect" id="node9" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="5,550,235,577"/>
+<area shape="rect" id="node22" href="$dc/da5/classorg_1_1apache_1_1lucene_1_1util_1_1_fixed_bit_set.html" title="BitSet of fixed length (numBits), backed by accessible (getBits) long[], accessed with an int index..." alt="" coords="856,541,1045,583"/>
+<area shape="rect" id="node23" href="$df/de3/classorg_1_1apache_1_1lucene_1_1util_1_1_bit_set.html" title="Base implementation for a bit set. " alt="" coords="430,599,622,626"/>
+<area shape="rect" id="node11" href="$d5/d6e/classorg_1_1apache_1_1lucene_1_1util_1_1_counter.html" title="Simple counter class. " alt="" coords="18,489,222,515"/>
+<area shape="rect" id="node16" href="$d4/db4/classorg_1_1apache_1_1lucene_1_1index_1_1_field_infos.html" title="Collection of FieldInfos (accessible by number or by name). " alt="" coords="865,1093,1036,1135"/>
+<area shape="rect" id="node18" href="$d0/db3/classorg_1_1apache_1_1lucene_1_1store_1_1_i_o_context.html" title="IOContext holds additional details on the merge/search context. " alt="" coords="866,980,1035,1021"/>
+<area shape="rect" id="node19" href="$d5/d03/classorg_1_1apache_1_1lucene_1_1store_1_1_merge_info.html" title="org.apache.lucene.store.\lMergeInfo" alt="" coords="441,1068,611,1109"/>
+<area shape="rect" id="node20" href="$de/df7/enumorg_1_1apache_1_1lucene_1_1store_1_1_i_o_context_1_1_context.html" title="Context is a enumerator which specifies the context in which the Directory is being used for..." alt="" coords="441,937,611,979"/>
+<area shape="rect" id="node21" href="$d9/de6/classorg_1_1apache_1_1lucene_1_1store_1_1_flush_info.html" title="org.apache.lucene.store.\lFlushInfo" alt="" coords="441,1003,611,1044"/>
+<area shape="rect" id="node24" href="$d8/d21/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_bits.html" title="Interface for Bitset&#45;like structures. " alt="" coords="31,645,209,671"/>
+<area shape="rect" id="node25" href="$d2/d9b/classorg_1_1apache_1_1lucene_1_1index_1_1_segment_info.html" title="Information about a segment such as its name, directory, and files related to the segment..." alt="" coords="865,607,1036,648"/>
+<area shape="rect" id="node26" href="$dc/d5b/classorg_1_1apache_1_1lucene_1_1util_1_1_version.html" title="Use by certain classes to match version compatibility across releases of Lucene. " alt="" coords="425,886,627,913"/>
+</map>

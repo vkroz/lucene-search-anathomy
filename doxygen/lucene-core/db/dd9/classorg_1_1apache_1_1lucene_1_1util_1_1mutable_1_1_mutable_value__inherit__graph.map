@@ -1,0 +1,9 @@
+<map id="org.apache.lucene.util.mutable.MutableValue" name="org.apache.lucene.util.mutable.MutableValue">
+<area shape="rect" id="node3" href="$d7/d80/classorg_1_1apache_1_1lucene_1_1util_1_1mutable_1_1_mutable_value_bool.html" title="MutableValue implementation of type boolean. " alt="" coords="507,5,713,47"/>
+<area shape="rect" id="node4" href="$df/dec/classorg_1_1apache_1_1lucene_1_1util_1_1mutable_1_1_mutable_value_double.html" title="MutableValue implementation of type double. " alt="" coords="507,71,713,112"/>
+<area shape="rect" id="node5" href="$d8/d24/classorg_1_1apache_1_1lucene_1_1util_1_1mutable_1_1_mutable_value_float.html" title="MutableValue implementation of type float. " alt="" coords="507,136,713,177"/>
+<area shape="rect" id="node6" href="$d7/da4/classorg_1_1apache_1_1lucene_1_1util_1_1mutable_1_1_mutable_value_int.html" title="MutableValue implementation of type int. " alt="" coords="507,201,713,243"/>
+<area shape="rect" id="node7" href="$de/d28/classorg_1_1apache_1_1lucene_1_1util_1_1mutable_1_1_mutable_value_long.html" title="MutableValue implementation of type long. " alt="" coords="507,267,713,308"/>
+<area shape="rect" id="node9" href="$dd/dc6/classorg_1_1apache_1_1lucene_1_1util_1_1mutable_1_1_mutable_value_str.html" title="MutableValue implementation of type String. " alt="" coords="507,332,713,373"/>
+<area shape="rect" id="node8" href="$de/d42/classorg_1_1apache_1_1lucene_1_1util_1_1mutable_1_1_mutable_value_date.html" title="MutableValue implementation of type Date. " alt="" coords="761,267,968,308"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="org.apache.lucene.index.CodecReader" name="org.apache.lucene.index.CodecReader">
+<area shape="rect" id="node6" href="$da/d14/classorg_1_1apache_1_1lucene_1_1index_1_1_filter_codec_reader.html" title="A FilterCodecReader contains another CodecReader, which it uses as its basic source of data..." alt="" coords="849,13,1020,54"/>
+<area shape="rect" id="node8" href="$dd/d50/classorg_1_1apache_1_1lucene_1_1index_1_1_segment_reader.html" title="IndexReader implementation over a single segment. " alt="" coords="849,78,1020,119"/>
+<area shape="rect" id="node2" href="$dd/dd2/classorg_1_1apache_1_1lucene_1_1index_1_1_leaf_reader.html" title="org.apache.lucene.index.\lLeafReader" alt="" coords="383,17,553,58"/>
+<area shape="rect" id="node3" href="$df/de9/classorg_1_1apache_1_1lucene_1_1index_1_1_index_reader.html" title=" IndexReader is an abstract class, providing an interface for accessing a point&#45;in&#45;time view of an in..." alt="" coords="135,17,305,58"/>
+<area shape="rect" id="node5" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="353,83,583,109"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.search.TopDocs" name="org.apache.lucene.search.TopDocs">
+<area shape="rect" id="node2" href="$d1/d4f/classorg_1_1apache_1_1lucene_1_1search_1_1_total_hits.html" title="Description of the total number of hits of a query. " alt="" coords="5,109,184,151"/>
+<area shape="rect" id="node3" href="$d0/da4/enumorg_1_1apache_1_1lucene_1_1search_1_1_total_hits_1_1_relation.html" title="How the TotalHits#value should be interpreted. " alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node4" href="$d3/d1c/classorg_1_1apache_1_1lucene_1_1search_1_1_score_doc.html" title="Holds one hit in TopDocs. " alt="" coords="208,109,387,151"/>
+</map>

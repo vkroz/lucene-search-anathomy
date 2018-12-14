@@ -1,0 +1,8 @@
+<map id="org.apache.lucene.util.automaton.CompiledAutomaton" name="org.apache.lucene.util.automaton.CompiledAutomaton">
+<area shape="rect" id="node2" href="$d1/ddb/classorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_automaton.html" title="Represents an automaton and all its states and transitions. " alt="" coords="284,18,507,59"/>
+<area shape="rect" id="node9" href="$d0/da5/classorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_run_automaton.html" title="Finite&#45;state automaton with fast run operation. " alt="" coords="623,47,845,89"/>
+<area shape="rect" id="node3" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="5,25,235,52"/>
+<area shape="rect" id="node4" href="$dc/d68/enumorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_compiled_automaton_1_1_a_u_t_o_m_a_t_o_n___t_y_p_e.html" title="Automata are compiled into different internal forms for the most efficient execution depending upon t..." alt="" coords="961,113,1235,154"/>
+<area shape="rect" id="node5" href="$db/db3/classorg_1_1apache_1_1lucene_1_1util_1_1_bytes_ref.html" title="Represents byte[], as a slice (offset + length) into an existing byte[]. " alt="" coords="993,179,1203,205"/>
+<area shape="rect" id="node8" href="$d3/d4c/classorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_byte_run_automaton.html" title="Automaton representation for matching UTF&#45;8 byte[]. " alt="" coords="987,47,1209,89"/>
+</map>

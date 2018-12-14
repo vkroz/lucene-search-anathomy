@@ -1,0 +1,13 @@
+<map id="org.apache.lucene.index.IndexReader" name="org.apache.lucene.index.IndexReader">
+<area shape="rect" id="node3" href="$d0/d2f/classorg_1_1apache_1_1lucene_1_1index_1_1_composite_reader.html" title=" Instances of this reader type can only be used to get stored fields from the underlying LeafReaders..." alt="" coords="353,51,524,93"/>
+<area shape="rect" id="node5" href="$dd/dd2/classorg_1_1apache_1_1lucene_1_1index_1_1_leaf_reader.html" title="org.apache.lucene.index.\lLeafReader" alt="" coords="353,155,524,197"/>
+<area shape="rect" id="node4" href="$dd/df2/classorg_1_1apache_1_1lucene_1_1index_1_1_base_composite_reader.html" title="Base class for implementing CompositeReaders based on an array of sub&#45;readers. " alt="" coords="572,5,753,61"/>
+<area shape="rect" id="node6" href="$d7/deb/classorg_1_1apache_1_1lucene_1_1index_1_1_codec_reader.html" title="LeafReader implemented by codec APIs. " alt="" coords="577,86,748,127"/>
+<area shape="rect" id="node10" href="$df/d2d/classorg_1_1apache_1_1lucene_1_1index_1_1_filter_leaf_reader.html" title="A FilterLeafReader contains another LeafReader, which it uses as its basic source of data..." alt="" coords="577,155,748,197"/>
+<area shape="rect" id="node14" title="This is a hack to make index sorting fast, with a LeafReader that always returns merge instances when..." alt="" coords="577,221,748,262"/>
+<area shape="rect" id="node15" href="$db/d12/classorg_1_1apache_1_1lucene_1_1index_1_1_parallel_leaf_reader.html" title="An LeafReader which reads multiple, parallel indexes. " alt="" coords="577,286,748,327"/>
+<area shape="rect" id="node7" href="$da/d14/classorg_1_1apache_1_1lucene_1_1index_1_1_filter_codec_reader.html" title="A FilterCodecReader contains another CodecReader, which it uses as its basic source of data..." alt="" coords="837,17,1008,58"/>
+<area shape="rect" id="node9" href="$dd/d50/classorg_1_1apache_1_1lucene_1_1index_1_1_segment_reader.html" title="IndexReader implementation over a single segment. " alt="" coords="837,82,1008,123"/>
+<area shape="rect" id="node11" title="Wrapper class for another FilterAtomicReader. " alt="" coords="814,148,1031,204"/>
+<area shape="rect" id="node13" title="An org.apache.lucene.index.LeafReader which supports sorting documents by a given Sort..." alt="" coords="837,309,1008,350"/>
+</map>

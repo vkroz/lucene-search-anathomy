@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.util.automaton.ByteRunAutomaton" name="org.apache.lucene.util.automaton.ByteRunAutomaton">
+<area shape="rect" id="node2" href="$d0/da5/classorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_run_automaton.html" title="Finite&#45;state automaton with fast run operation. " alt="" coords="9,185,231,227"/>
+<area shape="rect" id="node3" href="$d1/ddb/classorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_automaton.html" title="Represents an automaton and all its states and transitions. " alt="" coords="9,81,231,123"/>
+<area shape="rect" id="node4" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="5,5,235,32"/>
+</map>

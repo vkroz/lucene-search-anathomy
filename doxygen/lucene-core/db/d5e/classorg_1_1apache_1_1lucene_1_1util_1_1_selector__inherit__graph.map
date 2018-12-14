@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.util.Selector" name="org.apache.lucene.util.Selector">
+<area shape="rect" id="node2" href="$dd/d93/classorg_1_1apache_1_1lucene_1_1util_1_1_intro_selector.html" title="Implementation of the quick select algorithm. " alt="" coords="5,80,188,121"/>
+<area shape="rect" id="node3" href="$d9/d49/classorg_1_1apache_1_1lucene_1_1util_1_1_radix_selector.html" title="Radix selector. " alt="" coords="212,80,403,121"/>
+</map>

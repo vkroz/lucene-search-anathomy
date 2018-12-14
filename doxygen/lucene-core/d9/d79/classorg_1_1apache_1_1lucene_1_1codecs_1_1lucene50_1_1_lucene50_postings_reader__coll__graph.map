@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.codecs.lucene50.Lucene50PostingsReader" name="org.apache.lucene.codecs.lucene50.Lucene50PostingsReader">
+<area shape="rect" id="node2" href="$d3/da0/classorg_1_1apache_1_1lucene_1_1codecs_1_1_postings_reader_base.html" title="The core terms dictionaries (BlockTermsReader, BlockTreeTermsReader) interact with a single instance ..." alt="" coords="313,23,494,65"/>
+<area shape="rect" id="node4" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="5,56,235,83"/>
+<area shape="rect" id="node5" title="Encode all values in normal area with fixed bit width, which is determined by the max value in this b..." alt="" coords="284,89,523,130"/>
+</map>

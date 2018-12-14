@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.analysis.standard.StandardAnalyzer" name="org.apache.lucene.analysis.standard.StandardAnalyzer">
+<area shape="rect" id="node2" href="$de/ddb/classorg_1_1apache_1_1lucene_1_1analysis_1_1_stopword_analyzer_base.html" title="Base class for Analyzers that need to make use of stopword sets. " alt="" coords="33,169,220,211"/>
+<area shape="rect" id="node3" href="$d6/d78/classorg_1_1apache_1_1lucene_1_1analysis_1_1_analyzer.html" title="An Analyzer builds TokenStreams, which analyze text. " alt="" coords="33,80,220,121"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.index.OneMergeWrappingMergePolicy" name="org.apache.lucene.index.OneMergeWrappingMergePolicy">
+<area shape="rect" id="node4" href="$d5/d16/classorg_1_1apache_1_1lucene_1_1index_1_1_soft_deletes_retention_merge_policy.html" title="This MergePolicy allows to carry over soft deleted documents across merges. " alt="" coords="5,273,227,315"/>
+<area shape="rect" id="node2" href="$d5/d8a/classorg_1_1apache_1_1lucene_1_1index_1_1_filter_merge_policy.html" title="A wrapper for MergePolicy instances. " alt="" coords="31,95,201,136"/>
+<area shape="rect" id="node3" href="$d3/d42/classorg_1_1apache_1_1lucene_1_1index_1_1_merge_policy.html" title="org.apache.lucene.index.\lMergePolicy" alt="" coords="31,5,201,47"/>
+</map>

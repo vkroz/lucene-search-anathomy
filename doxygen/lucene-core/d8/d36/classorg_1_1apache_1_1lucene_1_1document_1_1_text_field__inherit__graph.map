@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.document.TextField" name="org.apache.lucene.document.TextField">
+<area shape="rect" id="node2" href="$d0/d8b/classorg_1_1apache_1_1lucene_1_1document_1_1_field.html" title="Expert: directly create a field for a document. " alt="" coords="5,95,203,136"/>
+<area shape="rect" id="node3" href="$dc/dce/interfaceorg_1_1apache_1_1lucene_1_1index_1_1_indexable_field.html" title="Represents a single field for indexing. " alt="" coords="19,5,189,47"/>
+</map>

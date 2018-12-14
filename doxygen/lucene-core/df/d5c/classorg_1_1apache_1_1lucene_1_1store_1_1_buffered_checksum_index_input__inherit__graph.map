@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.store.BufferedChecksumIndexInput" name="org.apache.lucene.store.BufferedChecksumIndexInput">
+<area shape="rect" id="node2" href="$d8/d51/classorg_1_1apache_1_1lucene_1_1store_1_1_checksum_index_input.html" title="Extension of IndexInput, computing checksum as it goes. " alt="" coords="23,259,193,300"/>
+<area shape="rect" id="node3" href="$d8/dbf/classorg_1_1apache_1_1lucene_1_1store_1_1_index_input.html" title="Abstract base class for input from a file in a Directory. " alt="" coords="23,169,193,211"/>
+<area shape="rect" id="node4" href="$d0/d58/classorg_1_1apache_1_1lucene_1_1store_1_1_data_input.html" title="Abstract base class for performing read operations of Lucene&#39;s low&#45;level data types. " alt="" coords="23,80,193,121"/>
+</map>

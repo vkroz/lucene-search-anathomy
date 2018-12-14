@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d6/d13/classorg_1_1apache_1_1lucene_1_1util_1_1_selector.html" title="An implementation of a selection algorithm, ie. " alt="" coords="5,46,211,73"/>
+<area shape="rect" id="node2" href="$dd/d93/classorg_1_1apache_1_1lucene_1_1util_1_1_intro_selector.html" title="Implementation of the quick select algorithm. " alt="" coords="263,5,445,47"/>
+<area shape="rect" id="node3" href="$d9/d49/classorg_1_1apache_1_1lucene_1_1util_1_1_radix_selector.html" title="Radix selector. " alt="" coords="259,71,449,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.index.LeafReaderContext" name="org.apache.lucene.index.LeafReaderContext">
+<area shape="rect" id="node2" href="$d7/dae/classorg_1_1apache_1_1lucene_1_1index_1_1_index_reader_context.html" title="A struct like class that represents a hierarchical relationship between IndexReader instances..." alt="" coords="159,5,329,47"/>
+<area shape="rect" id="node3" href="$de/d1a/classorg_1_1apache_1_1lucene_1_1index_1_1_composite_reader_context.html" title="IndexReaderContext for CompositeReader instance. " alt="" coords="200,109,376,151"/>
+</map>

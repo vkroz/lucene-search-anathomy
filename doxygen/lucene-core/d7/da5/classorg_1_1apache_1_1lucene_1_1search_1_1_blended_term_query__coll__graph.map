@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.search.BlendedTermQuery" name="org.apache.lucene.search.BlendedTermQuery">
+<area shape="rect" id="node2" href="$d7/d78/classorg_1_1apache_1_1lucene_1_1search_1_1_query.html" title="The abstract base class for queries. " alt="" coords="32,5,211,47"/>
+<area shape="rect" id="node3" title="A RewriteMethod defines how queries for individual terms should be merged. " alt="" coords="5,71,237,112"/>
+</map>

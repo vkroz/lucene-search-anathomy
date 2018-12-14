@@ -1,0 +1,26 @@
+<map id="org.apache.lucene.index.IndexWriter" name="org.apache.lucene.index.IndexWriter">
+<area shape="rect" id="node7" href="$dd/d43/classorg_1_1apache_1_1lucene_1_1util_1_1_info_stream.html" title="Debugging API for Lucene classes such as IndexWriter and SegmentInfos. " alt="" coords="181,811,360,853"/>
+<area shape="rect" id="node19" title="This class accepts multiple added documents and directly writes segment files. " alt="" coords="1151,379,1322,421"/>
+<area shape="rect" id="node38" href="$d1/d4e/classorg_1_1apache_1_1lucene_1_1index_1_1_merge_scheduler.html" title="org.apache.lucene.index.\lMergeScheduler" alt="" coords="677,733,848,774"/>
+<area shape="rect" id="node3" href="$de/d0f/interfaceorg_1_1apache_1_1lucene_1_1index_1_1_two_phase_commit.html" title="An interface for implementations that support 2&#45;phase commit. " alt="" coords="1151,1066,1322,1107"/>
+<area shape="rect" id="node4" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="156,185,385,212"/>
+<area shape="rect" id="node9" title="Tracks the stream of FrozenBufferedUpdates. " alt="" coords="925,151,1096,193"/>
+<area shape="rect" id="node20" title="This class controls DocumentsWriterPerThread flushing during indexing. " alt="" coords="663,379,863,421"/>
+<area shape="rect" id="node24" title="DocumentsWriterDeleteQueue is a non&#45;blocking linked pending deletes queue. " alt="" coords="661,262,865,303"/>
+<area shape="rect" id="node5" href="$d2/d9b/interfaceorg_1_1apache_1_1lucene_1_1index_1_1_merge_policy_1_1_merge_context.html" title="This interface represents the current context of the merge selection process. " alt="" coords="1145,1131,1328,1173"/>
+<area shape="rect" id="node26" title="FlushPolicy controls when segments are flushed from a RAM resident internal data&#45;structure to the Ind..." alt="" coords="677,927,848,969"/>
+<area shape="rect" id="node27" href="$d6/d17/classorg_1_1apache_1_1lucene_1_1index_1_1_live_index_writer_config.html" title="Holds all the configuration used by IndexWriter with few setters for settings that can be changed on ..." alt="" coords="1151,929,1322,970"/>
+<area shape="rect" id="node11" href="$d7/dd4/classorg_1_1apache_1_1lucene_1_1index_1_1_segment_infos.html" title="A collection of segmentInfo objects with methods for operating on those segments in relation to the f..." alt="" coords="1151,1406,1322,1447"/>
+<area shape="rect" id="node16" href="$d5/d8c/classorg_1_1apache_1_1lucene_1_1codecs_1_1_codec.html" title="Encodes/decodes an inverted index segment. " alt="" coords="672,562,853,603"/>
+<area shape="rect" id="node17" title="Interface to support NamedSPILoader#lookup(String) by name. " alt="" coords="136,521,405,577"/>
+<area shape="rect" id="node21" title="Controls the health status of a DocumentsWriter sessions. " alt="" coords="174,382,367,423"/>
+<area shape="rect" id="node23" title="DocumentsWriterPerThreadPool controls ThreadState instances and their thread assignments during index..." alt="" coords="655,497,870,538"/>
+<area shape="rect" id="node28" href="$d8/dcd/classorg_1_1apache_1_1lucene_1_1index_1_1_index_deletion_policy.html" title="org.apache.lucene.index.\lIndexDeletionPolicy" alt="" coords="677,862,848,903"/>
+<area shape="rect" id="node29" href="$d3/d42/classorg_1_1apache_1_1lucene_1_1index_1_1_merge_policy.html" title="org.apache.lucene.index.\lMergePolicy" alt="" coords="677,1175,848,1217"/>
+<area shape="rect" id="node30" href="$db/d21/classorg_1_1apache_1_1lucene_1_1search_1_1_sort.html" title="Encapsulates sort criteria for returned hits. " alt="" coords="661,681,865,708"/>
+<area shape="rect" id="node31" href="$de/d08/classorg_1_1apache_1_1lucene_1_1search_1_1_sort_field.html" title="Stores information about how to sort documents by terms in an individual field. " alt="" coords="181,655,360,697"/>
+<area shape="rect" id="node33" title="Specifies the open mode for IndexWriter. " alt="" coords="663,1045,862,1086"/>
+<area shape="rect" id="node34" href="$d9/dba/classorg_1_1apache_1_1lucene_1_1index_1_1_index_commit.html" title="org.apache.lucene.index.\lIndexCommit" alt="" coords="677,1358,848,1399"/>
+<area shape="rect" id="node36" href="$d6/dab/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_similarity.html" title="Similarity defines the components of Lucene scoring. " alt="" coords="640,1110,885,1151"/>
+<area shape="rect" id="node37" title="The IndexingChain must define the getChain(DocumentsWriterPerThread) method which returns the DocCons..." alt="" coords="624,1241,901,1282"/>
+</map>

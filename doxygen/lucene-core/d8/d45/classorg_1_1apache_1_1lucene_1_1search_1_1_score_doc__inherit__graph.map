@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.search.ScoreDoc" name="org.apache.lucene.search.ScoreDoc">
+<area shape="rect" id="node2" href="$db/db5/classorg_1_1apache_1_1lucene_1_1search_1_1_field_doc.html" title="Expert: A ScoreDoc which also contains information about how to sort the referenced document..." alt="" coords="256,5,435,47"/>
+<area shape="rect" id="node3" title="Extension of ScoreDoc to also store the FieldComparator slot. " alt="" coords="232,71,459,127"/>
+</map>

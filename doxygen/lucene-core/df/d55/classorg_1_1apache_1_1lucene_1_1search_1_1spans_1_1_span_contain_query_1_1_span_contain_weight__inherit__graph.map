@@ -1,0 +1,7 @@
+<map id="org.apache.lucene.search.spans.SpanContainQuery.SpanContainWeight" name="org.apache.lucene.search.spans.SpanContainQuery.SpanContainWeight">
+<area shape="rect" id="node5" href="$d7/d16/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_containing_query_1_1_span_containing_weight.html" title="org.apache.lucene.search.spans.\lSpanContainingQuery.SpanContainingWeight" alt="" coords="1031,5,1324,47"/>
+<area shape="rect" id="node6" href="$da/d4b/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_within_query_1_1_span_within_weight.html" title="org.apache.lucene.search.spans.\lSpanWithinQuery.SpanWithinWeight" alt="" coords="1057,71,1297,112"/>
+<area shape="rect" id="node2" href="$d7/d96/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_weight.html" title="Expert&#45;only. " alt="" coords="459,39,677,80"/>
+<area shape="rect" id="node3" href="$dd/df5/classorg_1_1apache_1_1lucene_1_1search_1_1_weight.html" title="Expert: Calculate query weights and build query scorers. " alt="" coords="232,39,411,80"/>
+<area shape="rect" id="node4" href="$db/d31/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_segment_cacheable.html" title="Interface defining whether or not an object can be cached against a LeafReader. " alt="" coords="5,39,184,80"/>
+</map>

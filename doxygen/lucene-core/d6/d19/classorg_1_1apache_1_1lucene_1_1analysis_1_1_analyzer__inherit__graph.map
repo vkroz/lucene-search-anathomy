@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.analysis.Analyzer" name="org.apache.lucene.analysis.Analyzer">
+<area shape="rect" id="node3" href="$d6/dd1/classorg_1_1apache_1_1lucene_1_1analysis_1_1_analyzer_wrapper.html" title="Extension to Analyzer suitable for Analyzers which wrap other Analyzers. " alt="" coords="369,5,556,47"/>
+<area shape="rect" id="node5" href="$de/ddb/classorg_1_1apache_1_1lucene_1_1analysis_1_1_stopword_analyzer_base.html" title="Base class for Analyzers that need to make use of stopword sets. " alt="" coords="369,71,556,112"/>
+<area shape="rect" id="node4" href="$d3/de2/classorg_1_1apache_1_1lucene_1_1analysis_1_1_delegating_analyzer_wrapper.html" title="An analyzer wrapper, that doesn&#39;t allow to wrap components or readers. " alt="" coords="631,5,820,47"/>
+<area shape="rect" id="node6" href="$de/d94/classorg_1_1apache_1_1lucene_1_1analysis_1_1standard_1_1_standard_analyzer.html" title="Filters StandardTokenizer with LowerCaseFilter and StopFilter, using a configurable list of stop word..." alt="" coords="604,71,847,112"/>
+</map>

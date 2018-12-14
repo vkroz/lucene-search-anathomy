@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.codecs.BlockTermState" name="org.apache.lucene.codecs.BlockTermState">
+<area shape="rect" id="node2" href="$d6/d6c/classorg_1_1apache_1_1lucene_1_1index_1_1_ord_term_state.html" title="An ordinal based TermState. " alt="" coords="11,169,181,211"/>
+<area shape="rect" id="node3" href="$d2/d71/classorg_1_1apache_1_1lucene_1_1index_1_1_term_state.html" title="Encapsulates all required internal state to position the associated TermsEnum without re&#45;seeking..." alt="" coords="11,80,181,121"/>
+</map>

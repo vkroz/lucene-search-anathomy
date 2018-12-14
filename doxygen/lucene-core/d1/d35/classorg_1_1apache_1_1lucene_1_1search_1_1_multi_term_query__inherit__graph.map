@@ -1,0 +1,9 @@
+<map id="org.apache.lucene.search.MultiTermQuery" name="org.apache.lucene.search.MultiTermQuery">
+<area shape="rect" id="node3" href="$d0/db8/classorg_1_1apache_1_1lucene_1_1search_1_1_automaton_query.html" title="A Query that will match terms against a finite&#45;state machine. " alt="" coords="459,104,637,145"/>
+<area shape="rect" id="node8" href="$de/dc5/classorg_1_1apache_1_1lucene_1_1search_1_1_fuzzy_query.html" title="Implements the fuzzy search query. " alt="" coords="459,169,637,211"/>
+<area shape="rect" id="node2" href="$d7/d78/classorg_1_1apache_1_1lucene_1_1search_1_1_query.html" title="The abstract base class for queries. " alt="" coords="5,137,184,179"/>
+<area shape="rect" id="node4" href="$db/d9a/classorg_1_1apache_1_1lucene_1_1search_1_1_prefix_query.html" title="A Query that matches documents containing terms with a specified prefix. " alt="" coords="685,5,864,47"/>
+<area shape="rect" id="node5" href="$d7/d36/classorg_1_1apache_1_1lucene_1_1search_1_1_regexp_query.html" title="A fast regular expression query based on the org.apache.lucene.util.automaton package. " alt="" coords="685,71,864,112"/>
+<area shape="rect" id="node6" href="$d2/d8f/classorg_1_1apache_1_1lucene_1_1search_1_1_term_range_query.html" title="A Query that matches documents within an range of terms. " alt="" coords="685,136,864,177"/>
+<area shape="rect" id="node7" href="$d4/d6a/classorg_1_1apache_1_1lucene_1_1search_1_1_wildcard_query.html" title="Implements the wildcard search query. " alt="" coords="685,201,864,243"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="org.apache.lucene.search.TopFieldCollector" name="org.apache.lucene.search.TopFieldCollector">
+<area shape="rect" id="node2" href="$d4/dbb/classorg_1_1apache_1_1lucene_1_1search_1_1_top_docs_collector.html" title="org.apache.lucene.search.\lTopDocsCollector\&lt; Entry \&gt;" alt="" coords="472,5,655,47"/>
+<area shape="rect" id="node3" href="$d3/de0/enumorg_1_1apache_1_1lucene_1_1search_1_1_score_mode.html" title="Different modes of search. " alt="" coords="474,71,653,112"/>
+<area shape="rect" id="node4" href="$d4/daa/classorg_1_1apache_1_1lucene_1_1search_1_1_field_value_hit_queue.html" title="Expert: A hit queue for sorting by hits by terms in more than one field. " alt="" coords="457,137,669,193"/>
+<area shape="rect" id="node5" href="$da/dfc/classorg_1_1apache_1_1lucene_1_1util_1_1_priority_queue.html" title="A PriorityQueue maintains a partial ordering of its elements such that the least element can always b..." alt="" coords="158,79,325,120"/>
+<area shape="rect" id="node7" href="$db/d2b/classorg_1_1apache_1_1lucene_1_1search_1_1_field_comparator.html" title="org.apache.lucene.search.\lFieldComparator\&lt;?\&gt;" alt="" coords="152,144,331,185"/>
+<area shape="rect" id="node8" href="$de/d08/classorg_1_1apache_1_1lucene_1_1search_1_1_sort_field.html" title="Stores information about how to sort documents by terms in an individual field. " alt="" coords="152,263,331,304"/>
+<area shape="rect" id="node9" href="$db/d2b/classorg_1_1apache_1_1lucene_1_1search_1_1_field_comparator.html" title="Expert: a FieldComparator compares hits so as to determine their sort order when collecting the top r..." alt="" coords="474,217,653,259"/>
+</map>

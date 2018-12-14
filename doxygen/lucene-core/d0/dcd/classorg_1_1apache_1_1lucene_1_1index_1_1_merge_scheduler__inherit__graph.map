@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.index.MergeScheduler" name="org.apache.lucene.index.MergeScheduler">
+<area shape="rect" id="node3" href="$d3/d57/classorg_1_1apache_1_1lucene_1_1index_1_1_concurrent_merge_scheduler.html" title="A MergeScheduler that runs each merge using a separate thread. " alt="" coords="353,5,539,47"/>
+<area shape="rect" id="node4" href="$d6/da3/classorg_1_1apache_1_1lucene_1_1index_1_1_no_merge_scheduler.html" title="A MergeScheduler which never executes any merges. " alt="" coords="361,71,531,112"/>
+<area shape="rect" id="node5" href="$d9/d72/classorg_1_1apache_1_1lucene_1_1index_1_1_serial_merge_scheduler.html" title="A MergeScheduler that simply does each merge sequentially, using the current thread. " alt="" coords="361,136,531,177"/>
+</map>

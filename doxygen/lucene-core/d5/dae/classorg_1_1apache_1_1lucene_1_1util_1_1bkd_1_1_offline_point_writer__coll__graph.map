@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.util.bkd.OfflinePointWriter" name="org.apache.lucene.util.bkd.OfflinePointWriter">
+<area shape="rect" id="node2" href="$d2/d15/interfaceorg_1_1apache_1_1lucene_1_1util_1_1bkd_1_1_point_writer.html" title="Appends many points, and then at the end provides a PointReader to iterate those points. " alt="" coords="224,71,405,112"/>
+<area shape="rect" id="node4" href="$da/d29/classorg_1_1apache_1_1lucene_1_1store_1_1_index_output.html" title="A DataOutput for appending data to a file in a Directory. " alt="" coords="230,136,399,177"/>
+<area shape="rect" id="node6" href="$d3/dcb/classorg_1_1apache_1_1lucene_1_1store_1_1_directory.html" title="A. " alt="" coords="230,5,399,47"/>
+<area shape="rect" id="node5" href="$de/d31/classorg_1_1apache_1_1lucene_1_1store_1_1_data_output.html" title="Abstract base class for performing write operations of Lucene&#39;s low&#45;level data types. " alt="" coords="5,136,175,177"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="org.apache.lucene.analysis.tokenattributes.TermToBytesRefAttribute" name="org.apache.lucene.analysis.tokenattributes.TermToBytesRefAttribute">
+<area shape="rect" id="node3" href="$de/d4b/interfaceorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_bytes_term_attribute.html" title="This attribute can be used if you have the raw term bytes to be indexed. " alt="" coords="585,5,864,47"/>
+<area shape="rect" id="node4" href="$d0/d30/classorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_bytes_term_attribute_impl.html" title="Implementation class for BytesTermAttribute. " alt="" coords="912,32,1191,73"/>
+<area shape="rect" id="node5" href="$d5/d90/classorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_char_term_attribute_impl.html" title="Default implementation of CharTermAttribute. " alt="" coords="585,123,864,164"/>
+<area shape="rect" id="node2" href="$d9/de5/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_attribute.html" title="Base interface for attributes. " alt="" coords="5,71,211,98"/>
+<area shape="rect" id="node6" href="$d5/d1b/classorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_packed_token_attribute_impl.html" title="Default implementation of the common attributes used by Lucene: " alt="" coords="912,123,1191,164"/>
+</map>

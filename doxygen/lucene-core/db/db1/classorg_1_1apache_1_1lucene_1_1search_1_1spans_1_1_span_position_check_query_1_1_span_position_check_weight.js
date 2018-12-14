@@ -1,0 +1,4 @@
+var classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_position_check_query_1_1_span_position_check_weight =
+[
+    [ "isCacheable", "db/db1/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_position_check_query_1_1_span_position_check_weight.html#aa5c5aef557805616df9e936874871b50", null ]
+];

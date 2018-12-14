@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.util.bkd.OfflinePointReader" name="org.apache.lucene.util.bkd.OfflinePointReader">
+<area shape="rect" id="node2" href="$d7/d55/classorg_1_1apache_1_1lucene_1_1util_1_1bkd_1_1_point_reader.html" title="One pass iterator through all points previously written with a PointWriter, abstracting away whether ..." alt="" coords="5,172,187,213"/>
+<area shape="rect" id="node4" href="$d8/dbf/classorg_1_1apache_1_1lucene_1_1store_1_1_index_input.html" title="Abstract base class for input from a file in a Directory. " alt="" coords="211,172,381,213"/>
+<area shape="rect" id="node5" href="$d0/d58/classorg_1_1apache_1_1lucene_1_1store_1_1_data_input.html" title="Abstract base class for performing read operations of Lucene&#39;s low&#45;level data types. " alt="" coords="311,81,481,123"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d8/d2a/classorg_1_1apache_1_1lucene_1_1search_1_1_reference_manager.html" title="org.apache.lucene.search.\lReferenceManager\&lt; IndexSearcher \&gt;" alt="" coords="5,5,251,47"/>
+<area shape="rect" id="node2" href="$d7/d54/classorg_1_1apache_1_1lucene_1_1search_1_1_searcher_manager.html" title="Utility class to safely share IndexSearcher instances across multiple threads, while periodically reo..." alt="" coords="299,5,477,47"/>
+</map>

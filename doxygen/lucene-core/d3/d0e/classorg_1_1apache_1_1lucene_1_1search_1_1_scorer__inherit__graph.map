@@ -1,0 +1,16 @@
+<map id="org.apache.lucene.search.Scorer" name="org.apache.lucene.search.Scorer">
+<area shape="rect" id="node3" title="Scorer for conjunctions that checks the maximum scores of each clause in order to potentially skip ov..." alt="" coords="473,5,663,47"/>
+<area shape="rect" id="node4" title="Scorer for conjunctions, sets of queries, all of which are required. " alt="" coords="479,71,657,112"/>
+<area shape="rect" id="node5" href="$df/dcc/classorg_1_1apache_1_1lucene_1_1search_1_1_constant_score_scorer.html" title="A constant&#45;scoring Scorer. " alt="" coords="479,136,657,177"/>
+<area shape="rect" id="node6" title="Base class for Scorers that score disjunctions. " alt="" coords="479,201,657,243"/>
+<area shape="rect" id="node9" href="$d2/dd2/classorg_1_1apache_1_1lucene_1_1search_1_1_filter_scorer.html" title="A. " alt="" coords="479,267,657,308"/>
+<area shape="rect" id="node10" title="A Scorer for BooleanQuery when minShouldMatch is between 2 and the total number of clauses..." alt="" coords="474,332,662,373"/>
+<area shape="rect" id="node12" title="A Scorer for queries with a required subscorer and an excluding (prohibited) sub Scorer. " alt="" coords="479,463,657,504"/>
+<area shape="rect" id="node13" title="A Scorer for queries with a required part and an optional part. " alt="" coords="479,528,657,569"/>
+<area shape="rect" id="node14" href="$d9/d55/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_scorer.html" title="A basic Scorer over Spans. " alt="" coords="459,593,677,635"/>
+<area shape="rect" id="node15" title="Expert: A Scorer for documents matching a Term. " alt="" coords="479,659,657,700"/>
+<area shape="rect" id="node16" title="This implements the WAND (Weak AND) algorithm for dynamic pruning described in &quot;Efficient Query Evalu..." alt="" coords="479,724,657,765"/>
+<area shape="rect" id="node2" href="$dc/dfb/classorg_1_1apache_1_1lucene_1_1search_1_1_scorable.html" title="Allows access to the score of a Query. " alt="" coords="5,365,184,407"/>
+<area shape="rect" id="node7" title="The Scorer for DisjunctionMaxQuery. " alt="" coords="725,169,904,211"/>
+<area shape="rect" id="node8" title="A Scorer for OR like queries, counterpart of ConjunctionScorer. " alt="" coords="725,235,904,276"/>
+</map>

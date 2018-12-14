@@ -1,0 +1,7 @@
+<map id="org.apache.lucene.store.RAMFile" name="org.apache.lucene.store.RAMFile">
+<area shape="rect" id="node2" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="435,5,664,32"/>
+<area shape="rect" id="node4" href="$d3/da0/classorg_1_1apache_1_1lucene_1_1store_1_1_r_a_m_directory.html" title="A memory&#45;resident Directory implementation. " alt="" coords="793,65,963,106"/>
+<area shape="rect" id="node5" href="$d0/d8a/classorg_1_1apache_1_1lucene_1_1store_1_1_base_directory.html" title="Base implementation for a concrete Directory that uses a LockFactory for locking. ..." alt="" coords="465,57,634,98"/>
+<area shape="rect" id="node6" href="$d3/dcb/classorg_1_1apache_1_1lucene_1_1store_1_1_directory.html" title="A. " alt="" coords="136,17,305,58"/>
+<area shape="rect" id="node8" href="$d5/dac/classorg_1_1apache_1_1lucene_1_1store_1_1_lock_factory.html" title="org.apache.lucene.store.\lLockFactory" alt="" coords="136,82,305,123"/>
+</map>

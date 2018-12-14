@@ -1,0 +1,11 @@
+<map id="org.apache.lucene.analysis.TokenStream" name="org.apache.lucene.analysis.TokenStream">
+<area shape="rect" id="node4" href="$d4/d9f/classorg_1_1apache_1_1lucene_1_1analysis_1_1_token_filter.html" title="A TokenFilter is a TokenStream whose input is another TokenStream. " alt="" coords="493,136,680,177"/>
+<area shape="rect" id="node10" href="$d7/dc6/classorg_1_1apache_1_1lucene_1_1analysis_1_1_tokenizer.html" title="A Tokenizer is a TokenStream whose input is a Reader. " alt="" coords="493,233,680,275"/>
+<area shape="rect" id="node2" href="$dc/d09/classorg_1_1apache_1_1lucene_1_1util_1_1_attribute_source.html" title="An AttributeSource contains a list of different AttributeImpls, and methods to add and get them..." alt="" coords="5,172,211,213"/>
+<area shape="rect" id="node5" href="$d0/d0d/classorg_1_1apache_1_1lucene_1_1analysis_1_1_caching_token_filter.html" title="This class can be used if the token attributes of a TokenStream are intended to be consumed more than..." alt="" coords="756,5,943,47"/>
+<area shape="rect" id="node6" href="$dd/d79/classorg_1_1apache_1_1lucene_1_1analysis_1_1_filtering_token_filter.html" title="Abstract base class for TokenFilters that may remove tokens. " alt="" coords="756,71,943,112"/>
+<area shape="rect" id="node8" href="$d8/d50/classorg_1_1apache_1_1lucene_1_1analysis_1_1_graph_token_filter.html" title="An abstract TokenFilter that exposes its input stream as a graph. " alt="" coords="756,136,943,177"/>
+<area shape="rect" id="node9" href="$df/d8c/classorg_1_1apache_1_1lucene_1_1analysis_1_1_lower_case_filter.html" title="Normalizes token text to lower case. " alt="" coords="756,201,943,243"/>
+<area shape="rect" id="node7" href="$d8/dbd/classorg_1_1apache_1_1lucene_1_1analysis_1_1_stop_filter.html" title="Removes stop words from a token stream. " alt="" coords="1019,71,1205,112"/>
+<area shape="rect" id="node11" href="$de/dcb/classorg_1_1apache_1_1lucene_1_1analysis_1_1standard_1_1_standard_tokenizer.html" title="A grammar&#45;based tokenizer constructed with JFlex. " alt="" coords="728,267,971,308"/>
+</map>

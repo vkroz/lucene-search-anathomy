@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.analysis.tokenattributes.OffsetAttribute" name="org.apache.lucene.analysis.tokenattributes.OffsetAttribute">
+<area shape="rect" id="node3" href="$d6/d5d/classorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_offset_attribute_impl.html" title="Default implementation of OffsetAttribute. " alt="" coords="585,5,864,47"/>
+<area shape="rect" id="node4" href="$d5/d1b/classorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_packed_token_attribute_impl.html" title="Default implementation of the common attributes used by Lucene: " alt="" coords="585,71,864,112"/>
+<area shape="rect" id="node2" href="$d9/de5/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_attribute.html" title="Base interface for attributes. " alt="" coords="5,46,211,73"/>
+</map>

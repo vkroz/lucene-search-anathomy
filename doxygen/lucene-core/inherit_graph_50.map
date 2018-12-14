@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d8/dcd/classorg_1_1apache_1_1lucene_1_1index_1_1_index_deletion_policy.html" title="org.apache.lucene.index.\lIndexDeletionPolicy" alt="" coords="5,71,176,112"/>
+<area shape="rect" id="node2" href="$da/df8/classorg_1_1apache_1_1lucene_1_1index_1_1_keep_only_last_commit_deletion_policy.html" title="This IndexDeletionPolicy implementation that keeps only the most recent commit and immediately remove..." alt="" coords="224,5,460,47"/>
+<area shape="rect" id="node3" href="$d1/df2/classorg_1_1apache_1_1lucene_1_1index_1_1_no_deletion_policy.html" title="An IndexDeletionPolicy which keeps all index commits around, never deleting them. ..." alt="" coords="257,71,427,112"/>
+<area shape="rect" id="node4" href="$d7/dd2/classorg_1_1apache_1_1lucene_1_1index_1_1_snapshot_deletion_policy.html" title="An IndexDeletionPolicy that wraps any other IndexDeletionPolicy and adds the ability to hold and late..." alt="" coords="257,136,427,177"/>
+<area shape="rect" id="node5" href="$dd/dc0/classorg_1_1apache_1_1lucene_1_1index_1_1_persistent_snapshot_deletion_policy.html" title="A SnapshotDeletionPolicy which adds a persistence layer so that snapshots can be maintained across th..." alt="" coords="508,136,731,177"/>
+</map>

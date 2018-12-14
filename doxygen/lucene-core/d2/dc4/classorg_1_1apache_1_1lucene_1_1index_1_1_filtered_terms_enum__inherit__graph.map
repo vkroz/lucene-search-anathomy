@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.index.FilteredTermsEnum" name="org.apache.lucene.index.FilteredTermsEnum">
+<area shape="rect" id="node5" href="$db/d23/classorg_1_1apache_1_1lucene_1_1index_1_1_automaton_terms_enum.html" title="A FilteredTermsEnum that enumerates terms based upon what is accepted by a DFA. " alt="" coords="704,86,875,127"/>
+<area shape="rect" id="node6" href="$dd/d08/classorg_1_1apache_1_1lucene_1_1index_1_1_single_terms_enum.html" title="Subclass of FilteredTermsEnum for enumerating a single term. " alt="" coords="704,151,875,193"/>
+<area shape="rect" id="node2" href="$dd/dc5/classorg_1_1apache_1_1lucene_1_1index_1_1_terms_enum.html" title="Iterator to seek (seekCeil(BytesRef), seekExact(BytesRef)) or step through (next terms to obtain freq..." alt="" coords="243,86,413,127"/>
+<area shape="rect" id="node3" href="$d6/d4e/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_bytes_ref_iterator.html" title="A simple iterator interface for BytesRef iteration. " alt="" coords="5,86,195,127"/>
+</map>

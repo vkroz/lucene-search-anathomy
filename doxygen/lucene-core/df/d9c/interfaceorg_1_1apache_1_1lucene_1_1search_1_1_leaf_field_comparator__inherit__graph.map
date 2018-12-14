@@ -1,0 +1,9 @@
+<map id="org.apache.lucene.search.LeafFieldComparator" name="org.apache.lucene.search.LeafFieldComparator">
+<area shape="rect" id="node2" title="Compares documents by distance from an origin point. " alt="" coords="263,5,479,47"/>
+<area shape="rect" id="node3" title="Sorts by ascending docID. " alt="" coords="245,71,496,112"/>
+<area shape="rect" id="node4" title="Sorts by descending relevance. " alt="" coords="261,137,480,193"/>
+<area shape="rect" id="node5" title="Sorts by field&#39;s natural Term sort order, using ordinals. " alt="" coords="256,217,485,273"/>
+<area shape="rect" id="node6" title="Sorts by field&#39;s natural Term sort order. " alt="" coords="232,297,509,339"/>
+<area shape="rect" id="node8" href="$db/d09/classorg_1_1apache_1_1lucene_1_1search_1_1_simple_field_comparator.html" title="Base FieldComparator implementation that is used for all contexts. " alt="" coords="274,428,467,469"/>
+<area shape="rect" id="node9" title="Base FieldComparator class for numeric types. " alt="" coords="557,421,737,477"/>
+</map>

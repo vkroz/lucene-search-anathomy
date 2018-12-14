@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.codecs.lucene50.Lucene50PostingsFormat" name="org.apache.lucene.codecs.lucene50.Lucene50PostingsFormat">
+<area shape="rect" id="node2" href="$d0/dfd/classorg_1_1apache_1_1lucene_1_1codecs_1_1_postings_format.html" title="Encodes/decodes terms, postings, and proximity data. " alt="" coords="323,13,504,54"/>
+<area shape="rect" id="node3" title="Interface to support NamedSPILoader#lookup(String) by name. " alt="" coords="5,5,275,61"/>
+</map>

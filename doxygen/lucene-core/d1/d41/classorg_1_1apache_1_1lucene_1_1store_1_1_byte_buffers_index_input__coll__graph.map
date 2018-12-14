@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.store.ByteBuffersIndexInput" name="org.apache.lucene.store.ByteBuffersIndexInput">
+<area shape="rect" id="node2" href="$d8/dbf/classorg_1_1apache_1_1lucene_1_1store_1_1_index_input.html" title="Abstract base class for input from a file in a Directory. " alt="" coords="23,169,193,211"/>
+<area shape="rect" id="node3" href="$d0/d58/classorg_1_1apache_1_1lucene_1_1store_1_1_data_input.html" title="Abstract base class for performing read operations of Lucene&#39;s low&#45;level data types. " alt="" coords="23,80,193,121"/>
+<area shape="rect" id="node6" href="$d0/d78/interfaceorg_1_1apache_1_1lucene_1_1store_1_1_random_access_input.html" title="Random Access Index API. " alt="" coords="217,169,386,211"/>
+</map>

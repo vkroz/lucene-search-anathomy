@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.search.similarities.LMDirichletSimilarity" name="org.apache.lucene.search.similarities.LMDirichletSimilarity">
+<area shape="rect" id="node2" href="$de/d54/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_l_m_similarity.html" title="Abstract superclass for language modeling Similarities. " alt="" coords="689,53,935,95"/>
+<area shape="rect" id="node3" href="$d9/d9c/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_similarity_base.html" title="A subclass of. " alt="" coords="300,5,545,47"/>
+<area shape="rect" id="node4" href="$d6/dab/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_similarity.html" title="Similarity defines the components of Lucene scoring. " alt="" coords="5,5,251,47"/>
+<area shape="rect" id="node5" title="A strategy for computing the collection language model. " alt="" coords="300,71,545,112"/>
+</map>

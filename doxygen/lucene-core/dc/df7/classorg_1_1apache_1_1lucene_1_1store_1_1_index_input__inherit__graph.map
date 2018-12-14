@@ -1,0 +1,13 @@
+<map id="org.apache.lucene.store.IndexInput" name="org.apache.lucene.store.IndexInput">
+<area shape="rect" id="node5" href="$d2/df7/classorg_1_1apache_1_1lucene_1_1store_1_1_buffered_index_input.html" title="Base implementation class for buffered IndexInput. " alt="" coords="571,71,740,112"/>
+<area shape="rect" id="node8" title="Base IndexInput implementation that uses an array of ByteBuffers to represent a file. " alt="" coords="571,136,740,177"/>
+<area shape="rect" id="node11" href="$d2/daf/classorg_1_1apache_1_1lucene_1_1store_1_1_byte_buffers_index_input.html" title="An IndexInput implementing RandomAccessInput and backed by a ByteBuffersDataInput. " alt="" coords="571,201,740,243"/>
+<area shape="rect" id="node12" href="$d8/d51/classorg_1_1apache_1_1lucene_1_1store_1_1_checksum_index_input.html" title="Extension of IndexInput, computing checksum as it goes. " alt="" coords="571,267,740,308"/>
+<area shape="rect" id="node14" href="$dc/d58/classorg_1_1apache_1_1lucene_1_1store_1_1_r_a_m_input_stream.html" title="A memory&#45;resident IndexInput implementation. " alt="" coords="571,332,740,373"/>
+<area shape="rect" id="node2" href="$d0/d58/classorg_1_1apache_1_1lucene_1_1store_1_1_data_input.html" title="Abstract base class for performing read operations of Lucene&#39;s low&#45;level data types. " alt="" coords="136,201,305,243"/>
+<area shape="rect" id="node6" title="Reads bytes with FileChannel#read(ByteBuffer, long). " alt="" coords="805,5,1028,47"/>
+<area shape="rect" id="node7" title="Reads bytes with SeekableByteChannel#read(ByteBuffer). " alt="" coords="788,71,1045,112"/>
+<area shape="rect" id="node9" title="This class adds offset support to ByteBufferIndexInput, which is needed for slices. " alt="" coords="797,136,1036,177"/>
+<area shape="rect" id="node10" title="Optimization of ByteBufferIndexInput for when there is only one buffer. " alt="" coords="793,201,1041,243"/>
+<area shape="rect" id="node13" href="$d4/ded/classorg_1_1apache_1_1lucene_1_1store_1_1_buffered_checksum_index_input.html" title="Simple implementation of ChecksumIndexInput that wraps another input and delegates calls..." alt="" coords="818,267,1015,308"/>
+</map>

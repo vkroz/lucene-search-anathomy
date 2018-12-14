@@ -1,0 +1,14 @@
+<map id="org.apache.lucene.search.TermRangeQuery" name="org.apache.lucene.search.TermRangeQuery">
+<area shape="rect" id="node2" href="$d0/db8/classorg_1_1apache_1_1lucene_1_1search_1_1_automaton_query.html" title="A Query that will match terms against a finite&#45;state machine. " alt="" coords="1819,191,1997,233"/>
+<area shape="rect" id="node3" href="$de/d2d/classorg_1_1apache_1_1lucene_1_1search_1_1_multi_term_query.html" title="An abstract Query that matches documents containing a subset of terms provided by a FilteredTermsEnum..." alt="" coords="1513,102,1691,143"/>
+<area shape="rect" id="node4" href="$d7/d78/classorg_1_1apache_1_1lucene_1_1search_1_1_query.html" title="The abstract base class for queries. " alt="" coords="1009,102,1187,143"/>
+<area shape="rect" id="node5" title="Abstract class that defines how the query is rewritten. " alt="" coords="993,37,1203,78"/>
+<area shape="rect" id="node6" href="$df/d76/classorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_compiled_automaton.html" title="Immutable class holding compiled details for a given Automaton. " alt="" coords="1491,277,1713,318"/>
+<area shape="rect" id="node7" href="$d1/ddb/classorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_automaton.html" title="Represents an automaton and all its states and transitions. " alt="" coords="284,223,507,265"/>
+<area shape="rect" id="node14" href="$d0/da5/classorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_run_automaton.html" title="Finite&#45;state automaton with fast run operation. " alt="" coords="623,282,845,323"/>
+<area shape="rect" id="node8" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="5,231,235,257"/>
+<area shape="rect" id="node9" href="$dc/d68/enumorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_compiled_automaton_1_1_a_u_t_o_m_a_t_o_n___t_y_p_e.html" title="Automata are compiled into different internal forms for the most efficient execution depending upon t..." alt="" coords="961,347,1235,389"/>
+<area shape="rect" id="node10" href="$db/db3/classorg_1_1apache_1_1lucene_1_1util_1_1_bytes_ref.html" title="Represents byte[], as a slice (offset + length) into an existing byte[]. " alt="" coords="993,419,1203,445"/>
+<area shape="rect" id="node15" href="$d4/d58/classorg_1_1apache_1_1lucene_1_1index_1_1_term.html" title="A Term represents a word from text. " alt="" coords="1501,435,1703,461"/>
+<area shape="rect" id="node13" href="$d3/d4c/classorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_byte_run_automaton.html" title="Automaton representation for matching UTF&#45;8 byte[]. " alt="" coords="987,282,1209,323"/>
+</map>

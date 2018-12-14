@@ -1,0 +1,7 @@
+<map id="org.apache.lucene.search.similarities.DFRSimilarity" name="org.apache.lucene.search.similarities.DFRSimilarity">
+<area shape="rect" id="node2" href="$d9/d9c/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_similarity_base.html" title="A subclass of. " alt="" coords="300,5,545,47"/>
+<area shape="rect" id="node3" href="$d6/dab/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_similarity.html" title="Similarity defines the components of Lucene scoring. " alt="" coords="5,5,251,47"/>
+<area shape="rect" id="node4" href="$df/d48/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_after_effect.html" title="This class acts as the base class for the implementations of the first normalization of the informati..." alt="" coords="300,71,545,112"/>
+<area shape="rect" id="node5" href="$de/d37/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_basic_model.html" title="This class acts as the base class for the specific basic model implementations in the DFR framework..." alt="" coords="300,136,545,177"/>
+<area shape="rect" id="node6" href="$de/d20/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_normalization.html" title="This class acts as the base class for the implementations of the term frequency normalization methods..." alt="" coords="300,201,545,243"/>
+</map>

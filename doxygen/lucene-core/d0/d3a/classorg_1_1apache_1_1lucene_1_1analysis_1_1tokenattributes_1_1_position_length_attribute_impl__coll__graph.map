@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.analysis.tokenattributes.PositionLengthAttributeImpl" name="org.apache.lucene.analysis.tokenattributes.PositionLengthAttributeImpl">
+<area shape="rect" id="node2" href="$dd/da0/classorg_1_1apache_1_1lucene_1_1util_1_1_attribute_impl.html" title="Base class for Attributes that can be added to a org.apache.lucene.util.AttributeSource. " alt="" coords="283,31,513,57"/>
+<area shape="rect" id="node4" href="$d9/de5/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_attribute.html" title="Base interface for attributes. " alt="" coords="5,60,211,87"/>
+<area shape="rect" id="node5" href="$dc/df3/interfaceorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_position_length_attribute.html" title="Determines how many positions this token spans. " alt="" coords="259,82,537,123"/>
+</map>

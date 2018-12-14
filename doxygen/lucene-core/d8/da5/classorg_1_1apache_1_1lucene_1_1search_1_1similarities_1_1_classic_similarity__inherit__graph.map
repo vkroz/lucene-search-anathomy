@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.search.similarities.ClassicSimilarity" name="org.apache.lucene.search.similarities.ClassicSimilarity">
+<area shape="rect" id="node2" href="$d4/d01/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_t_f_i_d_f_similarity.html" title="Implementation of Similarity with the Vector Space Model. " alt="" coords="5,95,251,136"/>
+<area shape="rect" id="node3" href="$d6/dab/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_similarity.html" title="Similarity defines the components of Lucene scoring. " alt="" coords="5,5,251,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.index.StandardDirectoryReader" name="org.apache.lucene.index.StandardDirectoryReader">
+<area shape="rect" id="node2" href="$df/dfb/classorg_1_1apache_1_1lucene_1_1index_1_1_directory_reader.html" title="DirectoryReader is an implementation of CompositeReader that can read indexes in a Directory..." alt="" coords="46,95,217,136"/>
+<area shape="rect" id="node3" href="$dd/df2/classorg_1_1apache_1_1lucene_1_1index_1_1_base_composite_reader.html" title="org.apache.lucene.index.\lBaseCompositeReader\&lt; LeafReader \&gt;" alt="" coords="5,5,257,47"/>
+</map>

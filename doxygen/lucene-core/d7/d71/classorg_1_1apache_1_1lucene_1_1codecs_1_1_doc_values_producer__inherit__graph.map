@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.codecs.DocValuesProducer" name="org.apache.lucene.codecs.DocValuesProducer">
+<area shape="rect" id="node4" title="reader for Lucene70DocValuesFormat " alt="" coords="512,5,751,47"/>
+<area shape="rect" id="node5" href="$d9/d3b/classorg_1_1apache_1_1lucene_1_1index_1_1_empty_doc_values_producer.html" title="Abstrast base class implementing a DocValuesProducer that has no doc values. " alt="" coords="542,71,721,112"/>
+<area shape="rect" id="node6" title="Encapsulates multiple producers when there are docvalues updates as one producer. ..." alt="" coords="535,136,728,177"/>
+<area shape="rect" id="node3" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="5,103,235,130"/>
+</map>

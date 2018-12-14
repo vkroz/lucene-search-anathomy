@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.codecs.PostingsFormat" name="org.apache.lucene.codecs.PostingsFormat">
+<area shape="rect" id="node3" href="$da/d63/classorg_1_1apache_1_1lucene_1_1codecs_1_1lucene50_1_1_lucene50_postings_format.html" title="Lucene 5.0 postings format, which encodes postings in packed integer blocks for fast decode..." alt="" coords="552,5,791,47"/>
+<area shape="rect" id="node4" href="$d8/d70/classorg_1_1apache_1_1lucene_1_1codecs_1_1perfield_1_1_per_field_postings_format.html" title="Enables per field postings support. " alt="" coords="557,71,786,112"/>
+<area shape="rect" id="node2" title="Interface to support NamedSPILoader#lookup(String) by name. " alt="" coords="5,31,275,87"/>
+</map>

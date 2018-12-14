@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.search.BulkScorer" name="org.apache.lucene.search.BulkScorer">
+<area shape="rect" id="node2" title="BulkScorer that is used for pure disjunctions and disjunctions that have low values of BooleanQuery..." alt="" coords="257,5,436,47"/>
+<area shape="rect" id="node3" title="We return this as our BulkScorer so that if the CSQ wraps a query with its own optimized top&#45;level sc..." alt="" coords="232,71,461,127"/>
+<area shape="rect" id="node5" title="Just wraps a Scorer and performs top scoring using it. " alt="" coords="257,217,436,259"/>
+</map>

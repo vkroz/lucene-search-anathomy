@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.index.SingleTermsEnum" name="org.apache.lucene.index.SingleTermsEnum">
+<area shape="rect" id="node2" href="$d6/d25/classorg_1_1apache_1_1lucene_1_1index_1_1_filtered_terms_enum.html" title="Abstract class for enumerating a subset of all terms. " alt="" coords="59,200,229,241"/>
+<area shape="rect" id="node3" href="$dd/dc5/classorg_1_1apache_1_1lucene_1_1index_1_1_terms_enum.html" title="Iterator to seek (seekCeil(BytesRef), seekExact(BytesRef)) or step through (next terms to obtain freq..." alt="" coords="15,96,185,137"/>
+<area shape="rect" id="node4" href="$d6/d4e/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_bytes_ref_iterator.html" title="A simple iterator interface for BytesRef iteration. " alt="" coords="5,5,195,47"/>
+<area shape="rect" id="node5" href="$db/db3/classorg_1_1apache_1_1lucene_1_1util_1_1_bytes_ref.html" title="Represents byte[], as a slice (offset + length) into an existing byte[]. " alt="" coords="284,103,495,130"/>
+</map>

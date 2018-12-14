@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.search.FieldComparator&lt; T &gt;" name="org.apache.lucene.search.FieldComparator&lt; T &gt;">
+<area shape="rect" id="node2" title="Compares documents by distance from an origin point. " alt="" coords="247,5,465,61"/>
+<area shape="rect" id="node3" href="$db/d09/classorg_1_1apache_1_1lucene_1_1search_1_1_simple_field_comparator.html" title="Base FieldComparator implementation that is used for all contexts. " alt="" coords="232,86,480,127"/>
+<area shape="rect" id="node4" title="Base FieldComparator class for numeric types. " alt="" coords="528,79,708,135"/>
+</map>

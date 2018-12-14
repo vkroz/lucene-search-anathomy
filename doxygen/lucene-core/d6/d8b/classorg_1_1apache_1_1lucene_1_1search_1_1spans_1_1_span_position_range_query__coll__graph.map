@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.search.spans.SpanPositionRangeQuery" name="org.apache.lucene.search.spans.SpanPositionRangeQuery">
+<area shape="rect" id="node2" href="$d6/d16/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_position_check_query.html" title="Base class for filtering a SpanQuery based on the position of a match. " alt="" coords="49,200,268,241"/>
+<area shape="rect" id="node3" href="$d6/de7/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_query.html" title="Base class for span&#45;based queries. " alt="" coords="5,96,224,137"/>
+<area shape="rect" id="node4" href="$d7/d78/classorg_1_1apache_1_1lucene_1_1search_1_1_query.html" title="The abstract base class for queries. " alt="" coords="25,5,204,47"/>
+</map>

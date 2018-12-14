@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d6/d7c/classorg_1_1apache_1_1lucene_1_1search_1_1_doc_id_set_iterator.html" title="This abstract class defines methods to iterate over a set of non&#45;decreasing doc ids. " alt="" coords="5,235,184,276"/>
+<area shape="rect" id="node2" href="$d3/de8/classorg_1_1apache_1_1lucene_1_1index_1_1_postings_enum.html" title="Iterates through the postings. " alt="" coords="256,71,427,112"/>
+<area shape="rect" id="node6" href="$d9/d65/classorg_1_1apache_1_1lucene_1_1search_1_1_block_max_d_i_s_i.html" title="DocIdSetIterator that skips non&#45;competitive docs by checking the max score of the provided Scorer for..." alt="" coords="252,136,431,177"/>
+<area shape="rect" id="node7" href="$da/d77/classorg_1_1apache_1_1lucene_1_1search_1_1_conjunction_d_i_s_i.html" title="A conjunction of DocIdSetIterators. " alt="" coords="252,201,431,243"/>
+<area shape="rect" id="node8" href="$d3/db2/classorg_1_1apache_1_1lucene_1_1search_1_1_disjunction_d_i_s_i_approximation.html" title="A DocIdSetIterator which is a disjunction of the approximations of the provided iterators. " alt="" coords="242,267,441,308"/>
+<area shape="rect" id="node9" href="$d3/d89/classorg_1_1apache_1_1lucene_1_1search_1_1_filtered_doc_id_set_iterator.html" title="Abstract decorator class of a DocIdSetIterator implementation that provides on&#45;demand filter/validati..." alt="" coords="252,332,431,373"/>
+<area shape="rect" id="node10" href="$d1/da3/classorg_1_1apache_1_1lucene_1_1search_1_1_impacts_d_i_s_i.html" title="DocIdSetIterator that skips non&#45;competitive docs thanks to the indexed impacts. " alt="" coords="252,397,431,439"/>
+<area shape="rect" id="node11" href="$df/d6e/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_spans.html" title="Iterates through combinations of start/end positions per&#45;doc. " alt="" coords="232,528,451,569"/>
+<area shape="rect" id="node14" href="$df/d67/classorg_1_1apache_1_1lucene_1_1util_1_1_bit_set_iterator.html" title="A DocIdSetIterator which iterates over set bits in a bit set. " alt="" coords="255,5,427,47"/>
+<area shape="rect" id="node3" href="$d5/d3d/classorg_1_1apache_1_1lucene_1_1index_1_1_impacts_enum.html" title="Extension of PostingsEnum which also provides information about upcoming impacts. ..." alt="" coords="523,283,693,324"/>
+<area shape="rect" id="node5" href="$da/d19/classorg_1_1apache_1_1lucene_1_1index_1_1_multi_postings_enum.html" title="Exposes PostingsEnum, merged from PostingsEnum API of sub&#45;segments. " alt="" coords="523,71,693,112"/>
+<area shape="rect" id="node4" href="$d6/deb/classorg_1_1apache_1_1lucene_1_1index_1_1_slow_impacts_enum.html" title="ImpactsEnum that doesn&#39;t index impacts but implements the API in a legal way. " alt="" coords="765,283,936,324"/>
+<area shape="rect" id="node12" href="$d0/db3/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_filter_spans.html" title="A Spans implementation wrapping another spans instance, allowing to filter spans matches easily by im..." alt="" coords="499,495,717,536"/>
+<area shape="rect" id="node13" href="$d0/d2c/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_term_spans.html" title="Expert: Public for extension only. " alt="" coords="499,560,717,601"/>
+<area shape="rect" id="node15" href="$d2/dd9/interfaceorg_1_1apache_1_1lucene_1_1index_1_1_impacts_source.html" title="Source of Impacts. " alt="" coords="256,463,427,504"/>
+</map>

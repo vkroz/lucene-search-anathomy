@@ -1,0 +1,3 @@
+<map id="org.apache.lucene.search.QueryCache" name="org.apache.lucene.search.QueryCache">
+<area shape="rect" id="node2" href="$d1/d04/classorg_1_1apache_1_1lucene_1_1search_1_1_l_r_u_query_cache.html" title="A QueryCache that evicts queries using a LRU (least&#45;recently&#45;used) eviction policy in order to remain..." alt="" coords="5,95,184,136"/>
+</map>

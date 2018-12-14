@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$db/d73/classorg_1_1apache_1_1lucene_1_1codecs_1_1_points_format.html" title="Encodes/decodes indexed points. " alt="" coords="5,5,187,47"/>
+<area shape="rect" id="node2" href="$d8/da9/classorg_1_1apache_1_1lucene_1_1codecs_1_1lucene60_1_1_lucene60_points_format.html" title="Lucene 6.0 point format, which encodes dimensional values in a block KD&#45;tree structure for fast 1D ra..." alt="" coords="235,5,473,47"/>
+</map>

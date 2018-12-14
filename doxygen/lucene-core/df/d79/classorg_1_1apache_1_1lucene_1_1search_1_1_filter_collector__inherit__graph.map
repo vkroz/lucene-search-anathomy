@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.search.FilterCollector" name="org.apache.lucene.search.FilterCollector">
+<area shape="rect" id="node3" href="$d4/dba/classorg_1_1apache_1_1lucene_1_1search_1_1_caching_collector.html" title="Caches all docs, and optionally also scores, coming from a search, and is then able to replay them to..." alt="" coords="465,5,643,47"/>
+<area shape="rect" id="node4" href="$df/d2d/classorg_1_1apache_1_1lucene_1_1search_1_1_positive_scores_only_collector.html" title="A Collector implementation which wraps another Collector and makes sure only documents with scores &gt; ..." alt="" coords="459,71,649,112"/>
+<area shape="rect" id="node2" href="$df/d39/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_collector.html" title="org.apache.lucene.search.\lCollector" alt="" coords="5,39,184,80"/>
+</map>

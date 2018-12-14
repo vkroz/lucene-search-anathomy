@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dc/d40/classorg_1_1apache_1_1lucene_1_1index_1_1_binary_doc_values.html" title="A per&#45;document numeric value. " alt="" coords="5,39,176,80"/>
+<area shape="rect" id="node2" href="$d5/d23/classorg_1_1apache_1_1lucene_1_1index_1_1_filter_binary_doc_values.html" title="Delegates all methods to a wrapped BinaryDocValues. " alt="" coords="224,5,395,47"/>
+<area shape="rect" id="node3" href="$d4/d9c/classorg_1_1apache_1_1lucene_1_1index_1_1_sorted_doc_values.html" title="A per&#45;document byte[] with presorted values. " alt="" coords="224,71,395,112"/>
+</map>

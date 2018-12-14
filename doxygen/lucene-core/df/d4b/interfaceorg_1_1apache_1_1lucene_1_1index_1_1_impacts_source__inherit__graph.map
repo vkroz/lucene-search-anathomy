@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.index.ImpactsSource" name="org.apache.lucene.index.ImpactsSource">
+<area shape="rect" id="node2" href="$d5/d3d/classorg_1_1apache_1_1lucene_1_1index_1_1_impacts_enum.html" title="Extension of PostingsEnum which also provides information about upcoming impacts. ..." alt="" coords="224,50,395,91"/>
+<area shape="rect" id="node4" href="$d6/deb/classorg_1_1apache_1_1lucene_1_1index_1_1_slow_impacts_enum.html" title="ImpactsEnum that doesn&#39;t index impacts but implements the API in a legal way. " alt="" coords="487,86,657,127"/>
+</map>

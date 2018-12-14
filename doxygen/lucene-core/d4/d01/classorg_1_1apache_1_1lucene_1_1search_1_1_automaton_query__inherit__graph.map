@@ -1,0 +1,8 @@
+<map id="org.apache.lucene.search.AutomatonQuery" name="org.apache.lucene.search.AutomatonQuery">
+<area shape="rect" id="node4" href="$db/d9a/classorg_1_1apache_1_1lucene_1_1search_1_1_prefix_query.html" title="A Query that matches documents containing terms with a specified prefix. " alt="" coords="685,5,864,47"/>
+<area shape="rect" id="node5" href="$d7/d36/classorg_1_1apache_1_1lucene_1_1search_1_1_regexp_query.html" title="A fast regular expression query based on the org.apache.lucene.util.automaton package. " alt="" coords="685,71,864,112"/>
+<area shape="rect" id="node6" href="$d2/d8f/classorg_1_1apache_1_1lucene_1_1search_1_1_term_range_query.html" title="A Query that matches documents within an range of terms. " alt="" coords="685,136,864,177"/>
+<area shape="rect" id="node7" href="$d4/d6a/classorg_1_1apache_1_1lucene_1_1search_1_1_wildcard_query.html" title="Implements the wildcard search query. " alt="" coords="685,201,864,243"/>
+<area shape="rect" id="node2" href="$de/d2d/classorg_1_1apache_1_1lucene_1_1search_1_1_multi_term_query.html" title="An abstract Query that matches documents containing a subset of terms provided by a FilteredTermsEnum..." alt="" coords="232,104,411,145"/>
+<area shape="rect" id="node3" href="$d7/d78/classorg_1_1apache_1_1lucene_1_1search_1_1_query.html" title="The abstract base class for queries. " alt="" coords="5,104,184,145"/>
+</map>

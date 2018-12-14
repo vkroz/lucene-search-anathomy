@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.search.LeafCollector" name="org.apache.lucene.search.LeafCollector">
+<area shape="rect" id="node3" href="$df/d42/classorg_1_1apache_1_1lucene_1_1search_1_1_filter_leaf_collector.html" title="LeafCollector delegator. " alt="" coords="255,71,434,112"/>
+<area shape="rect" id="node4" href="$d4/d8c/classorg_1_1apache_1_1lucene_1_1search_1_1_multi_collector_manager_1_1_collectors_1_1_leaf_collectors.html" title="org.apache.lucene.search.\lMultiCollectorManager.Collectors.\lLeafCollectors" alt="" coords="233,137,456,193"/>
+<area shape="rect" id="node5" href="$d0/d31/classorg_1_1apache_1_1lucene_1_1search_1_1_simple_collector.html" title="Base Collector implementation that is used to collect all contexts. " alt="" coords="255,217,434,259"/>
+<area shape="rect" id="node6" href="$de/d2e/classorg_1_1apache_1_1lucene_1_1search_1_1_total_hit_count_collector.html" title="Just counts the total number of hits. " alt="" coords="505,217,684,259"/>
+</map>

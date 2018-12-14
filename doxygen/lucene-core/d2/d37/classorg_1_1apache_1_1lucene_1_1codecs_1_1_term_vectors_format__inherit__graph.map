@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.codecs.TermVectorsFormat" name="org.apache.lucene.codecs.TermVectorsFormat">
+<area shape="rect" id="node2" href="$dc/dda/classorg_1_1apache_1_1lucene_1_1codecs_1_1compressing_1_1_compressing_term_vectors_format.html" title="A TermVectorsFormat that compresses chunks of documents together in order to improve the compression ..." alt="" coords="5,95,265,136"/>
+<area shape="rect" id="node3" href="$d9/d39/classorg_1_1apache_1_1lucene_1_1codecs_1_1lucene50_1_1_lucene50_term_vectors_format.html" title="Lucene 5.0 term vectors format. " alt="" coords="16,184,255,225"/>
+</map>

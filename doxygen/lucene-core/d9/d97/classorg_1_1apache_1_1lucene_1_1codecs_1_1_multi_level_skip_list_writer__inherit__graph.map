@@ -1,0 +1,3 @@
+<map id="org.apache.lucene.codecs.MultiLevelSkipListWriter" name="org.apache.lucene.codecs.MultiLevelSkipListWriter">
+<area shape="rect" id="node2" title="Write skip lists with multiple levels, and support skip within block ints. " alt="" coords="5,95,244,136"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.search.MaxNonCompetitiveBoostAttributeImpl" name="org.apache.lucene.search.MaxNonCompetitiveBoostAttributeImpl">
+<area shape="rect" id="node2" href="$dd/da0/classorg_1_1apache_1_1lucene_1_1util_1_1_attribute_impl.html" title="Base class for Attributes that can be added to a org.apache.lucene.util.AttributeSource. " alt="" coords="259,5,489,32"/>
+<area shape="rect" id="node4" href="$d9/de5/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_attribute.html" title="Base interface for attributes. " alt="" coords="5,60,211,87"/>
+<area shape="rect" id="node5" href="$d7/d2f/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_max_non_competitive_boost_attribute.html" title="Add this Attribute to a fresh AttributeSource before calling MultiTermQuery#getTermsEnum(Terms,AttributeSource). " alt="" coords="261,57,487,98"/>
+</map>

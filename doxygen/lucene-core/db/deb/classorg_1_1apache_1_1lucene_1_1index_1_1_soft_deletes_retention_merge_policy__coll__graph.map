@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.index.SoftDeletesRetentionMergePolicy" name="org.apache.lucene.index.SoftDeletesRetentionMergePolicy">
+<area shape="rect" id="node2" href="$dc/d16/classorg_1_1apache_1_1lucene_1_1index_1_1_one_merge_wrapping_merge_policy.html" title="A wrapping merge policy that wraps the org.apache.lucene.index.MergePolicy.OneMerge objects returned ..." alt="" coords="8,200,224,241"/>
+<area shape="rect" id="node3" href="$d5/d8a/classorg_1_1apache_1_1lucene_1_1index_1_1_filter_merge_policy.html" title="A wrapper for MergePolicy instances. " alt="" coords="31,109,201,151"/>
+<area shape="rect" id="node4" href="$d3/d42/classorg_1_1apache_1_1lucene_1_1index_1_1_merge_policy.html" title="org.apache.lucene.index.\lMergePolicy" alt="" coords="31,5,201,47"/>
+</map>

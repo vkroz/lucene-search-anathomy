@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.index.FilterMergePolicy" name="org.apache.lucene.index.FilterMergePolicy">
+<area shape="rect" id="node3" href="$dc/d16/classorg_1_1apache_1_1lucene_1_1index_1_1_one_merge_wrapping_merge_policy.html" title="A wrapping merge policy that wraps the org.apache.lucene.index.MergePolicy.OneMerge objects returned ..." alt="" coords="443,5,659,47"/>
+<area shape="rect" id="node5" href="$df/da9/classorg_1_1apache_1_1lucene_1_1index_1_1_upgrade_index_merge_policy.html" title="This MergePolicy is used for upgrading all existing segments of an index when calling IndexWriter#for..." alt="" coords="461,71,640,112"/>
+<area shape="rect" id="node2" href="$d3/d42/classorg_1_1apache_1_1lucene_1_1index_1_1_merge_policy.html" title="org.apache.lucene.index.\lMergePolicy" alt="" coords="5,39,176,80"/>
+<area shape="rect" id="node4" href="$d5/d16/classorg_1_1apache_1_1lucene_1_1index_1_1_soft_deletes_retention_merge_policy.html" title="This MergePolicy allows to carry over soft deleted documents across merges. " alt="" coords="707,5,928,47"/>
+</map>

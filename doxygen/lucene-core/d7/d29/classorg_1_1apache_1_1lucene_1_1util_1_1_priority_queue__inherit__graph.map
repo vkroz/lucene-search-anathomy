@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.util.PriorityQueue&lt; T &gt;" name="org.apache.lucene.util.PriorityQueue&lt; T &gt;">
+<area shape="rect" id="node5" href="$d4/daa/classorg_1_1apache_1_1lucene_1_1search_1_1_field_value_hit_queue.html" title="Expert: A hit queue for sorting by hits by terms in more than one field. " alt="" coords="397,195,623,236"/>
+<area shape="rect" id="node7" title="disjunction of postings ordered by docid. " alt="" coords="396,341,624,412"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="org.apache.lucene.search.DocIdSet" name="org.apache.lucene.search.DocIdSet">
+<area shape="rect" id="node3" title="Accumulator for documents that have a value for a field. " alt="" coords="525,5,696,47"/>
+<area shape="rect" id="node4" href="$d5/d65/classorg_1_1apache_1_1lucene_1_1util_1_1_bit_doc_id_set.html" title="Implementation of the DocIdSet interface on top of a BitSet. " alt="" coords="525,71,697,112"/>
+<area shape="rect" id="node6" href="$d1/ddb/classorg_1_1apache_1_1lucene_1_1util_1_1_not_doc_id_set.html" title="This DocIdSet encodes the negation of another DocIdSet. " alt="" coords="522,201,699,243"/>
+<area shape="rect" id="node7" href="$d9/dbb/classorg_1_1apache_1_1lucene_1_1util_1_1_roaring_doc_id_set.html" title="DocIdSet implementation inspired from http://roaringbitmap.org/ " alt="" coords="509,267,712,308"/>
+<area shape="rect" id="node2" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="5,143,235,170"/>
+</map>

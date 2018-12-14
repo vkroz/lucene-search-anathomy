@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$da/d65/classorg_1_1apache_1_1lucene_1_1search_1_1_rescorer.html" title="Re&#45;scores the topN results (TopDocs) from an original query. " alt="" coords="5,39,184,80"/>
+<area shape="rect" id="node2" href="$dd/d79/classorg_1_1apache_1_1lucene_1_1search_1_1_query_rescorer.html" title="A Rescorer that uses a provided Query to assign scores to the first&#45;pass hits. " alt="" coords="232,5,411,47"/>
+<area shape="rect" id="node3" href="$dc/d91/classorg_1_1apache_1_1lucene_1_1search_1_1_sort_rescorer.html" title="A Rescorer that re&#45;sorts according to a provided Sort. " alt="" coords="232,71,411,112"/>
+</map>

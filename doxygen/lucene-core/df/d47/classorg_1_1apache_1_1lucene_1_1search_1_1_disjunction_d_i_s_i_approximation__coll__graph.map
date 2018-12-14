@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.search.DisjunctionDISIApproximation" name="org.apache.lucene.search.DisjunctionDISIApproximation">
+<area shape="rect" id="node2" href="$d6/d7c/classorg_1_1apache_1_1lucene_1_1search_1_1_doc_id_set_iterator.html" title="This abstract class defines methods to iterate over a set of non&#45;decreasing doc ids. " alt="" coords="217,5,396,47"/>
+<area shape="rect" id="node3" href="$d1/db3/classorg_1_1apache_1_1lucene_1_1search_1_1_disi_priority_queue.html" title="A priority queue of DocIdSetIterators that orders by current doc ID. " alt="" coords="217,71,396,112"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="org.apache.lucene.analysis.tokenattributes.PackedTokenAttributeImpl" name="org.apache.lucene.analysis.tokenattributes.PackedTokenAttributeImpl">
+<area shape="rect" id="node2" href="$d5/d90/classorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_char_term_attribute_impl.html" title="Default implementation of CharTermAttribute. " alt="" coords="865,110,1144,152"/>
+<area shape="rect" id="node3" href="$dd/da0/classorg_1_1apache_1_1lucene_1_1util_1_1_attribute_impl.html" title="Base class for Attributes that can be added to a org.apache.lucene.util.AttributeSource. " alt="" coords="284,26,515,52"/>
+<area shape="rect" id="node5" href="$d9/de5/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_attribute.html" title="Base interface for attributes. " alt="" coords="5,299,211,326"/>
+<area shape="rect" id="node6" href="$d5/da2/interfaceorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_char_term_attribute.html" title="The term text of a Token. " alt="" coords="260,77,539,118"/>
+<area shape="rect" id="node9" href="$da/df5/interfaceorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_term_to_bytes_ref_attribute.html" title="This attribute is requested by TermsHashPerField to index the contents. " alt="" coords="260,208,539,249"/>
+<area shape="rect" id="node11" href="$d0/de9/interfaceorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_type_attribute.html" title="A Token&#39;s lexical type. " alt="" coords="563,478,841,520"/>
+<area shape="rect" id="node12" href="$d0/d56/interfaceorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_position_increment_attribute.html" title="Determines the position of this token relative to the previous Token in a TokenStream, used in phrase searching. " alt="" coords="563,257,841,298"/>
+<area shape="rect" id="node13" href="$dc/df3/interfaceorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_position_length_attribute.html" title="Determines how many positions this token spans. " alt="" coords="865,306,1144,348"/>
+<area shape="rect" id="node14" href="$d3/d99/interfaceorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_offset_attribute.html" title="The start and end character offset of a Token. " alt="" coords="563,366,841,408"/>
+<area shape="rect" id="node15" href="$df/dc9/interfaceorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_term_frequency_attribute.html" title="Sets the custom term frequency of a term within one document. " alt="" coords="865,424,1144,465"/>
+<area shape="rect" id="node10" href="$d6/ddb/classorg_1_1apache_1_1lucene_1_1util_1_1_bytes_ref_builder.html" title="A builder for BytesRef instances. " alt="" coords="305,142,494,184"/>
+</map>

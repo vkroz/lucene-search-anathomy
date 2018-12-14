@@ -1,0 +1,11 @@
+<map id="org.apache.lucene.search.Collector" name="org.apache.lucene.search.Collector">
+<area shape="rect" id="node2" href="$d7/d79/classorg_1_1apache_1_1lucene_1_1search_1_1_filter_collector.html" title="Collector delegator. " alt="" coords="252,37,431,79"/>
+<area shape="rect" id="node5" href="$d9/d0b/classorg_1_1apache_1_1lucene_1_1search_1_1_multi_collector.html" title="A Collector which allows running a search with several Collectors. " alt="" coords="252,103,431,144"/>
+<area shape="rect" id="node6" href="$db/d32/classorg_1_1apache_1_1lucene_1_1search_1_1_multi_collector_manager_1_1_collectors.html" title="org.apache.lucene.search.\lMultiCollectorManager.Collectors" alt="" coords="232,168,451,209"/>
+<area shape="rect" id="node7" href="$d0/d31/classorg_1_1apache_1_1lucene_1_1search_1_1_simple_collector.html" title="Base Collector implementation that is used to collect all contexts. " alt="" coords="252,233,431,275"/>
+<area shape="rect" id="node9" href="$d7/d0f/classorg_1_1apache_1_1lucene_1_1search_1_1_time_limiting_collector.html" title="The TimeLimitingCollector is used to timeout search requests that take longer than the maximum allowe..." alt="" coords="252,299,431,340"/>
+<area shape="rect" id="node10" href="$d4/dbb/classorg_1_1apache_1_1lucene_1_1search_1_1_top_docs_collector.html" title="A base class for all collectors that return a TopDocs output. " alt="" coords="243,365,440,421"/>
+<area shape="rect" id="node3" href="$d4/dba/classorg_1_1apache_1_1lucene_1_1search_1_1_caching_collector.html" title="Caches all docs, and optionally also scores, coming from a search, and is then able to replay them to..." alt="" coords="505,5,683,47"/>
+<area shape="rect" id="node4" href="$df/d2d/classorg_1_1apache_1_1lucene_1_1search_1_1_positive_scores_only_collector.html" title="A Collector implementation which wraps another Collector and makes sure only documents with scores &gt; ..." alt="" coords="499,71,689,112"/>
+<area shape="rect" id="node8" href="$de/d2e/classorg_1_1apache_1_1lucene_1_1search_1_1_total_hit_count_collector.html" title="Just counts the total number of hits. " alt="" coords="505,233,683,275"/>
+</map>

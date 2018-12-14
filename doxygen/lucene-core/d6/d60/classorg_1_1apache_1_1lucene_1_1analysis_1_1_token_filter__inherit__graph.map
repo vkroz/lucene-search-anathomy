@@ -1,0 +1,9 @@
+<map id="org.apache.lucene.analysis.TokenFilter" name="org.apache.lucene.analysis.TokenFilter">
+<area shape="rect" id="node5" href="$d0/d0d/classorg_1_1apache_1_1lucene_1_1analysis_1_1_caching_token_filter.html" title="This class can be used if the token attributes of a TokenStream are intended to be consumed more than..." alt="" coords="728,5,915,47"/>
+<area shape="rect" id="node6" href="$dd/d79/classorg_1_1apache_1_1lucene_1_1analysis_1_1_filtering_token_filter.html" title="Abstract base class for TokenFilters that may remove tokens. " alt="" coords="728,71,915,112"/>
+<area shape="rect" id="node8" href="$d8/d50/classorg_1_1apache_1_1lucene_1_1analysis_1_1_graph_token_filter.html" title="An abstract TokenFilter that exposes its input stream as a graph. " alt="" coords="728,136,915,177"/>
+<area shape="rect" id="node9" href="$df/d8c/classorg_1_1apache_1_1lucene_1_1analysis_1_1_lower_case_filter.html" title="Normalizes token text to lower case. " alt="" coords="728,201,915,243"/>
+<area shape="rect" id="node2" href="$db/d98/classorg_1_1apache_1_1lucene_1_1analysis_1_1_token_stream.html" title="A TokenStream enumerates the sequence of tokens, either from Fields of a Document or from query text..." alt="" coords="259,104,445,145"/>
+<area shape="rect" id="node3" href="$dc/d09/classorg_1_1apache_1_1lucene_1_1util_1_1_attribute_source.html" title="An AttributeSource contains a list of different AttributeImpls, and methods to add and get them..." alt="" coords="5,75,211,116"/>
+<area shape="rect" id="node7" href="$d8/dbd/classorg_1_1apache_1_1lucene_1_1analysis_1_1_stop_filter.html" title="Removes stop words from a token stream. " alt="" coords="963,71,1149,112"/>
+</map>

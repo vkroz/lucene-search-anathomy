@@ -1,0 +1,8 @@
+<map id="org.apache.lucene.codecs.compressing.CompressingTermVectorsReader" name="org.apache.lucene.codecs.compressing.CompressingTermVectorsReader">
+<area shape="rect" id="node2" href="$dc/d8f/classorg_1_1apache_1_1lucene_1_1codecs_1_1_term_vectors_reader.html" title="Codec API for reading term vectors: " alt="" coords="571,158,753,199"/>
+<area shape="rect" id="node6" href="$da/d6f/classorg_1_1apache_1_1lucene_1_1codecs_1_1compressing_1_1_compressing_stored_fields_index_reader.html" title="Random&#45;access reader for CompressingStoredFieldsIndexWriter. " alt="" coords="532,253,792,294"/>
+<area shape="rect" id="node8" href="$d8/dbf/classorg_1_1apache_1_1lucene_1_1store_1_1_index_input.html" title="Abstract base class for input from a file in a Directory. " alt="" coords="577,33,747,74"/>
+<area shape="rect" id="node9" href="$d0/d58/classorg_1_1apache_1_1lucene_1_1store_1_1_data_input.html" title="Abstract base class for performing read operations of Lucene&#39;s low&#45;level data types. " alt="" coords="167,53,337,94"/>
+<area shape="rect" id="node5" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="137,221,367,248"/>
+<area shape="rect" id="node7" href="$da/de2/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_packed_ints.html" title="Simplistic compression for array of unsigned long values. " alt="" coords="151,275,353,317"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.util.bkd.PointReader" name="org.apache.lucene.util.bkd.PointReader">
+<area shape="rect" id="node3" href="$d3/d54/classorg_1_1apache_1_1lucene_1_1util_1_1bkd_1_1_heap_point_reader.html" title="Utility class to read buffered points from in&#45;heap arrays. " alt="" coords="364,5,545,47"/>
+<area shape="rect" id="node4" href="$d0/dca/classorg_1_1apache_1_1lucene_1_1util_1_1bkd_1_1_offline_point_reader.html" title="Reads points from disk in a fixed&#45;with format, previously written with OfflinePointWriter. " alt="" coords="364,71,545,112"/>
+</map>

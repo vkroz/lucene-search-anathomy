@@ -1,0 +1,3 @@
+<map id="org.apache.lucene.geo.EdgeTree" name="org.apache.lucene.geo.EdgeTree">
+<area shape="rect" id="node2" title="Internal tree node: represents geometry edge from lat1,lon1 to lat2,lon2. " alt="" coords="19,5,211,47"/>
+</map>

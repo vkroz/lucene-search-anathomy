@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.search.similarities.LMSimilarity" name="org.apache.lucene.search.similarities.LMSimilarity">
+<area shape="rect" id="node4" href="$d5/d24/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_l_m_dirichlet_similarity.html" title="Bayesian smoothing using Dirichlet priors. " alt="" coords="885,5,1131,47"/>
+<area shape="rect" id="node5" href="$d8/d26/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_l_m_jelinek_mercer_similarity.html" title="Language model based on the Jelinek&#45;Mercer smoothing method. " alt="" coords="885,71,1131,112"/>
+<area shape="rect" id="node2" href="$d9/d9c/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_similarity_base.html" title="A subclass of. " alt="" coords="299,39,544,80"/>
+<area shape="rect" id="node3" href="$d6/dab/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_similarity.html" title="Similarity defines the components of Lucene scoring. " alt="" coords="5,39,251,80"/>
+</map>

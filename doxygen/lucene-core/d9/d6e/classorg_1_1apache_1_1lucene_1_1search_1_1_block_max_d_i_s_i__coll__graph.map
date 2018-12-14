@@ -1,0 +1,8 @@
+<map id="org.apache.lucene.search.BlockMaxDISI" name="org.apache.lucene.search.BlockMaxDISI">
+<area shape="rect" id="node2" href="$d6/d7c/classorg_1_1apache_1_1lucene_1_1search_1_1_doc_id_set_iterator.html" title="This abstract class defines methods to iterate over a set of non&#45;decreasing doc ids. " alt="" coords="5,213,184,255"/>
+<area shape="rect" id="node3" href="$d3/dea/classorg_1_1apache_1_1lucene_1_1search_1_1_scorer.html" title="Expert: Common scoring functionality for different types of queries. " alt="" coords="208,213,387,255"/>
+<area shape="rect" id="node4" href="$dc/dfb/classorg_1_1apache_1_1lucene_1_1search_1_1_scorable.html" title="Allows access to the score of a Query. " alt="" coords="147,109,325,151"/>
+<area shape="rect" id="node5" href="$dd/df5/classorg_1_1apache_1_1lucene_1_1search_1_1_weight.html" title="Expert: Calculate query weights and build query scorers. " alt="" coords="349,109,528,151"/>
+<area shape="rect" id="node6" href="$db/d31/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_segment_cacheable.html" title="Interface defining whether or not an object can be cached against a LeafReader. " alt="" coords="248,5,427,47"/>
+<area shape="rect" id="node7" href="$d7/d78/classorg_1_1apache_1_1lucene_1_1search_1_1_query.html" title="The abstract base class for queries. " alt="" coords="451,5,629,47"/>
+</map>

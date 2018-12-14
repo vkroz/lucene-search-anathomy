@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.search.similarities.BasicModel" name="org.apache.lucene.search.similarities.BasicModel">
+<area shape="rect" id="node2" href="$d5/d11/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_basic_model_g.html" title="Geometric as limiting form of the Bose&#45;Einstein model. " alt="" coords="299,5,544,47"/>
+<area shape="rect" id="node3" href="$df/d20/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_basic_model_i_f.html" title="An approximation of the I(ne) model. " alt="" coords="299,71,544,112"/>
+<area shape="rect" id="node4" href="$d5/d9b/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_basic_model_in.html" title="The basic tf&#45;idf model of randomness. " alt="" coords="299,136,544,177"/>
+<area shape="rect" id="node5" href="$d3/deb/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_basic_model_ine.html" title="Tf&#45;idf model of randomness, based on a mixture of Poisson and inverse document frequency. " alt="" coords="299,201,544,243"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.index.BaseCompositeReader&lt; R extends IndexReader &gt;" name="org.apache.lucene.index.BaseCompositeReader&lt; R extends IndexReader &gt;">
+<area shape="rect" id="node2" href="$d0/d2f/classorg_1_1apache_1_1lucene_1_1index_1_1_composite_reader.html" title=" Instances of this reader type can only be used to get stored fields from the underlying LeafReaders..." alt="" coords="11,169,181,211"/>
+<area shape="rect" id="node3" href="$df/de9/classorg_1_1apache_1_1lucene_1_1index_1_1_index_reader.html" title=" IndexReader is an abstract class, providing an interface for accessing a point&#45;in&#45;time view of an in..." alt="" coords="11,80,181,121"/>
+</map>

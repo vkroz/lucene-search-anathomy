@@ -1,0 +1,7 @@
+<map id="org.apache.lucene.search.TopDocsCollector&lt; T extends ScoreDoc &gt;" name="org.apache.lucene.search.TopDocsCollector&lt; T extends ScoreDoc &gt;">
+<area shape="rect" id="node2" href="$df/d39/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_collector.html" title="org.apache.lucene.search.\lCollector" alt="" coords="575,5,753,47"/>
+<area shape="rect" id="node3" href="$d7/d6a/classorg_1_1apache_1_1lucene_1_1search_1_1_top_docs.html" title="Represents hits returned by IndexSearcher#search(Query,int). " alt="" coords="575,135,753,176"/>
+<area shape="rect" id="node4" href="$d1/d4f/classorg_1_1apache_1_1lucene_1_1search_1_1_total_hits.html" title="Description of the total number of hits of a query. " alt="" coords="280,73,459,115"/>
+<area shape="rect" id="node5" href="$d0/da4/enumorg_1_1apache_1_1lucene_1_1search_1_1_total_hits_1_1_relation.html" title="How the TotalHits#value should be interpreted. " alt="" coords="5,73,184,115"/>
+<area shape="rect" id="node6" href="$d3/d1c/classorg_1_1apache_1_1lucene_1_1search_1_1_score_doc.html" title="Holds one hit in TopDocs. " alt="" coords="280,145,459,187"/>
+</map>

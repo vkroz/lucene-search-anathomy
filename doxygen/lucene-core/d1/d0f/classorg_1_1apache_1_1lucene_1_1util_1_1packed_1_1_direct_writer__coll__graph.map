@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.util.packed.DirectWriter" name="org.apache.lucene.util.packed.DirectWriter">
+<area shape="rect" id="node2" href="$de/d31/classorg_1_1apache_1_1lucene_1_1store_1_1_data_output.html" title="Abstract base class for performing write operations of Lucene&#39;s low&#45;level data types. " alt="" coords="274,5,443,47"/>
+<area shape="rect" id="node3" title="Efficient sequential read/write of packed integers. " alt="" coords="257,71,460,112"/>
+<area shape="rect" id="node4" title="A decoder for packed integers. " alt="" coords="5,37,208,79"/>
+<area shape="rect" id="node5" title="An encoder for packed integers. " alt="" coords="5,103,208,144"/>
+</map>

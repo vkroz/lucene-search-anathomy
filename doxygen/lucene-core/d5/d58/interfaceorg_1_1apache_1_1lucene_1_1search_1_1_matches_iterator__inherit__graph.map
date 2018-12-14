@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.search.MatchesIterator" name="org.apache.lucene.search.MatchesIterator">
+<area shape="rect" id="node2" title="A MatchesIterator that combines matches from a set of sub&#45;iterators. " alt="" coords="232,5,412,47"/>
+<area shape="rect" id="node3" href="$d4/dd8/classorg_1_1apache_1_1lucene_1_1search_1_1_filter_matches_iterator.html" title="A MatchesIterator that delegates all calls to another MatchesIterator. " alt="" coords="233,71,411,112"/>
+<area shape="rect" id="node4" title="A MatchesIterator over a single term&#39;s postings list. " alt="" coords="233,136,411,177"/>
+</map>

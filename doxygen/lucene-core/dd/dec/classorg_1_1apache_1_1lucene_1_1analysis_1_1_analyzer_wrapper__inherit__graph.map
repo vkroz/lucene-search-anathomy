@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.analysis.AnalyzerWrapper" name="org.apache.lucene.analysis.AnalyzerWrapper">
+<area shape="rect" id="node4" href="$d3/de2/classorg_1_1apache_1_1lucene_1_1analysis_1_1_delegating_analyzer_wrapper.html" title="An analyzer wrapper, that doesn&#39;t allow to wrap components or readers. " alt="" coords="5,259,195,300"/>
+<area shape="rect" id="node2" href="$d6/d78/classorg_1_1apache_1_1lucene_1_1analysis_1_1_analyzer.html" title="An Analyzer builds TokenStreams, which analyze text. " alt="" coords="7,80,193,121"/>
+</map>

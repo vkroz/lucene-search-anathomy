@@ -1,0 +1,3 @@
+<map id="org.apache.lucene.search.SearcherLifetimeManager.Pruner" name="org.apache.lucene.search.SearcherLifetimeManager.Pruner">
+<area shape="rect" id="node2" title="Simple pruner that drops any searcher older by more than the specified seconds, than the newest searc..." alt="" coords="5,95,259,136"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="org.apache.lucene.util.Bits" name="org.apache.lucene.util.Bits">
+<area shape="rect" id="node2" title="Exposes a slice of an existing Bits as a new Bits. " alt="" coords="252,5,423,47"/>
+<area shape="rect" id="node3" href="$df/dbb/classorg_1_1apache_1_1lucene_1_1index_1_1_multi_bits.html" title="Concatenates multiple Bits together, on every lookup. " alt="" coords="252,71,423,112"/>
+<area shape="rect" id="node4" href="$dc/dcd/classorg_1_1apache_1_1lucene_1_1util_1_1_bits_1_1_match_all_bits.html" title="Bits impl of the specified length with all bits set. " alt="" coords="246,136,429,177"/>
+<area shape="rect" id="node5" href="$d5/db6/classorg_1_1apache_1_1lucene_1_1util_1_1_bits_1_1_match_no_bits.html" title="Bits impl of the specified length with no bits set. " alt="" coords="246,201,429,243"/>
+<area shape="rect" id="node6" href="$df/de3/classorg_1_1apache_1_1lucene_1_1util_1_1_bit_set.html" title="Base implementation for a bit set. " alt="" coords="241,318,433,345"/>
+<area shape="rect" id="node7" href="$dc/da5/classorg_1_1apache_1_1lucene_1_1util_1_1_fixed_bit_set.html" title="BitSet of fixed length (numBits), backed by accessible (getBits) long[], accessed with an int index..." alt="" coords="495,269,685,311"/>
+<area shape="rect" id="node8" href="$d5/d4f/classorg_1_1apache_1_1lucene_1_1util_1_1_sparse_fixed_bit_set.html" title="A bit set that only stores longs that have at least one bit which is set. " alt="" coords="491,344,689,385"/>
+<area shape="rect" id="node9" title="Immutable twin of FixedBitSet. " alt="" coords="232,419,443,446"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d7/dae/classorg_1_1apache_1_1lucene_1_1index_1_1_index_reader_context.html" title="A struct like class that represents a hierarchical relationship between IndexReader instances..." alt="" coords="5,39,176,80"/>
+<area shape="rect" id="node2" href="$de/d1a/classorg_1_1apache_1_1lucene_1_1index_1_1_composite_reader_context.html" title="IndexReaderContext for CompositeReader instance. " alt="" coords="224,5,400,47"/>
+<area shape="rect" id="node3" href="$d6/d79/classorg_1_1apache_1_1lucene_1_1index_1_1_leaf_reader_context.html" title="IndexReaderContext for LeafReader instances. " alt="" coords="227,71,397,112"/>
+</map>

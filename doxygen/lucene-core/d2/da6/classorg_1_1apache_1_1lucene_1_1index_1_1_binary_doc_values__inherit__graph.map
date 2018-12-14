@@ -1,0 +1,10 @@
+<map id="org.apache.lucene.index.BinaryDocValues" name="org.apache.lucene.index.BinaryDocValues">
+<area shape="rect" id="node4" href="$d5/d23/classorg_1_1apache_1_1lucene_1_1index_1_1_filter_binary_doc_values.html" title="Delegates all methods to a wrapped BinaryDocValues. " alt="" coords="693,134,863,175"/>
+<area shape="rect" id="node5" href="$d4/d9c/classorg_1_1apache_1_1lucene_1_1index_1_1_sorted_doc_values.html" title="A per&#45;document byte[] with presorted values. " alt="" coords="693,199,863,241"/>
+<area shape="rect" id="node3" href="$d6/d7c/classorg_1_1apache_1_1lucene_1_1search_1_1_doc_id_set_iterator.html" title="This abstract class defines methods to iterate over a set of non&#45;decreasing doc ids. " alt="" coords="5,199,184,241"/>
+<area shape="rect" id="node6" title="Implements SortedDocValues over n subs, using an OrdinalMap .internal. " alt="" coords="946,5,1155,61"/>
+<area shape="rect" id="node8" title="Wraps a SortedSetDocValues and returns the last ordinal (max) " alt="" coords="954,166,1147,207"/>
+<area shape="rect" id="node9" title="Wraps a SortedSetDocValues and returns the middle ordinal (or max of the two) " alt="" coords="935,231,1167,273"/>
+<area shape="rect" id="node10" title="Wraps a SortedSetDocValues and returns the middle ordinal (or min of the two) " alt="" coords="936,297,1165,338"/>
+<area shape="rect" id="node11" title="Wraps a SortedSetDocValues and returns the first ordinal (min) " alt="" coords="956,362,1145,403"/>
+</map>

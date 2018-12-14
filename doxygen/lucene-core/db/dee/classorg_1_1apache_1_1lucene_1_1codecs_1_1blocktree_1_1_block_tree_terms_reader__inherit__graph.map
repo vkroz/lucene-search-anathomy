@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.codecs.blocktree.BlockTreeTermsReader" name="org.apache.lucene.codecs.blocktree.BlockTreeTermsReader">
+<area shape="rect" id="node2" href="$db/dfb/classorg_1_1apache_1_1lucene_1_1codecs_1_1_fields_producer.html" title="Abstract API that produces terms, doc, freq, prox, offset and payloads postings. " alt="" coords="151,169,332,211"/>
+<area shape="rect" id="node3" href="$d5/d65/classorg_1_1apache_1_1lucene_1_1index_1_1_fields.html" title="Provides a Terms index for fields that have it, and lists which fields do. " alt="" coords="5,80,176,121"/>
+<area shape="rect" id="node6" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="307,87,536,114"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.search.TotalHitCountCollector" name="org.apache.lucene.search.TotalHitCountCollector">
+<area shape="rect" id="node2" href="$d0/d31/classorg_1_1apache_1_1lucene_1_1search_1_1_simple_collector.html" title="Base Collector implementation that is used to collect all contexts. " alt="" coords="107,95,285,136"/>
+<area shape="rect" id="node3" href="$df/d39/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_collector.html" title="org.apache.lucene.search.\lCollector" alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node4" href="$d3/d1a/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_leaf_collector.html" title="org.apache.lucene.search.\lLeafCollector" alt="" coords="208,5,387,47"/>
+</map>

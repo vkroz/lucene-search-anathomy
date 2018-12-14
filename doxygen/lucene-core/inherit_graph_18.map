@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d9/d2b/classorg_1_1apache_1_1lucene_1_1codecs_1_1_field_infos_format.html" title="Encodes/decodes FieldInfos .experimental. " alt="" coords="5,39,187,80"/>
+<area shape="rect" id="node2" href="$d4/d5b/classorg_1_1apache_1_1lucene_1_1codecs_1_1lucene50_1_1_lucene50_field_infos_format.html" title="Lucene 5.0 Field Infos format. " alt="" coords="235,5,473,47"/>
+<area shape="rect" id="node3" href="$d1/d15/classorg_1_1apache_1_1lucene_1_1codecs_1_1lucene60_1_1_lucene60_field_infos_format.html" title="Lucene 6.0 Field Infos format. " alt="" coords="235,71,473,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.index.Terms" name="org.apache.lucene.index.Terms">
+<area shape="rect" id="node2" href="$d4/dd9/classorg_1_1apache_1_1lucene_1_1codecs_1_1blocktree_1_1_field_reader.html" title="BlockTree&#39;s implementation of Terms. " alt="" coords="224,5,463,47"/>
+<area shape="rect" id="node3" title="Base class for filtering Terms implementations. " alt="" coords="247,71,439,112"/>
+<area shape="rect" id="node5" href="$df/dae/classorg_1_1apache_1_1lucene_1_1index_1_1_multi_terms.html" title="Exposes flex API, merged from flex API of sub&#45;segments. " alt="" coords="258,136,429,177"/>
+<area shape="rect" id="node4" title="Wrapper class for another Terms implementation that is used by ExitableFields. " alt="" coords="511,71,767,112"/>
+</map>

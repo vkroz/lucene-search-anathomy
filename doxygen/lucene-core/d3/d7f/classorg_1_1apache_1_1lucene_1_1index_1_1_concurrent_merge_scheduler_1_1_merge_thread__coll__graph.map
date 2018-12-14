@@ -1,0 +1,33 @@
+<map id="org.apache.lucene.index.ConcurrentMergeScheduler.MergeThread" name="org.apache.lucene.index.ConcurrentMergeScheduler.MergeThread">
+<area shape="rect" id="node4" title="OneMerge provides the information necessary to perform an individual primitive merge operation..." alt="" coords="1557,160,1728,201"/>
+<area shape="rect" id="node7" href="$d3/df8/classorg_1_1apache_1_1lucene_1_1index_1_1_segment_commit_info.html" title="Embeds a [read&#45;only] SegmentInfo and adds per&#45;commit fields. " alt="" coords="1151,201,1322,243"/>
+<area shape="rect" id="node8" href="$d2/d9b/classorg_1_1apache_1_1lucene_1_1index_1_1_segment_info.html" title="Information about a segment such as its name, directory, and files related to the segment..." alt="" coords="677,212,848,253"/>
+<area shape="rect" id="node9" href="$dc/d5b/classorg_1_1apache_1_1lucene_1_1util_1_1_version.html" title="Use by certain classes to match version compatibility across releases of Lucene. " alt="" coords="170,219,371,246"/>
+<area shape="rect" id="node10" href="$d3/dcb/classorg_1_1apache_1_1lucene_1_1store_1_1_directory.html" title="A. " alt="" coords="186,353,355,395"/>
+<area shape="rect" id="node13" href="$df/dbc/classorg_1_1apache_1_1lucene_1_1index_1_1_index_writer.html" title="An IndexWriter creates and maintains an index. " alt="" coords="1557,1400,1728,1441"/>
+<area shape="rect" id="node18" href="$dd/d43/classorg_1_1apache_1_1lucene_1_1util_1_1_info_stream.html" title="Debugging API for Lucene classes such as IndexWriter and SegmentInfos. " alt="" coords="181,660,360,701"/>
+<area shape="rect" id="node30" title="This class accepts multiple added documents and directly writes segment files. " alt="" coords="1151,1649,1322,1691"/>
+<area shape="rect" id="node47" href="$d1/d4e/classorg_1_1apache_1_1lucene_1_1index_1_1_merge_scheduler.html" title="org.apache.lucene.index.\lMergeScheduler" alt="" coords="677,795,848,836"/>
+<area shape="rect" id="node14" href="$de/d0f/interfaceorg_1_1apache_1_1lucene_1_1index_1_1_two_phase_commit.html" title="An interface for implementations that support 2&#45;phase commit. " alt="" coords="1151,1520,1322,1561"/>
+<area shape="rect" id="node15" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="156,1625,385,1651"/>
+<area shape="rect" id="node20" title="Tracks the stream of FrozenBufferedUpdates. " alt="" coords="925,1593,1096,1635"/>
+<area shape="rect" id="node31" title="This class controls DocumentsWriterPerThread flushing during indexing. " alt="" coords="663,1759,863,1800"/>
+<area shape="rect" id="node35" title="DocumentsWriterDeleteQueue is a non&#45;blocking linked pending deletes queue. " alt="" coords="661,1693,865,1735"/>
+<area shape="rect" id="node16" href="$d2/d9b/interfaceorg_1_1apache_1_1lucene_1_1index_1_1_merge_policy_1_1_merge_context.html" title="This interface represents the current context of the merge selection process. " alt="" coords="1145,1767,1328,1808"/>
+<area shape="rect" id="node37" title="FlushPolicy controls when segments are flushed from a RAM resident internal data&#45;structure to the Ind..." alt="" coords="677,729,848,771"/>
+<area shape="rect" id="node38" href="$d6/d17/classorg_1_1apache_1_1lucene_1_1index_1_1_live_index_writer_config.html" title="Holds all the configuration used by IndexWriter with few setters for settings that can be changed on ..." alt="" coords="1151,1023,1322,1064"/>
+<area shape="rect" id="node22" href="$d7/dd4/classorg_1_1apache_1_1lucene_1_1index_1_1_segment_infos.html" title="A collection of segmentInfo objects with methods for operating on those segments in relation to the f..." alt="" coords="1151,332,1322,373"/>
+<area shape="rect" id="node27" href="$d5/d8c/classorg_1_1apache_1_1lucene_1_1codecs_1_1_codec.html" title="Encodes/decodes an inverted index segment. " alt="" coords="672,1408,853,1449"/>
+<area shape="rect" id="node28" title="Interface to support NamedSPILoader#lookup(String) by name. " alt="" coords="136,1401,405,1457"/>
+<area shape="rect" id="node32" title="Controls the health status of a DocumentsWriter sessions. " alt="" coords="174,1759,367,1800"/>
+<area shape="rect" id="node34" title="DocumentsWriterPerThreadPool controls ThreadState instances and their thread assignments during index..." alt="" coords="655,1525,870,1567"/>
+<area shape="rect" id="node39" href="$d8/dcd/classorg_1_1apache_1_1lucene_1_1index_1_1_index_deletion_policy.html" title="org.apache.lucene.index.\lIndexDeletionPolicy" alt="" coords="677,991,848,1032"/>
+<area shape="rect" id="node40" href="$d3/d42/classorg_1_1apache_1_1lucene_1_1index_1_1_merge_policy.html" title="org.apache.lucene.index.\lMergePolicy" alt="" coords="677,1056,848,1097"/>
+<area shape="rect" id="node41" href="$db/d21/classorg_1_1apache_1_1lucene_1_1search_1_1_sort.html" title="Encapsulates sort criteria for returned hits. " alt="" coords="661,1175,865,1202"/>
+<area shape="rect" id="node43" title="Specifies the open mode for IndexWriter. " alt="" coords="663,1277,862,1319"/>
+<area shape="rect" id="node44" href="$d9/dba/classorg_1_1apache_1_1lucene_1_1index_1_1_index_commit.html" title="org.apache.lucene.index.\lIndexCommit" alt="" coords="677,1343,848,1384"/>
+<area shape="rect" id="node45" href="$d6/dab/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_similarity.html" title="Similarity defines the components of Lucene scoring. " alt="" coords="640,860,885,901"/>
+<area shape="rect" id="node46" title="The IndexingChain must define the getChain(DocumentsWriterPerThread) method which returns the DocCons..." alt="" coords="624,925,901,967"/>
+<area shape="rect" id="node49" href="$d2/d3a/classorg_1_1apache_1_1lucene_1_1index_1_1_merge_rate_limiter.html" title="This is the RateLimiter that IndexWriter assigns to each running merge, to give MergeSchedulers ionic..." alt="" coords="1557,1700,1728,1741"/>
+<area shape="rect" id="node50" href="$d4/db5/classorg_1_1apache_1_1lucene_1_1store_1_1_rate_limiter.html" title="Abstract base class to rate limit IO. " alt="" coords="1152,1935,1321,1976"/>
+</map>

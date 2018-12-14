@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.search.FieldValueHitQueue&lt; T extends FieldValueHitQueue.Entry &gt;" name="org.apache.lucene.search.FieldValueHitQueue&lt; T extends FieldValueHitQueue.Entry &gt;">
+<area shape="rect" id="node2" href="$da/dfc/classorg_1_1apache_1_1lucene_1_1util_1_1_priority_queue.html" title="A PriorityQueue maintains a partial ordering of its elements such that the least element can always b..." alt="" coords="158,5,325,47"/>
+<area shape="rect" id="node4" href="$db/d2b/classorg_1_1apache_1_1lucene_1_1search_1_1_field_comparator.html" title="org.apache.lucene.search.\lFieldComparator\&lt;?\&gt;" alt="" coords="152,71,331,112"/>
+<area shape="rect" id="node5" href="$de/d08/classorg_1_1apache_1_1lucene_1_1search_1_1_sort_field.html" title="Stores information about how to sort documents by terms in an individual field. " alt="" coords="152,189,331,231"/>
+</map>

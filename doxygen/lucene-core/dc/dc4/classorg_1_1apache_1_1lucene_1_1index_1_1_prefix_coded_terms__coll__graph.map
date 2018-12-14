@@ -1,0 +1,8 @@
+<map id="org.apache.lucene.index.PrefixCodedTerms" name="org.apache.lucene.index.PrefixCodedTerms">
+<area shape="rect" id="node2" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="435,22,664,49"/>
+<area shape="rect" id="node3" href="$d3/dbe/classorg_1_1apache_1_1lucene_1_1store_1_1_r_a_m_file.html" title="Represents a file in RAM as a list of byte[] buffers. " alt="" coords="1067,55,1236,96"/>
+<area shape="rect" id="node5" href="$d3/da0/classorg_1_1apache_1_1lucene_1_1store_1_1_r_a_m_directory.html" title="A memory&#45;resident Directory implementation. " alt="" coords="793,89,963,131"/>
+<area shape="rect" id="node6" href="$d0/d8a/classorg_1_1apache_1_1lucene_1_1store_1_1_base_directory.html" title="Base implementation for a concrete Directory that uses a LockFactory for locking. ..." alt="" coords="465,73,634,115"/>
+<area shape="rect" id="node7" href="$d3/dcb/classorg_1_1apache_1_1lucene_1_1store_1_1_directory.html" title="A. " alt="" coords="136,33,305,75"/>
+<area shape="rect" id="node9" href="$d5/dac/classorg_1_1apache_1_1lucene_1_1store_1_1_lock_factory.html" title="org.apache.lucene.store.\lLockFactory" alt="" coords="136,99,305,140"/>
+</map>

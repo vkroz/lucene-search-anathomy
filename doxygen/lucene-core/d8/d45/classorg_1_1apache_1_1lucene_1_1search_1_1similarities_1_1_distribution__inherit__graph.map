@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.search.similarities.Distribution" name="org.apache.lucene.search.similarities.Distribution">
+<area shape="rect" id="node2" href="$da/de8/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_distribution_l_l.html" title="Log&#45;logistic distribution. " alt="" coords="299,5,544,47"/>
+<area shape="rect" id="node3" href="$d1/dfa/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_distribution_s_p_l.html" title="The smoothed power&#45;law (SPL) distribution for the information&#45;based framework that is described in th..." alt="" coords="299,71,544,112"/>
+</map>

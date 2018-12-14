@@ -1,0 +1,11 @@
+<map id="org.apache.lucene.codecs.lucene50.Lucene50PostingsWriter" name="org.apache.lucene.codecs.lucene50.Lucene50PostingsWriter">
+<area shape="rect" id="node2" href="$dd/db6/classorg_1_1apache_1_1lucene_1_1codecs_1_1_push_postings_writer_base.html" title="Extension of PostingsWriterBase, adding a push API for writing each element of the postings..." alt="" coords="942,136,1123,177"/>
+<area shape="rect" id="node3" href="$d6/dde/classorg_1_1apache_1_1lucene_1_1codecs_1_1_postings_writer_base.html" title="Class that plugs into term dictionaries, such as BlockTreeTermsWriter, and handles writing postings..." alt="" coords="577,136,759,177"/>
+<area shape="rect" id="node7" href="$da/d29/classorg_1_1apache_1_1lucene_1_1store_1_1_index_output.html" title="A DataOutput for appending data to a file in a Directory. " alt="" coords="583,5,753,47"/>
+<area shape="rect" id="node5" href="$d4/dcb/classorg_1_1apache_1_1lucene_1_1index_1_1_field_info.html" title="Access to the Field Info file that describes document fields and whether or not they are indexed..." alt="" coords="583,71,753,112"/>
+<area shape="rect" id="node6" href="$db/d9d/enumorg_1_1apache_1_1lucene_1_1index_1_1_index_options.html" title="Controls how much information is stored in the postings lists. " alt="" coords="583,201,753,243"/>
+<area shape="rect" id="node8" href="$de/d31/classorg_1_1apache_1_1lucene_1_1store_1_1_data_output.html" title="Abstract base class for performing write operations of Lucene&#39;s low&#45;level data types. " alt="" coords="358,5,527,47"/>
+<area shape="rect" id="node10" href="$d1/dad/classorg_1_1apache_1_1lucene_1_1codecs_1_1_block_term_state.html" title="Holds all state required for PostingsReaderBase to produce a org.apache.lucene.index.PostingsEnum without re&#45;seeking the terms dict. " alt="" coords="577,267,759,308"/>
+<area shape="rect" id="node11" href="$d6/d6c/classorg_1_1apache_1_1lucene_1_1index_1_1_ord_term_state.html" title="An ordinal based TermState. " alt="" coords="357,267,528,308"/>
+<area shape="rect" id="node12" href="$d2/d71/classorg_1_1apache_1_1lucene_1_1index_1_1_term_state.html" title="Encapsulates all required internal state to position the associated TermsEnum without re&#45;seeking..." alt="" coords="137,267,308,308"/>
+</map>

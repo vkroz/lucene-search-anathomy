@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.search.SimpleCollector" name="org.apache.lucene.search.SimpleCollector">
+<area shape="rect" id="node4" href="$de/d2e/classorg_1_1apache_1_1lucene_1_1search_1_1_total_hit_count_collector.html" title="Just counts the total number of hits. " alt="" coords="107,184,285,225"/>
+<area shape="rect" id="node2" href="$df/d39/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_collector.html" title="org.apache.lucene.search.\lCollector" alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node3" href="$d3/d1a/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_leaf_collector.html" title="org.apache.lucene.search.\lLeafCollector" alt="" coords="208,5,387,47"/>
+</map>

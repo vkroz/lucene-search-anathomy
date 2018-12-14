@@ -1,0 +1,49 @@
+<map id="org.apache.lucene.util.Accountable" name="org.apache.lucene.util.Accountable">
+<area shape="rect" id="node2" href="$d4/dd9/classorg_1_1apache_1_1lucene_1_1codecs_1_1blocktree_1_1_field_reader.html" title="BlockTree&#39;s implementation of Terms. " alt="" coords="293,5,532,47"/>
+<area shape="rect" id="node3" href="$da/d6f/classorg_1_1apache_1_1lucene_1_1codecs_1_1compressing_1_1_compressing_stored_fields_index_reader.html" title="Random&#45;access reader for CompressingStoredFieldsIndexWriter. " alt="" coords="283,71,543,112"/>
+<area shape="rect" id="node4" href="$de/d3a/classorg_1_1apache_1_1lucene_1_1codecs_1_1_doc_values_producer.html" title="Abstract API that produces numeric, binary, sorted, sortedset, and sortednumeric docvalues. " alt="" coords="322,136,503,177"/>
+<area shape="rect" id="node8" href="$db/dfb/classorg_1_1apache_1_1lucene_1_1codecs_1_1_fields_producer.html" title="Abstract API that produces terms, doc, freq, prox, offset and payloads postings. " alt="" coords="322,201,503,243"/>
+<area shape="rect" id="node9" href="$de/d71/classorg_1_1apache_1_1lucene_1_1codecs_1_1_norms_producer.html" title="Abstract API that produces field normalization values. " alt="" coords="322,267,503,308"/>
+<area shape="rect" id="node10" href="$dd/d9b/classorg_1_1apache_1_1lucene_1_1codecs_1_1_points_reader.html" title="Abstract API to visit point values. " alt="" coords="322,332,503,373"/>
+<area shape="rect" id="node11" href="$d3/da0/classorg_1_1apache_1_1lucene_1_1codecs_1_1_postings_reader_base.html" title="The core terms dictionaries (BlockTermsReader, BlockTreeTermsReader) interact with a single instance ..." alt="" coords="322,397,503,439"/>
+<area shape="rect" id="node12" href="$d1/df9/classorg_1_1apache_1_1lucene_1_1codecs_1_1_stored_fields_reader.html" title="Codec API for reading stored fields. " alt="" coords="322,463,503,504"/>
+<area shape="rect" id="node13" href="$dc/d8f/classorg_1_1apache_1_1lucene_1_1codecs_1_1_term_vectors_reader.html" title="Codec API for reading term vectors: " alt="" coords="322,528,503,569"/>
+<area shape="rect" id="node14" title="Holds buffered deletes and updates, by docID, term or query for a single segment. ..." alt="" coords="327,593,498,635"/>
+<area shape="rect" id="node15" title="Tracks the stream of FrozenBufferedUpdates. " alt="" coords="327,659,498,700"/>
+<area shape="rect" id="node16" href="$d7/deb/classorg_1_1apache_1_1lucene_1_1index_1_1_codec_reader.html" title="LeafReader implemented by codec APIs. " alt="" coords="327,724,498,765"/>
+<area shape="rect" id="node17" title="This class accepts multiple added documents and directly writes segment files. " alt="" coords="327,789,498,831"/>
+<area shape="rect" id="node18" title="DocumentsWriterDeleteQueue is a non&#45;blocking linked pending deletes queue. " alt="" coords="311,855,515,896"/>
+<area shape="rect" id="node19" title="This class controls DocumentsWriterPerThread flushing during indexing. " alt="" coords="313,920,513,961"/>
+<area shape="rect" id="node20" title="Holds updates of a single DocValues field, for a set of documents within one segment. " alt="" coords="327,985,498,1027"/>
+<area shape="rect" id="node21" href="$df/dbc/classorg_1_1apache_1_1lucene_1_1index_1_1_index_writer.html" title="An IndexWriter creates and maintains an index. " alt="" coords="327,1051,498,1092"/>
+<area shape="rect" id="node22" href="$dc/dbc/classorg_1_1apache_1_1lucene_1_1index_1_1_ordinal_map.html" title="Maps per&#45;segment ordinals to/from global ordinal space, using a compact packed&#45;ints representation..." alt="" coords="327,1116,498,1157"/>
+<area shape="rect" id="node23" href="$d7/dae/classorg_1_1apache_1_1lucene_1_1index_1_1_prefix_coded_terms.html" title="Prefix codes term instances (prefixes are shared). " alt="" coords="327,1181,498,1223"/>
+<area shape="rect" id="node24" href="$d8/da6/classorg_1_1apache_1_1lucene_1_1search_1_1_doc_id_set.html" title="A DocIdSet contains a set of doc ids. " alt="" coords="323,1247,502,1288"/>
+<area shape="rect" id="node25" href="$d1/d04/classorg_1_1apache_1_1lucene_1_1search_1_1_l_r_u_query_cache.html" title="A QueryCache that evicts queries using a LRU (least&#45;recently&#45;used) eviction policy in order to remain..." alt="" coords="323,1312,502,1353"/>
+<area shape="rect" id="node26" href="$d1/dce/classorg_1_1apache_1_1lucene_1_1search_1_1_term_in_set_query.html" title="Specialization for a disjunction over many terms that behaves like a ConstantScoreQuery over a Boolea..." alt="" coords="323,1377,502,1419"/>
+<area shape="rect" id="node27" href="$d9/db9/classorg_1_1apache_1_1lucene_1_1store_1_1_byte_buffers_data_input.html" title="A DataInput implementing RandomAccessInput and reading data from a list of ByteBuffers. " alt="" coords="328,1443,497,1484"/>
+<area shape="rect" id="node28" href="$d4/d75/classorg_1_1apache_1_1lucene_1_1store_1_1_byte_buffers_data_output.html" title="A DataOutput storing data in a list of ByteBuffers. " alt="" coords="328,1508,497,1549"/>
+<area shape="rect" id="node29" href="$d6/dba/classorg_1_1apache_1_1lucene_1_1store_1_1_n_r_t_caching_directory.html" title="Wraps a RAMDirectory around any provided delegate directory, to be used during NRT search..." alt="" coords="328,1573,497,1615"/>
+<area shape="rect" id="node30" href="$d3/da0/classorg_1_1apache_1_1lucene_1_1store_1_1_r_a_m_directory.html" title="A memory&#45;resident Directory implementation. " alt="" coords="328,1639,497,1680"/>
+<area shape="rect" id="node31" href="$d3/dbe/classorg_1_1apache_1_1lucene_1_1store_1_1_r_a_m_file.html" title="Represents a file in RAM as a list of byte[] buffers. " alt="" coords="328,1704,497,1745"/>
+<area shape="rect" id="node32" href="$d3/d9d/classorg_1_1apache_1_1lucene_1_1store_1_1_r_a_m_output_stream.html" title="A memory&#45;resident IndexOutput implementation. " alt="" coords="328,1769,497,1811"/>
+<area shape="rect" id="node33" href="$d1/ddb/classorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_automaton.html" title="Represents an automaton and all its states and transitions. " alt="" coords="301,1835,524,1876"/>
+<area shape="rect" id="node34" href="$df/de3/classorg_1_1apache_1_1lucene_1_1util_1_1_bit_set.html" title="Base implementation for a bit set. " alt="" coords="317,1951,509,1978"/>
+<area shape="rect" id="node35" href="$dc/da5/classorg_1_1apache_1_1lucene_1_1util_1_1_fixed_bit_set.html" title="BitSet of fixed length (numBits), backed by accessible (getBits) long[], accessed with an int index..." alt="" coords="615,1911,805,1952"/>
+<area shape="rect" id="node36" href="$d5/d4f/classorg_1_1apache_1_1lucene_1_1util_1_1_sparse_fixed_bit_set.html" title="A bit set that only stores longs that have at least one bit which is set. " alt="" coords="611,1985,809,2027"/>
+<area shape="rect" id="node37" href="$dd/d7d/classorg_1_1apache_1_1lucene_1_1util_1_1bkd_1_1_b_k_d_reader.html" title="Handles intersection of an multi&#45;dimensional shape in byte[] space with a block KD&#45;tree previously wr..." alt="" coords="322,2053,503,2095"/>
+<area shape="rect" id="node38" href="$d3/d64/classorg_1_1apache_1_1lucene_1_1util_1_1_frequency_tracking_ring_buffer.html" title="A ring buffer that tracks the frequency of the integers that it contains. " alt="" coords="303,2119,522,2160"/>
+<area shape="rect" id="node40" href="$d2/de5/classorg_1_1apache_1_1lucene_1_1util_1_1fst_1_1_f_s_t.html" title="Represents an finite state machine (FST), using a compact byte[] format. " alt="" coords="326,2249,499,2291"/>
+<area shape="rect" id="node41" href="$d9/db5/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_abstract_paged_mutable.html" title="Base implementation for PagedMutable and PagedGrowableWriter. " alt="" coords="299,2315,526,2371"/>
+<area shape="rect" id="node42" href="$d3/d4b/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_block_packed_reader.html" title="Provides random access to a stream written with BlockPackedWriter. " alt="" coords="311,2396,514,2437"/>
+<area shape="rect" id="node43" title="In&#45;memory metadata that needs to be kept around for DirectMonotonicReader to read data from disk..." alt="" coords="311,2461,514,2503"/>
+<area shape="rect" id="node44" href="$dd/de7/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_monotonic_block_packed_reader.html" title="Provides random access to a stream written with MonotonicBlockPackedWriter. " alt="" coords="311,2527,515,2568"/>
+<area shape="rect" id="node45" title="A read&#45;only random access array of positive integers. " alt="" coords="311,2592,514,2633"/>
+<area shape="rect" id="node46" href="$d2/d19/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_packed_long_values.html" title="Utility class to compress integers into a LongValues instance. " alt="" coords="311,2657,514,2699"/>
+<area shape="rect" id="node47" title="A Builder for a PackedLongValues instance. " alt="" coords="311,2723,514,2764"/>
+<area shape="rect" id="node48" href="$d7/d84/classorg_1_1apache_1_1lucene_1_1util_1_1_paged_bytes.html" title="Represents a logical byte[] as a series of pages. " alt="" coords="315,2788,510,2829"/>
+<area shape="rect" id="node49" title="Provides methods to read BytesRefs from a frozen PagedBytes. " alt="" coords="315,2853,510,2895"/>
+<area shape="rect" id="node5" title="reader for Lucene70DocValuesFormat " alt="" coords="591,71,829,112"/>
+<area shape="rect" id="node6" href="$d9/d3b/classorg_1_1apache_1_1lucene_1_1index_1_1_empty_doc_values_producer.html" title="Abstrast base class implementing a DocValuesProducer that has no doc values. " alt="" coords="621,136,799,177"/>
+<area shape="rect" id="node7" title="Encapsulates multiple producers when there are docvalues updates as one producer. ..." alt="" coords="613,201,807,243"/>
+</map>

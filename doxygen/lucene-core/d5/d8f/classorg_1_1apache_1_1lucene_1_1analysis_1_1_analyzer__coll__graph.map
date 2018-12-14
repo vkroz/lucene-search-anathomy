@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.analysis.Analyzer" name="org.apache.lucene.analysis.Analyzer">
+<area shape="rect" id="node3" href="$d9/df4/classorg_1_1apache_1_1lucene_1_1util_1_1_closeable_thread_local.html" title="org.apache.lucene.util.Closeable\lThreadLocal\&lt; Object \&gt;" alt="" coords="5,57,221,98"/>
+<area shape="rect" id="node4" title="Strategy defining how TokenStreamComponents are reused per call to Analyzer#tokenStream(String, java.io.Reader). " alt="" coords="20,122,207,163"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.analysis.tokenattributes.CharTermAttribute" name="org.apache.lucene.analysis.tokenattributes.CharTermAttribute">
+<area shape="rect" id="node5" href="$d5/d90/classorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_char_term_attribute_impl.html" title="Default implementation of CharTermAttribute. " alt="" coords="151,169,430,211"/>
+<area shape="rect" id="node2" href="$d9/de5/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_attribute.html" title="Base interface for attributes. " alt="" coords="5,5,211,32"/>
+<area shape="rect" id="node6" href="$d5/d1b/classorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_packed_token_attribute_impl.html" title="Default implementation of the common attributes used by Lucene: " alt="" coords="151,259,430,300"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="org.apache.lucene.search.spans.Spans" name="org.apache.lucene.search.spans.Spans">
+<area shape="rect" id="node3" title="Common super class for multiple sub spans required in a document. " alt="" coords="499,71,717,112"/>
+<area shape="rect" id="node7" href="$d0/db3/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_filter_spans.html" title="A Spans implementation wrapping another spans instance, allowing to filter spans matches easily by im..." alt="" coords="499,136,717,177"/>
+<area shape="rect" id="node9" href="$d0/d2c/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_term_spans.html" title="Expert: Public for extension only. " alt="" coords="499,267,717,308"/>
+<area shape="rect" id="node2" href="$d6/d7c/classorg_1_1apache_1_1lucene_1_1search_1_1_doc_id_set_iterator.html" title="This abstract class defines methods to iterate over a set of non&#45;decreasing doc ids. " alt="" coords="5,169,184,211"/>
+<area shape="rect" id="node5" href="$d8/dbf/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_near_spans_ordered.html" title="A Spans that is formed from the ordered subspans of a SpanNearQuery where the subspans do not overlap..." alt="" coords="765,71,984,112"/>
+<area shape="rect" id="node6" href="$d8/d65/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_near_spans_unordered.html" title="Similar to NearSpansOrdered, but for the unordered case. " alt="" coords="765,136,984,177"/>
+</map>

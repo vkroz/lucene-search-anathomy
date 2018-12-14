@@ -1,0 +1,3 @@
+<map id="org.apache.lucene.codecs.MultiLevelSkipListReader" name="org.apache.lucene.codecs.MultiLevelSkipListReader">
+<area shape="rect" id="node3" title="Implements the skip list reader for block postings format that stores positions and payloads..." alt="" coords="5,169,244,211"/>
+</map>

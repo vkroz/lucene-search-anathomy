@@ -1,0 +1,15 @@
+<map id="org.apache.lucene.codecs.lucene60.Lucene60PointsReader" name="org.apache.lucene.codecs.lucene60.Lucene60PointsReader">
+<area shape="rect" id="node2" href="$dd/d9b/classorg_1_1apache_1_1lucene_1_1codecs_1_1_points_reader.html" title="Abstract API to visit point values. " alt="" coords="294,57,475,98"/>
+<area shape="rect" id="node14" href="$d3/dcb/classorg_1_1apache_1_1lucene_1_1store_1_1_directory.html" title="A. " alt="" coords="300,658,469,700"/>
+<area shape="rect" id="node15" href="$d8/dbf/classorg_1_1apache_1_1lucene_1_1store_1_1_index_input.html" title="Abstract base class for input from a file in a Directory. " alt="" coords="949,717,1119,758"/>
+<area shape="rect" id="node4" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="5,56,235,83"/>
+<area shape="rect" id="node5" href="$db/dd5/classorg_1_1apache_1_1lucene_1_1index_1_1_segment_read_state.html" title="Holder class for common parameters used during read. " alt="" coords="949,470,1119,512"/>
+<area shape="rect" id="node6" href="$d4/db4/classorg_1_1apache_1_1lucene_1_1index_1_1_field_infos.html" title="Collection of FieldInfos (accessible by number or by name). " alt="" coords="604,216,775,257"/>
+<area shape="rect" id="node8" href="$d0/db3/classorg_1_1apache_1_1lucene_1_1store_1_1_i_o_context.html" title="IOContext holds additional details on the merge/search context. " alt="" coords="605,353,774,394"/>
+<area shape="rect" id="node9" href="$d5/d03/classorg_1_1apache_1_1lucene_1_1store_1_1_merge_info.html" title="org.apache.lucene.store.\lMergeInfo" alt="" coords="300,225,469,266"/>
+<area shape="rect" id="node10" href="$de/df7/enumorg_1_1apache_1_1lucene_1_1store_1_1_i_o_context_1_1_context.html" title="Context is a enumerator which specifies the context in which the Directory is being used for..." alt="" coords="300,290,469,332"/>
+<area shape="rect" id="node11" href="$d9/de6/classorg_1_1apache_1_1lucene_1_1store_1_1_flush_info.html" title="org.apache.lucene.store.\lFlushInfo" alt="" coords="300,356,469,397"/>
+<area shape="rect" id="node12" href="$d2/d9b/classorg_1_1apache_1_1lucene_1_1index_1_1_segment_info.html" title="Information about a segment such as its name, directory, and files related to the segment..." alt="" coords="604,566,775,608"/>
+<area shape="rect" id="node13" href="$dc/d5b/classorg_1_1apache_1_1lucene_1_1util_1_1_version.html" title="Use by certain classes to match version compatibility across releases of Lucene. " alt="" coords="284,607,485,634"/>
+<area shape="rect" id="node16" href="$d0/d58/classorg_1_1apache_1_1lucene_1_1store_1_1_data_input.html" title="Abstract base class for performing read operations of Lucene&#39;s low&#45;level data types. " alt="" coords="605,776,774,817"/>
+</map>

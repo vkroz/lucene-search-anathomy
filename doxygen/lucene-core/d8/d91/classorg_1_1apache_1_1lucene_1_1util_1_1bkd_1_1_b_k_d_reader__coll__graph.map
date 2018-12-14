@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.util.bkd.BKDReader" name="org.apache.lucene.util.bkd.BKDReader">
+<area shape="rect" id="node2" href="$d1/d7b/classorg_1_1apache_1_1lucene_1_1index_1_1_point_values.html" title="Access to indexed numeric values. " alt="" coords="385,5,556,47"/>
+<area shape="rect" id="node3" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="356,71,585,98"/>
+<area shape="rect" id="node4" href="$d8/dbf/classorg_1_1apache_1_1lucene_1_1store_1_1_index_input.html" title="Abstract base class for input from a file in a Directory. " alt="" coords="386,123,555,164"/>
+<area shape="rect" id="node5" href="$d0/d58/classorg_1_1apache_1_1lucene_1_1store_1_1_data_input.html" title="Abstract base class for performing read operations of Lucene&#39;s low&#45;level data types. " alt="" coords="137,123,307,164"/>
+</map>

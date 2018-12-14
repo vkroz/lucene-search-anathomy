@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.codecs.TermVectorsReader" name="org.apache.lucene.codecs.TermVectorsReader">
+<area shape="rect" id="node5" href="$d2/d85/classorg_1_1apache_1_1lucene_1_1codecs_1_1compressing_1_1_compressing_term_vectors_reader.html" title="TermVectorsReader for CompressingTermVectorsFormat. " alt="" coords="23,169,283,211"/>
+<area shape="rect" id="node4" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="219,5,448,32"/>
+</map>

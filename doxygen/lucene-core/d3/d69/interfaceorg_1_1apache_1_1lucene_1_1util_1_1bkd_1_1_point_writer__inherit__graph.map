@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.util.bkd.PointWriter" name="org.apache.lucene.util.bkd.PointWriter">
+<area shape="rect" id="node3" href="$de/dc4/classorg_1_1apache_1_1lucene_1_1util_1_1bkd_1_1_heap_point_writer.html" title="Utility class to write new points into in&#45;heap arrays. " alt="" coords="364,5,545,47"/>
+<area shape="rect" id="node4" href="$df/dc1/classorg_1_1apache_1_1lucene_1_1util_1_1bkd_1_1_offline_point_writer.html" title="Writes points to disk in a fixed&#45;with format. " alt="" coords="364,71,545,112"/>
+</map>

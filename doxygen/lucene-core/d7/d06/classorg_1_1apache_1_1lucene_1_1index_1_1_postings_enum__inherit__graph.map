@@ -1,0 +1,9 @@
+<map id="org.apache.lucene.index.PostingsEnum" name="org.apache.lucene.index.PostingsEnum">
+<area shape="rect" id="node6" title="Base class for filtering PostingsEnum implementations. " alt="" coords="479,201,719,243"/>
+<area shape="rect" id="node7" href="$d5/d3d/classorg_1_1apache_1_1lucene_1_1index_1_1_impacts_enum.html" title="Extension of PostingsEnum which also provides information about upcoming impacts. ..." alt="" coords="514,267,685,308"/>
+<area shape="rect" id="node10" title="Exposes flex API, merged from flex API of sub&#45;segments, remapping docIDs (this is used for segment me..." alt="" coords="506,332,693,373"/>
+<area shape="rect" id="node11" href="$da/d19/classorg_1_1apache_1_1lucene_1_1index_1_1_multi_postings_enum.html" title="Exposes PostingsEnum, merged from PostingsEnum API of sub&#45;segments. " alt="" coords="514,397,685,439"/>
+<area shape="rect" id="node12" title="Takes the logical union of multiple PostingsEnum iterators. " alt="" coords="473,463,726,504"/>
+<area shape="rect" id="node2" href="$d6/d7c/classorg_1_1apache_1_1lucene_1_1search_1_1_doc_id_set_iterator.html" title="This abstract class defines methods to iterate over a set of non&#45;decreasing doc ids. " alt="" coords="5,235,184,276"/>
+<area shape="rect" id="node9" href="$d6/deb/classorg_1_1apache_1_1lucene_1_1index_1_1_slow_impacts_enum.html" title="ImpactsEnum that doesn&#39;t index impacts but implements the API in a legal way. " alt="" coords="848,304,1019,345"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dd/df2/classorg_1_1apache_1_1lucene_1_1index_1_1_base_composite_reader.html" title="org.apache.lucene.index.\lBaseCompositeReader\&lt; IndexReader \&gt;" alt="" coords="5,5,264,47"/>
+<area shape="rect" id="node2" href="$dd/d57/classorg_1_1apache_1_1lucene_1_1index_1_1_multi_reader.html" title="A CompositeReader which reads multiple indexes, appending their content. " alt="" coords="312,5,483,47"/>
+</map>

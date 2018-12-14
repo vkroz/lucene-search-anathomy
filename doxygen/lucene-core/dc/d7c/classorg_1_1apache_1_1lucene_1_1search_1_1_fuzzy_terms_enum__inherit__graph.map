@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.search.FuzzyTermsEnum" name="org.apache.lucene.search.FuzzyTermsEnum">
+<area shape="rect" id="node2" href="$dd/dc5/classorg_1_1apache_1_1lucene_1_1index_1_1_terms_enum.html" title="Iterator to seek (seekCeil(BytesRef), seekExact(BytesRef)) or step through (next terms to obtain freq..." alt="" coords="15,95,185,136"/>
+<area shape="rect" id="node3" href="$d6/d4e/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_bytes_ref_iterator.html" title="A simple iterator interface for BytesRef iteration. " alt="" coords="5,5,195,47"/>
+</map>

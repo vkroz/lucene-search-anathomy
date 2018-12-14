@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.search.SimpleFieldComparator&lt; T &gt;" name="org.apache.lucene.search.SimpleFieldComparator&lt; T &gt;">
+<area shape="rect" id="node2" href="$db/d2b/classorg_1_1apache_1_1lucene_1_1search_1_1_field_comparator.html" title="Expert: a FieldComparator compares hits so as to determine their sort order when collecting the top r..." alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node3" href="$d5/d65/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_leaf_field_comparator.html" title="Expert: comparator that gets instantiated on each leaf from a top&#45;level FieldComparator instance..." alt="" coords="19,71,198,112"/>
+</map>

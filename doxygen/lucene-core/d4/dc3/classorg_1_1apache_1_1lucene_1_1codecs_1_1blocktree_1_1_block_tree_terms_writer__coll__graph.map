@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.codecs.blocktree.BlockTreeTermsWriter" name="org.apache.lucene.codecs.blocktree.BlockTreeTermsWriter">
+<area shape="rect" id="node2" href="$d8/d77/classorg_1_1apache_1_1lucene_1_1codecs_1_1_fields_consumer.html" title="Abstract API that consumes terms, doc, freq, prox, offset and payloads postings. " alt="" coords="241,5,423,47"/>
+<area shape="rect" id="node6" href="$d6/dde/classorg_1_1apache_1_1lucene_1_1codecs_1_1_postings_writer_base.html" title="Class that plugs into term dictionaries, such as BlockTreeTermsWriter, and handles writing postings..." alt="" coords="241,71,423,112"/>
+<area shape="rect" id="node4" href="$d4/db4/classorg_1_1apache_1_1lucene_1_1index_1_1_field_infos.html" title="Collection of FieldInfos (accessible by number or by name). " alt="" coords="247,175,417,216"/>
+<area shape="rect" id="node7" href="$db/db3/classorg_1_1apache_1_1lucene_1_1util_1_1_bytes_ref.html" title="Represents byte[], as a slice (offset + length) into an existing byte[]. " alt="" coords="227,241,437,267"/>
+</map>

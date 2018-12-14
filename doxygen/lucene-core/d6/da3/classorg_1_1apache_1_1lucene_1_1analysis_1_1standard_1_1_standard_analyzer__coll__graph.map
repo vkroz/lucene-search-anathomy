@@ -1,0 +1,7 @@
+<map id="org.apache.lucene.analysis.standard.StandardAnalyzer" name="org.apache.lucene.analysis.standard.StandardAnalyzer">
+<area shape="rect" id="node2" href="$de/ddb/classorg_1_1apache_1_1lucene_1_1analysis_1_1_stopword_analyzer_base.html" title="Base class for Analyzers that need to make use of stopword sets. " alt="" coords="775,129,961,170"/>
+<area shape="rect" id="node3" href="$d6/d78/classorg_1_1apache_1_1lucene_1_1analysis_1_1_analyzer.html" title="An Analyzer builds TokenStreams, which analyze text. " alt="" coords="475,63,661,105"/>
+<area shape="rect" id="node5" href="$d9/df4/classorg_1_1apache_1_1lucene_1_1util_1_1_closeable_thread_local.html" title="org.apache.lucene.util.Closeable\lThreadLocal\&lt; Object \&gt;" alt="" coords="5,57,221,98"/>
+<area shape="rect" id="node6" title="Strategy defining how TokenStreamComponents are reused per call to Analyzer#tokenStream(String, java.io.Reader). " alt="" coords="20,122,207,163"/>
+<area shape="rect" id="node7" href="$d9/d7c/classorg_1_1apache_1_1lucene_1_1analysis_1_1_char_array_set.html" title="A simple class that stores Strings as char[]&#39;s in a hash table. " alt="" coords="475,181,661,222"/>
+</map>

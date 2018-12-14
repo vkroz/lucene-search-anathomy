@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.analysis.StopwordAnalyzerBase" name="org.apache.lucene.analysis.StopwordAnalyzerBase">
+<area shape="rect" id="node4" href="$de/d94/classorg_1_1apache_1_1lucene_1_1analysis_1_1standard_1_1_standard_analyzer.html" title="Filters StandardTokenizer with LowerCaseFilter and StopFilter, using a configurable list of stop word..." alt="" coords="5,259,248,300"/>
+<area shape="rect" id="node2" href="$d6/d78/classorg_1_1apache_1_1lucene_1_1analysis_1_1_analyzer.html" title="An Analyzer builds TokenStreams, which analyze text. " alt="" coords="33,80,220,121"/>
+</map>

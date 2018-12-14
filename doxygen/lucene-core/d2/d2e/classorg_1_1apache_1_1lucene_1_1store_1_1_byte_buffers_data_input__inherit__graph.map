@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.store.ByteBuffersDataInput" name="org.apache.lucene.store.ByteBuffersDataInput">
+<area shape="rect" id="node2" href="$d0/d58/classorg_1_1apache_1_1lucene_1_1store_1_1_data_input.html" title="Abstract base class for performing read operations of Lucene&#39;s low&#45;level data types. " alt="" coords="166,5,335,47"/>
+<area shape="rect" id="node4" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="136,71,365,98"/>
+<area shape="rect" id="node5" href="$d0/d78/interfaceorg_1_1apache_1_1lucene_1_1store_1_1_random_access_input.html" title="Random Access Index API. " alt="" coords="166,123,335,164"/>
+</map>

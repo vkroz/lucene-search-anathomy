@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.codecs.lucene50.Lucene50PostingsWriter" name="org.apache.lucene.codecs.lucene50.Lucene50PostingsWriter">
+<area shape="rect" id="node2" href="$dd/db6/classorg_1_1apache_1_1lucene_1_1codecs_1_1_push_postings_writer_base.html" title="Extension of PostingsWriterBase, adding a push API for writing each element of the postings..." alt="" coords="34,169,215,211"/>
+<area shape="rect" id="node3" href="$d6/dde/classorg_1_1apache_1_1lucene_1_1codecs_1_1_postings_writer_base.html" title="Class that plugs into term dictionaries, such as BlockTreeTermsWriter, and handles writing postings..." alt="" coords="34,80,215,121"/>
+</map>

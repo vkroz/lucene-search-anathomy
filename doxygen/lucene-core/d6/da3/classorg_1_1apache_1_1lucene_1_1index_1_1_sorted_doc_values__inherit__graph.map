@@ -1,0 +1,9 @@
+<map id="org.apache.lucene.index.SortedDocValues" name="org.apache.lucene.index.SortedDocValues">
+<area shape="rect" id="node5" title="Implements SortedDocValues over n subs, using an OrdinalMap .internal. " alt="" coords="899,5,1109,61"/>
+<area shape="rect" id="node7" title="Wraps a SortedSetDocValues and returns the last ordinal (max) " alt="" coords="907,166,1101,207"/>
+<area shape="rect" id="node8" title="Wraps a SortedSetDocValues and returns the middle ordinal (or max of the two) " alt="" coords="888,231,1120,273"/>
+<area shape="rect" id="node9" title="Wraps a SortedSetDocValues and returns the middle ordinal (or min of the two) " alt="" coords="889,297,1119,338"/>
+<area shape="rect" id="node10" title="Wraps a SortedSetDocValues and returns the first ordinal (min) " alt="" coords="909,362,1099,403"/>
+<area shape="rect" id="node2" href="$dc/d40/classorg_1_1apache_1_1lucene_1_1index_1_1_binary_doc_values.html" title="A per&#45;document numeric value. " alt="" coords="451,199,621,241"/>
+<area shape="rect" id="node4" href="$d6/d7c/classorg_1_1apache_1_1lucene_1_1search_1_1_doc_id_set_iterator.html" title="This abstract class defines methods to iterate over a set of non&#45;decreasing doc ids. " alt="" coords="5,199,184,241"/>
+</map>

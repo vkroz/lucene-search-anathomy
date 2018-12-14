@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.util.SparseFixedBitSet" name="org.apache.lucene.util.SparseFixedBitSet">
+<area shape="rect" id="node2" href="$df/de3/classorg_1_1apache_1_1lucene_1_1util_1_1_bit_set.html" title="Base implementation for a bit set. " alt="" coords="283,43,475,69"/>
+<area shape="rect" id="node3" href="$d8/d21/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_bits.html" title="Interface for Bitset&#45;like structures. " alt="" coords="31,5,209,32"/>
+<area shape="rect" id="node4" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="5,68,235,95"/>
+</map>

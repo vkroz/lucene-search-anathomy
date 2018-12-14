@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.index.FilterDirectoryReader" name="org.apache.lucene.index.FilterDirectoryReader">
+<area shape="rect" id="node4" href="$d8/d3d/classorg_1_1apache_1_1lucene_1_1index_1_1_exitable_directory_reader.html" title="The ExitableDirectoryReader wraps a real index DirectoryReader and allows for a QueryTimeout implemen..." alt="" coords="777,5,947,47"/>
+<area shape="rect" id="node5" href="$da/d35/classorg_1_1apache_1_1lucene_1_1index_1_1_soft_deletes_directory_reader_wrapper.html" title="This reader filters out documents that have a doc values value in the given field and treat these doc..." alt="" coords="743,71,981,112"/>
+<area shape="rect" id="node2" href="$df/dfb/classorg_1_1apache_1_1lucene_1_1index_1_1_directory_reader.html" title="DirectoryReader is an implementation of CompositeReader that can read indexes in a Directory..." alt="" coords="305,39,476,80"/>
+<area shape="rect" id="node3" href="$dd/df2/classorg_1_1apache_1_1lucene_1_1index_1_1_base_composite_reader.html" title="org.apache.lucene.index.\lBaseCompositeReader\&lt; LeafReader \&gt;" alt="" coords="5,39,257,80"/>
+</map>

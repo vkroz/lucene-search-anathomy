@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.search.spans.SpanNotQuery.SpanNotWeight" name="org.apache.lucene.search.spans.SpanNotQuery.SpanNotWeight">
+<area shape="rect" id="node2" href="$d7/d96/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_weight.html" title="Expert&#45;only. " alt="" coords="5,184,224,225"/>
+<area shape="rect" id="node3" href="$dd/df5/classorg_1_1apache_1_1lucene_1_1search_1_1_weight.html" title="Expert: Calculate query weights and build query scorers. " alt="" coords="25,95,204,136"/>
+<area shape="rect" id="node4" href="$db/d31/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_segment_cacheable.html" title="Interface defining whether or not an object can be cached against a LeafReader. " alt="" coords="25,5,204,47"/>
+</map>

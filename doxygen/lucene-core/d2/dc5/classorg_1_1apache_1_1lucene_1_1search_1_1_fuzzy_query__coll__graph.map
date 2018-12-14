@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.search.FuzzyQuery" name="org.apache.lucene.search.FuzzyQuery">
+<area shape="rect" id="node2" href="$de/d2d/classorg_1_1apache_1_1lucene_1_1search_1_1_multi_term_query.html" title="An abstract Query that matches documents containing a subset of terms provided by a FilteredTermsEnum..." alt="" coords="472,52,651,93"/>
+<area shape="rect" id="node3" href="$d7/d78/classorg_1_1apache_1_1lucene_1_1search_1_1_query.html" title="The abstract base class for queries. " alt="" coords="21,5,200,47"/>
+<area shape="rect" id="node4" title="Abstract class that defines how the query is rewritten. " alt="" coords="5,99,216,140"/>
+</map>

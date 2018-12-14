@@ -1,0 +1,10 @@
+<map id="org.apache.lucene.index.FieldInvertState" name="org.apache.lucene.index.FieldInvertState">
+<area shape="rect" id="node2" href="$df/dc9/interfaceorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_term_frequency_attribute.html" title="Sets the custom term frequency of a term within one document. " alt="" coords="260,5,539,47"/>
+<area shape="rect" id="node3" href="$d9/de5/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_attribute.html" title="Base interface for attributes. " alt="" coords="5,143,211,170"/>
+<area shape="rect" id="node4" href="$d0/d56/interfaceorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_position_increment_attribute.html" title="Determines the position of this token relative to the previous Token in a TokenStream, used in phrase searching. " alt="" coords="260,71,539,112"/>
+<area shape="rect" id="node5" href="$d3/d99/interfaceorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_offset_attribute.html" title="The start and end character offset of a Token. " alt="" coords="260,136,539,177"/>
+<area shape="rect" id="node6" href="$da/df5/interfaceorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_term_to_bytes_ref_attribute.html" title="This attribute is requested by TermsHashPerField to index the contents. " alt="" coords="260,201,539,243"/>
+<area shape="rect" id="node9" href="$d1/d7b/interfaceorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_payload_attribute.html" title="The payload of a Token. " alt="" coords="260,267,539,308"/>
+<area shape="rect" id="node7" href="$dc/d09/classorg_1_1apache_1_1lucene_1_1util_1_1_attribute_source.html" title="An AttributeSource contains a list of different AttributeImpls, and methods to add and get them..." alt="" coords="297,332,502,373"/>
+<area shape="rect" id="node8" href="$db/d9d/enumorg_1_1apache_1_1lucene_1_1index_1_1_index_options.html" title="Controls how much information is stored in the postings lists. " alt="" coords="314,397,485,439"/>
+</map>

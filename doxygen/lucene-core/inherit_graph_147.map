@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d4/dbb/classorg_1_1apache_1_1lucene_1_1search_1_1_top_docs_collector.html" title="org.apache.lucene.search.\lTopDocsCollector\&lt; ScoreDoc \&gt;" alt="" coords="5,5,215,47"/>
+<area shape="rect" id="node2" href="$db/d8e/classorg_1_1apache_1_1lucene_1_1search_1_1_top_score_doc_collector.html" title="A Collector implementation that collects the top&#45;scoring hits, returning them as a TopDocs..." alt="" coords="263,5,441,47"/>
+</map>

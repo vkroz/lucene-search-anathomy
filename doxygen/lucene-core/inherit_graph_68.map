@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$da/d4c/interfaceorg_1_1apache_1_1lucene_1_1index_1_1_query_timeout.html" title="Base for query timeout implementations, which will provide a. " alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node2" href="$d5/dce/classorg_1_1apache_1_1lucene_1_1index_1_1_query_timeout_impl.html" title="An implementation of QueryTimeout that can be used by the ExitableDirectoryReader class to time out a..." alt="" coords="224,5,395,47"/>
+</map>

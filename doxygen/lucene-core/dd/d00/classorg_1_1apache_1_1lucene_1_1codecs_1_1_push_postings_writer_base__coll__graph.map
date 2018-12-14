@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.codecs.PushPostingsWriterBase" name="org.apache.lucene.codecs.PushPostingsWriterBase">
+<area shape="rect" id="node2" href="$d6/dde/classorg_1_1apache_1_1lucene_1_1codecs_1_1_postings_writer_base.html" title="Class that plugs into term dictionaries, such as BlockTreeTermsWriter, and handles writing postings..." alt="" coords="136,5,317,47"/>
+<area shape="rect" id="node4" href="$d4/dcb/classorg_1_1apache_1_1lucene_1_1index_1_1_field_info.html" title="Access to the Field Info file that describes document fields and whether or not they are indexed..." alt="" coords="141,71,312,112"/>
+<area shape="rect" id="node5" href="$db/d9d/enumorg_1_1apache_1_1lucene_1_1index_1_1_index_options.html" title="Controls how much information is stored in the postings lists. " alt="" coords="141,136,312,177"/>
+</map>

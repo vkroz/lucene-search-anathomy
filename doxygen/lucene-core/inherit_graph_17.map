@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d1/d3e/classorg_1_1apache_1_1lucene_1_1codecs_1_1_doc_values_format.html" title="Encodes/decodes per&#45;document values. " alt="" coords="5,39,187,80"/>
+<area shape="rect" id="node2" href="$d4/df4/classorg_1_1apache_1_1lucene_1_1codecs_1_1lucene70_1_1_lucene70_doc_values_format.html" title="Lucene 7.0 DocValues format. " alt="" coords="235,5,473,47"/>
+<area shape="rect" id="node3" href="$da/d68/classorg_1_1apache_1_1lucene_1_1codecs_1_1perfield_1_1_per_field_doc_values_format.html" title="Enables per field docvalues support. " alt="" coords="239,71,469,112"/>
+</map>

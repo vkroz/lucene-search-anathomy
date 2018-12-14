@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.search.spans.TermSpans" name="org.apache.lucene.search.spans.TermSpans">
+<area shape="rect" id="node2" href="$df/d6e/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_spans.html" title="Iterates through combinations of start/end positions per&#45;doc. " alt="" coords="5,95,224,136"/>
+<area shape="rect" id="node3" href="$d6/d7c/classorg_1_1apache_1_1lucene_1_1search_1_1_doc_id_set_iterator.html" title="This abstract class defines methods to iterate over a set of non&#45;decreasing doc ids. " alt="" coords="25,5,204,47"/>
+</map>

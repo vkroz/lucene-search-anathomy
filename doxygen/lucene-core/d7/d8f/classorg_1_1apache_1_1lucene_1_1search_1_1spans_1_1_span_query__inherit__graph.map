@@ -1,0 +1,15 @@
+<map id="org.apache.lucene.search.spans.SpanQuery" name="org.apache.lucene.search.spans.SpanQuery">
+<area shape="rect" id="node3" href="$dd/df2/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_field_masking_span_query.html" title="org.apache.lucene.search.spans.\lFieldMaskingSpanQuery" alt="" coords="499,5,717,47"/>
+<area shape="rect" id="node4" href="$d7/d92/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_boost_query.html" title="Counterpart of BoostQuery for spans. " alt="" coords="499,71,717,112"/>
+<area shape="rect" id="node8" href="$dc/dda/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_multi_term_query_wrapper.html" title="Wraps any MultiTermQuery as a SpanQuery, so it can be nested within other SpanQuery classes..." alt="" coords="499,202,717,258"/>
+<area shape="rect" id="node9" href="$d9/db2/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_near_query.html" title="Matches spans which are near one another. " alt="" coords="499,283,717,324"/>
+<area shape="rect" id="node10" href="$d6/d85/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_not_query.html" title="Removes matches which overlap with another SpanQuery or which are within x tokens before or y tokens ..." alt="" coords="499,348,717,389"/>
+<area shape="rect" id="node11" href="$da/d6c/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_or_query.html" title="Matches the union of its clauses. " alt="" coords="499,413,717,455"/>
+<area shape="rect" id="node12" href="$d6/d16/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_position_check_query.html" title="Base class for filtering a SpanQuery based on the position of a match. " alt="" coords="499,479,717,520"/>
+<area shape="rect" id="node15" href="$d7/d60/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_term_query.html" title="Matches spans containing a term. " alt="" coords="499,544,717,585"/>
+<area shape="rect" id="node2" href="$d7/d78/classorg_1_1apache_1_1lucene_1_1search_1_1_query.html" title="The abstract base class for queries. " alt="" coords="5,283,184,324"/>
+<area shape="rect" id="node6" href="$d1/d9a/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_containing_query.html" title="Keep matches that contain another SpanScorer. " alt="" coords="765,104,984,145"/>
+<area shape="rect" id="node7" href="$d1/df8/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_within_query.html" title="Keep matches that are contained within another Spans. " alt="" coords="765,169,984,211"/>
+<area shape="rect" id="node13" href="$d7/d96/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_position_range_query.html" title="Checks to see if the getMatch() lies between a start and end position. " alt="" coords="765,479,984,520"/>
+<area shape="rect" id="node14" href="$dc/dd0/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_first_query.html" title="Matches spans near the beginning of a field. " alt="" coords="1032,479,1251,520"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.index.LogMergePolicy" name="org.apache.lucene.index.LogMergePolicy">
+<area shape="rect" id="node3" href="$d6/d60/classorg_1_1apache_1_1lucene_1_1index_1_1_log_byte_size_merge_policy.html" title="This is a LogMergePolicy that measures size of a segment as the total byte size of the segment&#39;s file..." alt="" coords="443,5,613,47"/>
+<area shape="rect" id="node4" href="$df/d0f/classorg_1_1apache_1_1lucene_1_1index_1_1_log_doc_merge_policy.html" title="This is a LogMergePolicy that measures size of a segment as the number of documents (not taking delet..." alt="" coords="443,71,613,112"/>
+<area shape="rect" id="node2" href="$d3/d42/classorg_1_1apache_1_1lucene_1_1index_1_1_merge_policy.html" title="org.apache.lucene.index.\lMergePolicy" alt="" coords="5,39,176,80"/>
+</map>

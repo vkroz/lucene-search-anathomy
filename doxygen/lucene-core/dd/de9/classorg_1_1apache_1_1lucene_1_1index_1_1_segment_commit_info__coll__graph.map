@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.index.SegmentCommitInfo" name="org.apache.lucene.index.SegmentCommitInfo">
+<area shape="rect" id="node2" href="$d2/d9b/classorg_1_1apache_1_1lucene_1_1index_1_1_segment_info.html" title="Information about a segment such as its name, directory, and files related to the segment..." alt="" coords="201,305,371,347"/>
+<area shape="rect" id="node3" href="$dc/d5b/classorg_1_1apache_1_1lucene_1_1util_1_1_version.html" title="Use by certain classes to match version compatibility across releases of Lucene. " alt="" coords="5,149,207,175"/>
+<area shape="rect" id="node4" href="$d3/dcb/classorg_1_1apache_1_1lucene_1_1store_1_1_directory.html" title="A. " alt="" coords="383,141,552,183"/>
+</map>

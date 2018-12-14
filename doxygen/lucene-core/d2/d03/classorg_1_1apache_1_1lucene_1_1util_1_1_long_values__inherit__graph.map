@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.util.LongValues" name="org.apache.lucene.util.LongValues">
+<area shape="rect" id="node2" href="$d9/db5/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_abstract_paged_mutable.html" title="Base implementation for PagedMutable and PagedGrowableWriter. " alt="" coords="247,5,473,61"/>
+<area shape="rect" id="node3" href="$d3/d4b/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_block_packed_reader.html" title="Provides random access to a stream written with BlockPackedWriter. " alt="" coords="259,86,461,127"/>
+<area shape="rect" id="node18" href="$dd/de7/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_monotonic_block_packed_reader.html" title="Provides random access to a stream written with MonotonicBlockPackedWriter. " alt="" coords="258,1066,462,1107"/>
+<area shape="rect" id="node19" href="$d2/d19/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_packed_long_values.html" title="Utility class to compress integers into a LongValues instance. " alt="" coords="259,1131,461,1173"/>
+</map>

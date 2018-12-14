@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.search.spans.SpanMultiTermQueryWrapper&lt; Q extends MultiTermQuery &gt;" name="org.apache.lucene.search.spans.SpanMultiTermQueryWrapper&lt; Q extends MultiTermQuery &gt;">
+<area shape="rect" id="node2" href="$d6/de7/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_query.html" title="Base class for span&#45;based queries. " alt="" coords="265,5,484,47"/>
+<area shape="rect" id="node3" href="$d7/d78/classorg_1_1apache_1_1lucene_1_1search_1_1_query.html" title="The abstract base class for queries. " alt="" coords="21,5,200,47"/>
+<area shape="rect" id="node4" title="Abstract class that defines how the query is rewritten. " alt="" coords="265,71,484,141"/>
+<area shape="rect" id="node5" title="Abstract class that defines how the query is rewritten. " alt="" coords="5,85,216,127"/>
+</map>

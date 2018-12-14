@@ -1,0 +1,10 @@
+<map id="org.apache.lucene.index.SegmentReadState" name="org.apache.lucene.index.SegmentReadState">
+<area shape="rect" id="node2" href="$d4/db4/classorg_1_1apache_1_1lucene_1_1index_1_1_field_infos.html" title="Collection of FieldInfos (accessible by number or by name). " alt="" coords="456,44,627,85"/>
+<area shape="rect" id="node4" href="$d0/db3/classorg_1_1apache_1_1lucene_1_1store_1_1_i_o_context.html" title="IOContext holds additional details on the merge/search context. " alt="" coords="457,205,626,247"/>
+<area shape="rect" id="node5" href="$d5/d03/classorg_1_1apache_1_1lucene_1_1store_1_1_merge_info.html" title="org.apache.lucene.store.\lMergeInfo" alt="" coords="152,88,321,129"/>
+<area shape="rect" id="node6" href="$de/df7/enumorg_1_1apache_1_1lucene_1_1store_1_1_i_o_context_1_1_context.html" title="Context is a enumerator which specifies the context in which the Directory is being used for..." alt="" coords="152,153,321,195"/>
+<area shape="rect" id="node7" href="$d9/de6/classorg_1_1apache_1_1lucene_1_1store_1_1_flush_info.html" title="org.apache.lucene.store.\lFlushInfo" alt="" coords="152,219,321,260"/>
+<area shape="rect" id="node8" href="$d2/d9b/classorg_1_1apache_1_1lucene_1_1index_1_1_segment_info.html" title="Information about a segment such as its name, directory, and files related to the segment..." alt="" coords="456,432,627,473"/>
+<area shape="rect" id="node9" href="$dc/d5b/classorg_1_1apache_1_1lucene_1_1util_1_1_version.html" title="Use by certain classes to match version compatibility across releases of Lucene. " alt="" coords="136,470,337,497"/>
+<area shape="rect" id="node10" href="$d3/dcb/classorg_1_1apache_1_1lucene_1_1store_1_1_directory.html" title="A. " alt="" coords="152,521,321,563"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.search.spans.SpanWeight" name="org.apache.lucene.search.spans.SpanWeight">
+<area shape="rect" id="node2" href="$dd/df5/classorg_1_1apache_1_1lucene_1_1search_1_1_weight.html" title="Expert: Calculate query weights and build query scorers. " alt="" coords="107,109,285,151"/>
+<area shape="rect" id="node3" href="$db/d31/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_segment_cacheable.html" title="Interface defining whether or not an object can be cached against a LeafReader. " alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node4" href="$d7/d78/classorg_1_1apache_1_1lucene_1_1search_1_1_query.html" title="The abstract base class for queries. " alt="" coords="208,5,387,47"/>
+<area shape="rect" id="node5" href="$d6/dab/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_similarity.html" title="Similarity defines the components of Lucene scoring. " alt="" coords="309,109,555,151"/>
+</map>

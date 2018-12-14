@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.index.TermState" name="org.apache.lucene.index.TermState">
+<area shape="rect" id="node3" href="$d6/d6c/classorg_1_1apache_1_1lucene_1_1index_1_1_ord_term_state.html" title="An ordinal based TermState. " alt="" coords="63,169,234,211"/>
+<area shape="rect" id="node4" href="$d1/dad/classorg_1_1apache_1_1lucene_1_1codecs_1_1_block_term_state.html" title="Holds all state required for PostingsReaderBase to produce a org.apache.lucene.index.PostingsEnum without re&#45;seeking the terms dict. " alt="" coords="58,259,239,300"/>
+</map>

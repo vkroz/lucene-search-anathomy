@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.analysis.Tokenizer" name="org.apache.lucene.analysis.Tokenizer">
+<area shape="rect" id="node2" href="$db/d98/classorg_1_1apache_1_1lucene_1_1analysis_1_1_token_stream.html" title="A TokenStream enumerates the sequence of tokens, either from Fields of a Document or from query text..." alt="" coords="465,64,651,105"/>
+<area shape="rect" id="node3" href="$dc/d09/classorg_1_1apache_1_1lucene_1_1util_1_1_attribute_source.html" title="An AttributeSource contains a list of different AttributeImpls, and methods to add and get them..." alt="" coords="11,5,217,47"/>
+<area shape="rect" id="node5" href="$d0/d72/classorg_1_1apache_1_1lucene_1_1util_1_1_attribute_factory.html" title="An AttributeFactory creates instances of AttributeImpls. " alt="" coords="11,161,217,203"/>
+</map>

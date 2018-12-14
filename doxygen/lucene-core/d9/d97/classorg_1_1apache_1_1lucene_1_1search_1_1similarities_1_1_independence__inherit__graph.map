@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.search.similarities.Independence" name="org.apache.lucene.search.similarities.Independence">
+<area shape="rect" id="node2" href="$d3/d2b/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_independence_chi_squared.html" title="Normalized chi&#45;squared measure of distance from independence. " alt="" coords="299,5,544,47"/>
+<area shape="rect" id="node3" href="$d1/de0/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_independence_saturated.html" title="Saturated measure of distance from independence. " alt="" coords="299,71,544,112"/>
+<area shape="rect" id="node4" href="$d1/d0a/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_independence_standardized.html" title="Standardized measure of distance from independence. " alt="" coords="299,136,544,177"/>
+</map>

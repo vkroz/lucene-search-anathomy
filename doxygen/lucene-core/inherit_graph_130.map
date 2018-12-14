@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$de/d20/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_normalization.html" title="This class acts as the base class for the implementations of the term frequency normalization methods..." alt="" coords="5,104,251,145"/>
+<area shape="rect" id="node2" href="$d0/d42/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_normalization_h1.html" title="Normalization model that assumes a uniform distribution of the term frequency. " alt="" coords="299,5,544,47"/>
+<area shape="rect" id="node3" href="$d0/dda/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_normalization_h2.html" title="Normalization model in which the term frequency is inversely related to the length. " alt="" coords="299,71,544,112"/>
+<area shape="rect" id="node4" href="$d4/dab/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_normalization_h3.html" title="Dirichlet Priors normalization .experimental. " alt="" coords="299,136,544,177"/>
+<area shape="rect" id="node5" href="$d9/d4e/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_normalization_z.html" title="Pareto&#45;Zipf Normalization .experimental. " alt="" coords="299,201,544,243"/>
+</map>

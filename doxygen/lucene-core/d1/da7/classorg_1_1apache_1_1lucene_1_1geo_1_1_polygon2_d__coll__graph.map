@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.geo.Polygon2D" name="org.apache.lucene.geo.Polygon2D">
+<area shape="rect" id="node2" href="$d7/d7b/classorg_1_1apache_1_1lucene_1_1geo_1_1_edge_tree.html" title="2D line/polygon geometry implementation represented as a balanced interval tree of edges..." alt="" coords="9,111,229,137"/>
+<area shape="rect" id="node3" title="Internal tree node: represents geometry edge from lat1,lon1 to lat2,lon2. " alt="" coords="23,5,215,47"/>
+</map>

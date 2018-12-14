@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.index.PersistentSnapshotDeletionPolicy" name="org.apache.lucene.index.PersistentSnapshotDeletionPolicy">
+<area shape="rect" id="node2" href="$d7/dd2/classorg_1_1apache_1_1lucene_1_1index_1_1_snapshot_deletion_policy.html" title="An IndexDeletionPolicy that wraps any other IndexDeletionPolicy and adds the ability to hold and late..." alt="" coords="633,95,804,136"/>
+<area shape="rect" id="node3" href="$d8/dcd/classorg_1_1apache_1_1lucene_1_1index_1_1_index_deletion_policy.html" title="org.apache.lucene.index.\lIndexDeletionPolicy" alt="" coords="288,5,459,47"/>
+<area shape="rect" id="node5" href="$d9/dba/classorg_1_1apache_1_1lucene_1_1index_1_1_index_commit.html" title="org.apache.lucene.index.\lIndexCommit" alt="" coords="288,136,459,177"/>
+</map>

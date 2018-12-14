@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.codecs.Codec" name="org.apache.lucene.codecs.Codec">
+<area shape="rect" id="node3" href="$d2/d2d/classorg_1_1apache_1_1lucene_1_1codecs_1_1_filter_codec.html" title="A codec that forwards all its method calls to another codec. " alt="" coords="581,5,762,47"/>
+<area shape="rect" id="node4" href="$d4/d8a/classorg_1_1apache_1_1lucene_1_1codecs_1_1lucene80_1_1_lucene80_codec.html" title="Implements the Lucene 8.0 index format, with configurable per&#45;field postings and docvalues formats..." alt="" coords="552,71,791,112"/>
+<area shape="rect" id="node2" title="Interface to support NamedSPILoader#lookup(String) by name. " alt="" coords="5,31,275,87"/>
+</map>

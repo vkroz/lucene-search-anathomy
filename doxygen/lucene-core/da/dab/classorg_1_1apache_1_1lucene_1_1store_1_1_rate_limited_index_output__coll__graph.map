@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.store.RateLimitedIndexOutput" name="org.apache.lucene.store.RateLimitedIndexOutput">
+<area shape="rect" id="node2" href="$da/d29/classorg_1_1apache_1_1lucene_1_1store_1_1_index_output.html" title="A DataOutput for appending data to a file in a Directory. " alt="" coords="80,95,249,136"/>
+<area shape="rect" id="node3" href="$de/d31/classorg_1_1apache_1_1lucene_1_1store_1_1_data_output.html" title="Abstract base class for performing write operations of Lucene&#39;s low&#45;level data types. " alt="" coords="5,5,175,47"/>
+</map>

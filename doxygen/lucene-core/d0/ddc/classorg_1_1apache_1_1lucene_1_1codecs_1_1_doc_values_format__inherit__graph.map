@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.codecs.DocValuesFormat" name="org.apache.lucene.codecs.DocValuesFormat">
+<area shape="rect" id="node3" href="$d4/df4/classorg_1_1apache_1_1lucene_1_1codecs_1_1lucene70_1_1_lucene70_doc_values_format.html" title="Lucene 7.0 DocValues format. " alt="" coords="552,5,791,47"/>
+<area shape="rect" id="node4" href="$da/d68/classorg_1_1apache_1_1lucene_1_1codecs_1_1perfield_1_1_per_field_doc_values_format.html" title="Enables per field docvalues support. " alt="" coords="557,71,786,112"/>
+<area shape="rect" id="node2" title="Interface to support NamedSPILoader#lookup(String) by name. " alt="" coords="5,31,275,87"/>
+</map>

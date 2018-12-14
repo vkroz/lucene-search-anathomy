@@ -1,0 +1,7 @@
+<map id="org.apache.lucene.index.OrdinalMap" name="org.apache.lucene.index.OrdinalMap">
+<area shape="rect" id="node2" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="5,106,235,133"/>
+<area shape="rect" id="node5" href="$d2/d19/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_packed_long_values.html" title="Utility class to compress integers into a LongValues instance. " alt="" coords="325,188,528,229"/>
+<area shape="rect" id="node3" href="$df/de9/classorg_1_1apache_1_1lucene_1_1index_1_1_index_reader.html" title=" IndexReader is an abstract class, providing an interface for accessing a point&#45;in&#45;time view of an in..." alt="" coords="341,5,512,47"/>
+<area shape="rect" id="node6" href="$d6/d44/classorg_1_1apache_1_1lucene_1_1util_1_1_long_values.html" title="Abstraction over an array of longs. " alt="" coords="27,280,213,321"/>
+<area shape="rect" id="node7" href="$da/de2/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_packed_ints.html" title="Simplistic compression for array of unsigned long values. " alt="" coords="19,161,221,203"/>
+</map>

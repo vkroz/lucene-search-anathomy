@@ -1,0 +1,7 @@
+<map id="org.apache.lucene.store.FSDirectory" name="org.apache.lucene.store.FSDirectory">
+<area shape="rect" id="node5" href="$d6/d24/classorg_1_1apache_1_1lucene_1_1store_1_1_m_map_directory.html" title="File&#45;based Directory implementation that uses mmap for reading, and FSDirectory.FSIndexOutput for wri..." alt="" coords="787,5,956,47"/>
+<area shape="rect" id="node6" href="$df/d3a/classorg_1_1apache_1_1lucene_1_1store_1_1_n_i_o_f_s_directory.html" title="An FSDirectory implementation that uses java.nio&#39;s FileChannel&#39;s positional read, which allows multip..." alt="" coords="787,71,956,112"/>
+<area shape="rect" id="node7" href="$df/d70/classorg_1_1apache_1_1lucene_1_1store_1_1_simple_f_s_directory.html" title="A straightforward implementation of FSDirectory using Files#newByteChannel(Path, java.nio.file.OpenOption...). " alt="" coords="787,136,956,177"/>
+<area shape="rect" id="node2" href="$d0/d8a/classorg_1_1apache_1_1lucene_1_1store_1_1_base_directory.html" title="Base implementation for a concrete Directory that uses a LockFactory for locking. ..." alt="" coords="352,71,521,112"/>
+<area shape="rect" id="node3" href="$d3/dcb/classorg_1_1apache_1_1lucene_1_1store_1_1_directory.html" title="A. " alt="" coords="135,71,304,112"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="org.apache.lucene.index.LeafReader" name="org.apache.lucene.index.LeafReader">
+<area shape="rect" id="node4" href="$d7/deb/classorg_1_1apache_1_1lucene_1_1index_1_1_codec_reader.html" title="LeafReader implemented by codec APIs. " alt="" coords="572,78,743,119"/>
+<area shape="rect" id="node8" href="$df/d2d/classorg_1_1apache_1_1lucene_1_1index_1_1_filter_leaf_reader.html" title="A FilterLeafReader contains another LeafReader, which it uses as its basic source of data..." alt="" coords="572,191,743,233"/>
+<area shape="rect" id="node12" title="This is a hack to make index sorting fast, with a LeafReader that always returns merge instances when..." alt="" coords="572,257,743,298"/>
+<area shape="rect" id="node13" href="$db/d12/classorg_1_1apache_1_1lucene_1_1index_1_1_parallel_leaf_reader.html" title="An LeafReader which reads multiple, parallel indexes. " alt="" coords="572,322,743,363"/>
+<area shape="rect" id="node2" href="$df/de9/classorg_1_1apache_1_1lucene_1_1index_1_1_index_reader.html" title=" IndexReader is an abstract class, providing an interface for accessing a point&#45;in&#45;time view of an in..." alt="" coords="135,225,305,266"/>
+<area shape="rect" id="node5" href="$da/d14/classorg_1_1apache_1_1lucene_1_1index_1_1_filter_codec_reader.html" title="A FilterCodecReader contains another CodecReader, which it uses as its basic source of data..." alt="" coords="827,13,997,54"/>
+<area shape="rect" id="node7" href="$dd/d50/classorg_1_1apache_1_1lucene_1_1index_1_1_segment_reader.html" title="IndexReader implementation over a single segment. " alt="" coords="827,78,997,119"/>
+<area shape="rect" id="node9" title="Wrapper class for another FilterAtomicReader. " alt="" coords="803,144,1021,200"/>
+<area shape="rect" id="node11" title="An org.apache.lucene.index.LeafReader which supports sorting documents by a given Sort..." alt="" coords="827,305,997,346"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="org.apache.lucene.index.QueryTimeout" name="org.apache.lucene.index.QueryTimeout">
+<area shape="rect" id="node2" href="$d5/dce/classorg_1_1apache_1_1lucene_1_1index_1_1_query_timeout_impl.html" title="An implementation of QueryTimeout that can be used by the ExitableDirectoryReader class to time out a..." alt="" coords="5,95,176,136"/>
+</map>

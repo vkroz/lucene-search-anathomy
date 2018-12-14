@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.search.spans.NearSpansUnordered" name="org.apache.lucene.search.spans.NearSpansUnordered">
+<area shape="rect" id="node2" title="Common super class for multiple sub spans required in a document. " alt="" coords="131,200,349,241"/>
+<area shape="rect" id="node3" href="$df/d6e/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_spans.html" title="Iterates through combinations of start/end positions per&#45;doc. " alt="" coords="175,96,393,137"/>
+<area shape="rect" id="node4" href="$d6/d7c/classorg_1_1apache_1_1lucene_1_1search_1_1_doc_id_set_iterator.html" title="This abstract class defines methods to iterate over a set of non&#45;decreasing doc ids. " alt="" coords="5,5,184,47"/>
+</map>

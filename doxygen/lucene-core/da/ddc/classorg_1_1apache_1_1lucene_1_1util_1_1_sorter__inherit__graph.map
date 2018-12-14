@@ -1,0 +1,9 @@
+<map id="org.apache.lucene.util.Sorter" name="org.apache.lucene.util.Sorter">
+<area shape="rect" id="node2" href="$d4/d78/classorg_1_1apache_1_1lucene_1_1util_1_1_in_place_merge_sorter.html" title="Sorter implementation based on the merge&#45;sort algorithm that merges in place (no extra memory will be..." alt="" coords="271,5,438,47"/>
+<area shape="rect" id="node4" href="$dc/dee/classorg_1_1apache_1_1lucene_1_1util_1_1_intro_sorter.html" title="Sorter implementation based on a variant of the quicksort algorithm called introsort: when the recurs..." alt="" coords="263,71,446,112"/>
+<area shape="rect" id="node6" href="$df/d47/classorg_1_1apache_1_1lucene_1_1util_1_1_m_s_b_radix_sorter.html" title="Radix sorter for variable&#45;length strings. " alt="" coords="245,136,464,177"/>
+<area shape="rect" id="node8" href="$d0/d13/classorg_1_1apache_1_1lucene_1_1util_1_1_tim_sorter.html" title="Sorter implementation based on the TimSort algorithm. " alt="" coords="265,201,444,243"/>
+<area shape="rect" id="node3" title="An InPlaceMergeSorter for object arrays. " alt="" coords="513,5,701,47"/>
+<area shape="rect" id="node5" title="An IntroSorter for object arrays. " alt="" coords="513,71,701,112"/>
+<area shape="rect" id="node9" title="A TimSorter for object arrays. " alt="" coords="513,201,701,243"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.search.FilterWeight" name="org.apache.lucene.search.FilterWeight">
+<area shape="rect" id="node2" href="$dd/df5/classorg_1_1apache_1_1lucene_1_1search_1_1_weight.html" title="Expert: Calculate query weights and build query scorers. " alt="" coords="5,95,184,136"/>
+<area shape="rect" id="node3" href="$db/d31/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_segment_cacheable.html" title="Interface defining whether or not an object can be cached against a LeafReader. " alt="" coords="5,5,184,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.index.FilterLeafReader" name="org.apache.lucene.index.FilterLeafReader">
+<area shape="rect" id="node5" title="Wrapper class for another FilterAtomicReader. " alt="" coords="803,5,1021,61"/>
+<area shape="rect" id="node7" title="An org.apache.lucene.index.LeafReader which supports sorting documents by a given Sort..." alt="" coords="827,166,997,207"/>
+<area shape="rect" id="node2" href="$dd/dd2/classorg_1_1apache_1_1lucene_1_1index_1_1_leaf_reader.html" title="org.apache.lucene.index.\lLeafReader" alt="" coords="353,93,524,134"/>
+<area shape="rect" id="node3" href="$df/de9/classorg_1_1apache_1_1lucene_1_1index_1_1_index_reader.html" title=" IndexReader is an abstract class, providing an interface for accessing a point&#45;in&#45;time view of an in..." alt="" coords="135,93,305,134"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.index.FilterNumericDocValues" name="org.apache.lucene.index.FilterNumericDocValues">
+<area shape="rect" id="node2" href="$dd/d91/classorg_1_1apache_1_1lucene_1_1index_1_1_numeric_doc_values.html" title="A per&#45;document numeric value. " alt="" coords="9,184,180,225"/>
+<area shape="rect" id="node4" href="$d6/d7c/classorg_1_1apache_1_1lucene_1_1search_1_1_doc_id_set_iterator.html" title="This abstract class defines methods to iterate over a set of non&#45;decreasing doc ids. " alt="" coords="5,5,184,47"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="org.apache.lucene.document.StoredField" name="org.apache.lucene.document.StoredField">
+<area shape="rect" id="node2" href="$d0/d8b/classorg_1_1apache_1_1lucene_1_1document_1_1_field.html" title="Expert: directly create a field for a document. " alt="" coords="779,71,977,112"/>
+<area shape="rect" id="node3" href="$dc/dce/interfaceorg_1_1apache_1_1lucene_1_1index_1_1_indexable_field.html" title="Represents a single field for indexing. " alt="" coords="473,5,643,47"/>
+<area shape="rect" id="node4" href="$db/d98/classorg_1_1apache_1_1lucene_1_1analysis_1_1_token_stream.html" title="A TokenStream enumerates the sequence of tokens, either from Fields of a Document or from query text..." alt="" coords="465,71,651,112"/>
+<area shape="rect" id="node5" href="$dc/d09/classorg_1_1apache_1_1lucene_1_1util_1_1_attribute_source.html" title="An AttributeSource contains a list of different AttributeImpls, and methods to add and get them..." alt="" coords="11,12,217,53"/>
+<area shape="rect" id="node7" href="$d0/d72/classorg_1_1apache_1_1lucene_1_1util_1_1_attribute_factory.html" title="An AttributeFactory creates instances of AttributeImpls. " alt="" coords="11,168,217,209"/>
+<area shape="rect" id="node8" href="$d5/d71/interfaceorg_1_1apache_1_1lucene_1_1index_1_1_indexable_field_type.html" title="Describes the properties of a field. " alt="" coords="473,141,643,183"/>
+<area shape="rect" id="node9" href="$de/d8a/classorg_1_1apache_1_1lucene_1_1document_1_1_field_type.html" title="Describes the properties of a field. " alt="" coords="779,141,977,183"/>
+</map>

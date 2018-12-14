@@ -1,0 +1,18 @@
+<map id="org.apache.lucene.util.BytesRefIterator" name="org.apache.lucene.util.BytesRefIterator">
+<area shape="rect" id="node2" title="Iterates over terms in across multiple fields. " alt="" coords="257,104,427,145"/>
+<area shape="rect" id="node4" href="$dd/dc5/classorg_1_1apache_1_1lucene_1_1index_1_1_terms_enum.html" title="Iterator to seek (seekCeil(BytesRef), seekExact(BytesRef)) or step through (next terms to obtain freq..." alt="" coords="257,267,427,308"/>
+<area shape="rect" id="node17" title="Iterator of encoded point values. " alt="" coords="253,332,431,373"/>
+<area shape="rect" id="node18" title="Utility class to read length&#45;prefixed byte[] entries from an input. " alt="" coords="243,397,441,439"/>
+<area shape="rect" id="node3" title="An iterator over the list of terms stored in a PrefixCodedTerms. " alt="" coords="503,5,714,47"/>
+<area shape="rect" id="node5" title="This is used to implement efficient Terms#intersect for block&#45;tree. " alt="" coords="489,71,728,112"/>
+<area shape="rect" id="node6" title="Iterates through terms in this field. " alt="" coords="489,136,728,177"/>
+<area shape="rect" id="node7" href="$d6/d25/classorg_1_1apache_1_1lucene_1_1index_1_1_filtered_terms_enum.html" title="Abstract class for enumerating a subset of all terms. " alt="" coords="523,201,694,243"/>
+<area shape="rect" id="node11" title="Base class for filtering TermsEnum implementations. " alt="" coords="495,267,722,308"/>
+<area shape="rect" id="node13" href="$dc/dad/classorg_1_1apache_1_1lucene_1_1index_1_1_multi_terms_enum.html" title="Exposes TermsEnum API, merged from TermsEnum API of sub&#45;segments. " alt="" coords="523,332,694,373"/>
+<area shape="rect" id="node14" title="Implements a TermsEnum wrapping a provided SortedDocValues. " alt="" coords="509,397,708,439"/>
+<area shape="rect" id="node15" title="Implements a TermsEnum wrapping a provided SortedSetDocValues. " alt="" coords="499,463,718,504"/>
+<area shape="rect" id="node16" href="$d5/d1a/classorg_1_1apache_1_1lucene_1_1search_1_1_fuzzy_terms_enum.html" title="Subclass of TermsEnum for enumerating all terms that are similar to the specified filter term..." alt="" coords="519,528,698,569"/>
+<area shape="rect" id="node9" href="$db/d23/classorg_1_1apache_1_1lucene_1_1index_1_1_automaton_terms_enum.html" title="A FilteredTermsEnum that enumerates terms based upon what is accepted by a DFA. " alt="" coords="800,169,971,211"/>
+<area shape="rect" id="node10" href="$dd/d08/classorg_1_1apache_1_1lucene_1_1index_1_1_single_terms_enum.html" title="Subclass of FilteredTermsEnum for enumerating a single term. " alt="" coords="800,235,971,276"/>
+<area shape="rect" id="node12" title="Wrapper class for TermsEnum that is used by ExitableTerms for implementing an exitable enumeration of..." alt="" coords="777,301,994,357"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="org.apache.lucene.store.DataInput" name="org.apache.lucene.store.DataInput">
+<area shape="rect" id="node4" href="$d2/d23/classorg_1_1apache_1_1lucene_1_1store_1_1_byte_array_data_input.html" title="DataInput backed by a byte array. " alt="" coords="366,136,535,177"/>
+<area shape="rect" id="node5" href="$d9/db9/classorg_1_1apache_1_1lucene_1_1store_1_1_byte_buffers_data_input.html" title="A DataInput implementing RandomAccessInput and reading data from a list of ByteBuffers. " alt="" coords="366,201,535,243"/>
+<area shape="rect" id="node6" href="$d8/dbf/classorg_1_1apache_1_1lucene_1_1store_1_1_index_input.html" title="Abstract base class for input from a file in a Directory. " alt="" coords="366,267,535,308"/>
+<area shape="rect" id="node17" href="$dd/d92/classorg_1_1apache_1_1lucene_1_1store_1_1_input_stream_data_input.html" title="A DataInput wrapping a plain InputStream. " alt="" coords="366,332,535,373"/>
+<area shape="rect" id="node18" title="Reads bytes stored in an FST. " alt="" coords="364,397,537,439"/>
+<area shape="rect" id="node21" href="$d8/d06/classorg_1_1apache_1_1lucene_1_1util_1_1_paged_bytes_1_1_paged_bytes_data_input.html" title="org.apache.lucene.util.Paged\lBytes.PagedBytesDataInput" alt="" coords="353,463,548,504"/>
+<area shape="rect" id="node7" href="$d2/df7/classorg_1_1apache_1_1lucene_1_1store_1_1_buffered_index_input.html" title="Base implementation class for buffered IndexInput. " alt="" coords="598,71,767,112"/>
+<area shape="rect" id="node10" title="Base IndexInput implementation that uses an array of ByteBuffers to represent a file. " alt="" coords="598,136,767,177"/>
+<area shape="rect" id="node13" href="$d2/daf/classorg_1_1apache_1_1lucene_1_1store_1_1_byte_buffers_index_input.html" title="An IndexInput implementing RandomAccessInput and backed by a ByteBuffersDataInput. " alt="" coords="598,201,767,243"/>
+<area shape="rect" id="node14" href="$d8/d51/classorg_1_1apache_1_1lucene_1_1store_1_1_checksum_index_input.html" title="Extension of IndexInput, computing checksum as it goes. " alt="" coords="598,267,767,308"/>
+<area shape="rect" id="node16" href="$dc/d58/classorg_1_1apache_1_1lucene_1_1store_1_1_r_a_m_input_stream.html" title="A memory&#45;resident IndexInput implementation. " alt="" coords="598,332,767,373"/>
+<area shape="rect" id="node8" title="Reads bytes with FileChannel#read(ByteBuffer, long). " alt="" coords="835,5,1057,47"/>
+<area shape="rect" id="node9" title="Reads bytes with SeekableByteChannel#read(ByteBuffer). " alt="" coords="817,71,1075,112"/>
+<area shape="rect" id="node11" title="This class adds offset support to ByteBufferIndexInput, which is needed for slices. " alt="" coords="827,136,1065,177"/>
+<area shape="rect" id="node12" title="Optimization of ByteBufferIndexInput for when there is only one buffer. " alt="" coords="822,201,1070,243"/>
+<area shape="rect" id="node15" href="$d4/ded/classorg_1_1apache_1_1lucene_1_1store_1_1_buffered_checksum_index_input.html" title="Simple implementation of ChecksumIndexInput that wraps another input and delegates calls..." alt="" coords="847,267,1045,308"/>
+<area shape="rect" id="node19" title="Reads from a single byte[]. " alt="" coords="596,397,769,439"/>
+<area shape="rect" id="node20" title="Reads in reverse from a single byte[]. " alt="" coords="596,463,769,504"/>
+</map>

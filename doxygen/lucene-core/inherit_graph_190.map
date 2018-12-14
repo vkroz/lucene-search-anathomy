@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d6/d4e/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_bytes_ref_iterator.html" title="A simple iterator interface for BytesRef iteration. " alt="" coords="5,103,195,144"/>
+<area shape="rect" id="node2" href="$dd/dc5/classorg_1_1apache_1_1lucene_1_1index_1_1_terms_enum.html" title="Iterator to seek (seekCeil(BytesRef), seekExact(BytesRef)) or step through (next terms to obtain freq..." alt="" coords="243,103,413,144"/>
+<area shape="rect" id="node3" href="$d6/d25/classorg_1_1apache_1_1lucene_1_1index_1_1_filtered_terms_enum.html" title="Abstract class for enumerating a subset of all terms. " alt="" coords="465,37,636,79"/>
+<area shape="rect" id="node6" href="$dc/dad/classorg_1_1apache_1_1lucene_1_1index_1_1_multi_terms_enum.html" title="Exposes TermsEnum API, merged from TermsEnum API of sub&#45;segments. " alt="" coords="465,103,636,144"/>
+<area shape="rect" id="node7" href="$d5/d1a/classorg_1_1apache_1_1lucene_1_1search_1_1_fuzzy_terms_enum.html" title="Subclass of TermsEnum for enumerating all terms that are similar to the specified filter term..." alt="" coords="461,168,640,209"/>
+<area shape="rect" id="node4" href="$db/d23/classorg_1_1apache_1_1lucene_1_1index_1_1_automaton_terms_enum.html" title="A FilteredTermsEnum that enumerates terms based upon what is accepted by a DFA. " alt="" coords="688,5,859,47"/>
+<area shape="rect" id="node5" href="$dd/d08/classorg_1_1apache_1_1lucene_1_1index_1_1_single_terms_enum.html" title="Subclass of FilteredTermsEnum for enumerating a single term. " alt="" coords="688,71,859,112"/>
+</map>

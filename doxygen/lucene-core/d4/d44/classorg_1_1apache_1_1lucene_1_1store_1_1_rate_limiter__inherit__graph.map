@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.store.RateLimiter" name="org.apache.lucene.store.RateLimiter">
+<area shape="rect" id="node2" href="$d2/d3a/classorg_1_1apache_1_1lucene_1_1index_1_1_merge_rate_limiter.html" title="This is the RateLimiter that IndexWriter assigns to each running merge, to give MergeSchedulers ionic..." alt="" coords="239,5,409,47"/>
+<area shape="rect" id="node3" title="Simple class to rate limit IO. " alt="" coords="223,71,425,112"/>
+</map>

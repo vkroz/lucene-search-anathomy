@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$dd/d25/classorg_1_1apache_1_1lucene_1_1analysis_1_1_char_array_map_1_1_entry_iterator.html" title="public iterator class so efficient methods are exposed to users " alt="" coords="129,5,347,47"/>
+<area shape="rect" id="node3" href="$da/db8/classorg_1_1apache_1_1lucene_1_1util_1_1_filter_iterator.html" title="An Iterator implementation that filters elements with a boolean predicate. " alt="" coords="136,71,340,112"/>
+<area shape="rect" id="node4" href="$d1/d16/classorg_1_1apache_1_1lucene_1_1util_1_1_merged_iterator.html" title="Provides a merged sorted view from several sorted iterators. " alt="" coords="117,136,359,177"/>
+<area shape="rect" id="node5" href="$df/d72/classorg_1_1apache_1_1lucene_1_1util_1_1_s_p_i_class_iterator.html" title="Helper class for loading SPI classes from classpath (META&#45;INF files). " alt="" coords="133,201,343,243"/>
+</map>

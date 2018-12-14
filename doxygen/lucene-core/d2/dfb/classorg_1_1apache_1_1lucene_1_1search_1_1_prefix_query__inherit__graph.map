@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.search.PrefixQuery" name="org.apache.lucene.search.PrefixQuery">
+<area shape="rect" id="node2" href="$d0/db8/classorg_1_1apache_1_1lucene_1_1search_1_1_automaton_query.html" title="A Query that will match terms against a finite&#45;state machine. " alt="" coords="5,184,184,225"/>
+<area shape="rect" id="node3" href="$de/d2d/classorg_1_1apache_1_1lucene_1_1search_1_1_multi_term_query.html" title="An abstract Query that matches documents containing a subset of terms provided by a FilteredTermsEnum..." alt="" coords="5,95,184,136"/>
+<area shape="rect" id="node4" href="$d7/d78/classorg_1_1apache_1_1lucene_1_1search_1_1_query.html" title="The abstract base class for queries. " alt="" coords="5,5,184,47"/>
+</map>

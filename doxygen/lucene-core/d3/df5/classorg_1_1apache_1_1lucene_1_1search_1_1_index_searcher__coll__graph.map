@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.search.IndexSearcher" name="org.apache.lucene.search.IndexSearcher">
+<area shape="rect" id="node3" href="$d7/dae/classorg_1_1apache_1_1lucene_1_1index_1_1_index_reader_context.html" title="A struct like class that represents a hierarchical relationship between IndexReader instances..." alt="" coords="152,27,323,68"/>
+<area shape="rect" id="node4" href="$de/d1a/classorg_1_1apache_1_1lucene_1_1index_1_1_composite_reader_context.html" title="IndexReaderContext for CompositeReader instance. " alt="" coords="477,5,653,47"/>
+<area shape="rect" id="node5" href="$df/de9/classorg_1_1apache_1_1lucene_1_1index_1_1_index_reader.html" title=" IndexReader is an abstract class, providing an interface for accessing a point&#45;in&#45;time view of an in..." alt="" coords="152,172,323,213"/>
+</map>

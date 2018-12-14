@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.codecs.PushPostingsWriterBase" name="org.apache.lucene.codecs.PushPostingsWriterBase">
+<area shape="rect" id="node4" href="$d5/df7/classorg_1_1apache_1_1lucene_1_1codecs_1_1lucene50_1_1_lucene50_postings_writer.html" title="Concrete class that writes docId(maybe frq,pos,offset,payloads) list with postings format..." alt="" coords="5,259,244,300"/>
+<area shape="rect" id="node2" href="$d6/dde/classorg_1_1apache_1_1lucene_1_1codecs_1_1_postings_writer_base.html" title="Class that plugs into term dictionaries, such as BlockTreeTermsWriter, and handles writing postings..." alt="" coords="34,80,215,121"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.index.SnapshotDeletionPolicy" name="org.apache.lucene.index.SnapshotDeletionPolicy">
+<area shape="rect" id="node3" href="$dd/dc0/classorg_1_1apache_1_1lucene_1_1index_1_1_persistent_snapshot_deletion_policy.html" title="A SnapshotDeletionPolicy which adds a persistence layer so that snapshots can be maintained across th..." alt="" coords="5,184,228,225"/>
+<area shape="rect" id="node2" href="$d8/dcd/classorg_1_1apache_1_1lucene_1_1index_1_1_index_deletion_policy.html" title="org.apache.lucene.index.\lIndexDeletionPolicy" alt="" coords="31,5,202,47"/>
+</map>

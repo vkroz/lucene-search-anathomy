@@ -1,0 +1,12 @@
+<map id="org.apache.lucene.search.spans.SpanWeight" name="org.apache.lucene.search.spans.SpanWeight">
+<area shape="rect" id="node4" href="$d0/d5f/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_contain_query_1_1_span_contain_weight.html" title="org.apache.lucene.search.spans.\lSpanContainQuery.SpanContainWeight" alt="" coords="725,37,983,79"/>
+<area shape="rect" id="node7" href="$d2/d9a/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_near_query_1_1_span_near_weight.html" title="org.apache.lucene.search.spans.\lSpanNearQuery.SpanNearWeight" alt="" coords="742,103,966,144"/>
+<area shape="rect" id="node8" href="$d6/da4/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_not_query_1_1_span_not_weight.html" title="org.apache.lucene.search.spans.\lSpanNotQuery.SpanNotWeight" alt="" coords="745,168,963,209"/>
+<area shape="rect" id="node9" href="$de/d2b/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_or_query_1_1_span_or_weight.html" title="org.apache.lucene.search.spans.\lSpanOrQuery.SpanOrWeight" alt="" coords="745,233,963,275"/>
+<area shape="rect" id="node10" href="$db/db1/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_position_check_query_1_1_span_position_check_weight.html" title="org.apache.lucene.search.spans.\lSpanPositionCheckQuery.SpanPosition\lCheckWeight" alt="" coords="725,299,983,355"/>
+<area shape="rect" id="node11" href="$df/d46/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_term_query_1_1_span_term_weight.html" title="org.apache.lucene.search.spans.\lSpanTermQuery.SpanTermWeight" alt="" coords="740,380,968,421"/>
+<area shape="rect" id="node2" href="$dd/df5/classorg_1_1apache_1_1lucene_1_1search_1_1_weight.html" title="Expert: Calculate query weights and build query scorers. " alt="" coords="232,201,411,243"/>
+<area shape="rect" id="node3" href="$db/d31/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_segment_cacheable.html" title="Interface defining whether or not an object can be cached against a LeafReader. " alt="" coords="5,201,184,243"/>
+<area shape="rect" id="node5" href="$d7/d16/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_containing_query_1_1_span_containing_weight.html" title="org.apache.lucene.search.spans.\lSpanContainingQuery.SpanContainingWeight" alt="" coords="1031,5,1324,47"/>
+<area shape="rect" id="node6" href="$da/d4b/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_within_query_1_1_span_within_weight.html" title="org.apache.lucene.search.spans.\lSpanWithinQuery.SpanWithinWeight" alt="" coords="1057,71,1297,112"/>
+</map>

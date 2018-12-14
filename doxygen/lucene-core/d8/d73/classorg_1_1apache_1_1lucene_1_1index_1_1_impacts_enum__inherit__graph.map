@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.index.ImpactsEnum" name="org.apache.lucene.index.ImpactsEnum">
+<area shape="rect" id="node6" href="$d6/deb/classorg_1_1apache_1_1lucene_1_1index_1_1_slow_impacts_enum.html" title="ImpactsEnum that doesn&#39;t index impacts but implements the API in a legal way. " alt="" coords="713,86,884,127"/>
+<area shape="rect" id="node2" href="$d3/de8/classorg_1_1apache_1_1lucene_1_1index_1_1_postings_enum.html" title="Iterates through the postings. " alt="" coords="232,17,403,58"/>
+<area shape="rect" id="node3" href="$d6/d7c/classorg_1_1apache_1_1lucene_1_1search_1_1_doc_id_set_iterator.html" title="This abstract class defines methods to iterate over a set of non&#45;decreasing doc ids. " alt="" coords="5,17,184,58"/>
+<area shape="rect" id="node4" href="$d2/dd9/interfaceorg_1_1apache_1_1lucene_1_1index_1_1_impacts_source.html" title="Source of Impacts. " alt="" coords="232,82,403,123"/>
+</map>

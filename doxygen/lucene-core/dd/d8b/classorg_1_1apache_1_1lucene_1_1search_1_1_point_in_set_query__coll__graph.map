@@ -1,0 +1,10 @@
+<map id="org.apache.lucene.search.PointInSetQuery" name="org.apache.lucene.search.PointInSetQuery">
+<area shape="rect" id="node2" href="$d7/d78/classorg_1_1apache_1_1lucene_1_1search_1_1_query.html" title="The abstract base class for queries. " alt="" coords="1323,5,1501,47"/>
+<area shape="rect" id="node3" href="$d7/dae/classorg_1_1apache_1_1lucene_1_1index_1_1_prefix_coded_terms.html" title="Prefix codes term instances (prefixes are shared). " alt="" coords="1327,71,1497,112"/>
+<area shape="rect" id="node4" href="$db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html" title="An object whose RAM usage can be computed. " alt="" coords="435,87,664,114"/>
+<area shape="rect" id="node5" href="$d3/dbe/classorg_1_1apache_1_1lucene_1_1store_1_1_r_a_m_file.html" title="Represents a file in RAM as a list of byte[] buffers. " alt="" coords="1067,120,1236,161"/>
+<area shape="rect" id="node7" href="$d3/da0/classorg_1_1apache_1_1lucene_1_1store_1_1_r_a_m_directory.html" title="A memory&#45;resident Directory implementation. " alt="" coords="793,155,963,196"/>
+<area shape="rect" id="node8" href="$d0/d8a/classorg_1_1apache_1_1lucene_1_1store_1_1_base_directory.html" title="Base implementation for a concrete Directory that uses a LockFactory for locking. ..." alt="" coords="465,139,634,180"/>
+<area shape="rect" id="node9" href="$d3/dcb/classorg_1_1apache_1_1lucene_1_1store_1_1_directory.html" title="A. " alt="" coords="136,99,305,140"/>
+<area shape="rect" id="node11" href="$d5/dac/classorg_1_1apache_1_1lucene_1_1store_1_1_lock_factory.html" title="org.apache.lucene.store.\lLockFactory" alt="" coords="136,164,305,205"/>
+</map>

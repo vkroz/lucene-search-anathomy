@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.search.SortField" name="org.apache.lucene.search.SortField">
+<area shape="rect" id="node2" title="Sorts by distance from an origin location. " alt="" coords="232,5,429,47"/>
+<area shape="rect" id="node3" href="$df/d2b/classorg_1_1apache_1_1lucene_1_1search_1_1_sorted_numeric_sort_field.html" title="SortField for SortedNumericDocValues. " alt="" coords="241,71,420,112"/>
+<area shape="rect" id="node4" href="$dc/d66/classorg_1_1apache_1_1lucene_1_1search_1_1_sorted_set_sort_field.html" title="SortField for SortedSetDocValues. " alt="" coords="241,136,420,177"/>
+</map>

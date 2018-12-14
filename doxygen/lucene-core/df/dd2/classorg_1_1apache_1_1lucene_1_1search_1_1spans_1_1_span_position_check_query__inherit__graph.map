@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.search.spans.SpanPositionCheckQuery" name="org.apache.lucene.search.spans.SpanPositionCheckQuery">
+<area shape="rect" id="node5" href="$d7/d96/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_position_range_query.html" title="Checks to see if the getMatch() lies between a start and end position. " alt="" coords="92,273,311,315"/>
+<area shape="rect" id="node2" href="$d6/de7/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_query.html" title="Base class for span&#45;based queries. " alt="" coords="5,95,224,136"/>
+<area shape="rect" id="node3" href="$d7/d78/classorg_1_1apache_1_1lucene_1_1search_1_1_query.html" title="The abstract base class for queries. " alt="" coords="25,5,204,47"/>
+<area shape="rect" id="node6" href="$dc/dd0/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_first_query.html" title="Matches spans near the beginning of a field. " alt="" coords="92,363,311,404"/>
+</map>

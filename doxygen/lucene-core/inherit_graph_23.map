@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d0/dfd/classorg_1_1apache_1_1lucene_1_1codecs_1_1_postings_format.html" title="Encodes/decodes terms, postings, and proximity data. " alt="" coords="5,39,187,80"/>
+<area shape="rect" id="node2" href="$da/d63/classorg_1_1apache_1_1lucene_1_1codecs_1_1lucene50_1_1_lucene50_postings_format.html" title="Lucene 5.0 postings format, which encodes postings in packed integer blocks for fast decode..." alt="" coords="235,5,473,47"/>
+<area shape="rect" id="node3" href="$d8/d70/classorg_1_1apache_1_1lucene_1_1codecs_1_1perfield_1_1_per_field_postings_format.html" title="Enables per field postings support. " alt="" coords="239,71,469,112"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="org.apache.lucene.store.RandomAccessInput" name="org.apache.lucene.store.RandomAccessInput">
+<area shape="rect" id="node2" href="$d2/df7/classorg_1_1apache_1_1lucene_1_1store_1_1_buffered_index_input.html" title="Base implementation class for buffered IndexInput. " alt="" coords="223,71,392,112"/>
+<area shape="rect" id="node5" title="Base IndexInput implementation that uses an array of ByteBuffers to represent a file. " alt="" coords="223,136,392,177"/>
+<area shape="rect" id="node8" href="$d9/db9/classorg_1_1apache_1_1lucene_1_1store_1_1_byte_buffers_data_input.html" title="A DataInput implementing RandomAccessInput and reading data from a list of ByteBuffers. " alt="" coords="223,201,392,243"/>
+<area shape="rect" id="node9" href="$d2/daf/classorg_1_1apache_1_1lucene_1_1store_1_1_byte_buffers_index_input.html" title="An IndexInput implementing RandomAccessInput and backed by a ByteBuffersDataInput. " alt="" coords="223,267,392,308"/>
+<area shape="rect" id="node3" title="Reads bytes with FileChannel#read(ByteBuffer, long). " alt="" coords="457,5,680,47"/>
+<area shape="rect" id="node4" title="Reads bytes with SeekableByteChannel#read(ByteBuffer). " alt="" coords="440,71,697,112"/>
+<area shape="rect" id="node6" title="This class adds offset support to ByteBufferIndexInput, which is needed for slices. " alt="" coords="449,136,688,177"/>
+<area shape="rect" id="node7" title="Optimization of ByteBufferIndexInput for when there is only one buffer. " alt="" coords="445,201,693,243"/>
+</map>
