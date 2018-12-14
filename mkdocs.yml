@@ -1,0 +1,36 @@
+site_name: Coding tutorials and snippets
+nav:
+  - Home: index.md
+  - Tutorials:
+    - Lucene: lucene.md
+    - Swagger: swagger.md
+    - MkDocs: mkdocs.md
+
+#theme:
+#  name: readthedocs
+theme:
+  name: material
+  feature:
+    tabs: true
+
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+#  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+#  - pymdownx.tasklist:
+#      custom_checkbox: true
+  - pymdownx.tilde
