@@ -1,7 +1,8 @@
 site_name: Apache Lucene developer's guide
 nav:
   - Home: index.md
-  - Getting started: lucene.md
+  - Quick look inside: hello_lucene.md
+  - API: doxygen/lucene-core/
   - links.md
 
 theme:
@@ -9,6 +10,8 @@ theme:
   feature:
     tabs: false
 
+extra_css:
+  - 'stylesheets/extra.css'
 
 markdown_extensions:
   - admonition

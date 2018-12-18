@@ -59,7 +59,7 @@ PROJECT_LOGO           =
 # entered, it will be relative to the location where doxygen was started. If
 # left blank the current directory will be used.
 
-OUTPUT_DIRECTORY       = $(HOME)/docs/lucene-api
+OUTPUT_DIRECTORY       = $(HOME)/src/learning/lucene-tutorial/site/doxygen
 
 # If the CREATE_SUBDIRS tag is set to YES then doxygen will create 4096 sub-
 # directories (in 2 levels) under the output directory of each output format and
@@ -423,7 +423,7 @@ TYPEDEF_HIDES_STRUCT   = NO
 # the optimal cache size from a speed point of view.
 # Minimum value: 0, maximum value: 9, default value: 0.
 
-LOOKUP_CACHE_SIZE      = 0
+LOOKUP_CACHE_SIZE      = 5
 
 #---------------------------------------------------------------------------
 # Build related configuration options
@@ -792,7 +792,25 @@ WARN_LOGFILE           =
 # spaces. See also FILE_PATTERNS and EXTENSION_MAPPING
 # Note: If this tag is empty the current directory is searched.
 
-INPUT                  = /Users/vkroz/src/oss/lucene-solr/lucene/core/src/java
+INPUT = \
+        $(HOME)/src/oss/lucene-solr/lucene/queryparser/src/java \
+        $(HOME)/src/oss/lucene-solr/lucene/core/src/java \
+        $(HOME)/src/oss/lucene-solr/lucene/expressions/src/java
+#        $(HOME)/src/oss/lucene-solr/lucene/classification/src/java \
+#        $(HOME)/src/oss/lucene-solr/lucene/codecs/src/java \
+#        $(HOME)/src/oss/lucene-solr/lucene/facet/src/java \
+#        $(HOME)/src/oss/lucene-solr/lucene/grouping/src/java \
+#        $(HOME)/src/oss/lucene-solr/lucene/highlighter/src/java \
+#        $(HOME)/src/oss/lucene-solr/lucene/join/src/java \
+#        $(HOME)/src/oss/lucene-solr/lucene/memory/src/java \
+#        $(HOME)/src/oss/lucene-solr/lucene/misc/src/java \
+#        $(HOME)/src/oss/lucene-solr/lucene/queries/src/java \
+#        $(HOME)/src/oss/lucene-solr/lucene/replicator/src/java \
+#        $(HOME)/src/oss/lucene-solr/lucene/spatial/src/java \
+#        $(HOME)/src/oss/lucene-solr/lucene/spatial3d/src/java \
+#        $(HOME)/src/oss/lucene-solr/lucene/spatial-extras/src/java \
+#        $(HOME)/src/oss/lucene-solr/lucene/suggest/src/java \
+#        $(HOME)/src/oss/lucene-solr/lucene/tools/src/java \
 
 # This tag can be used to specify the character encoding of the source files
 # that doxygen parses. Internally doxygen uses the UTF-8 encoding. Doxygen uses

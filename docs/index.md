@@ -1,5 +1,7 @@
 # Lucene Tutorial
 
-Doxygen API [doxygen/lucene-core/](doxygen/lucene-core/)
+### [Lucene quick look inside](hello_lucene.md)
+### [Javadocs with class diagrams (doxygen)](doxygen/lucene-core/)
+
 
 
