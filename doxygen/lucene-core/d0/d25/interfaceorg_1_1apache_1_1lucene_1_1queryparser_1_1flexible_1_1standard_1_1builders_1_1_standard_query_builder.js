@@ -1,0 +1,4 @@
+var interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_standard_query_builder =
+[
+    [ "build", "d0/d25/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_standard_query_builder.html#a9b8351a3c1c13e311a7459f12697dbe6", null ]
+];

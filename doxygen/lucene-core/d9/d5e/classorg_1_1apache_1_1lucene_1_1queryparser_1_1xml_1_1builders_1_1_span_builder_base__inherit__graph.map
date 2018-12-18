@@ -1,0 +1,11 @@
+<map id="org.apache.lucene.queryparser.xml.builders.SpanBuilderBase" name="org.apache.lucene.queryparser.xml.builders.SpanBuilderBase">
+<area shape="rect" id="node4" href="$d6/df8/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_boosting_term_builder.html" title="Builder for PayloadScoreQuery. " alt="" coords="955,5,1240,47"/>
+<area shape="rect" id="node5" href="$d4/d7b/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_first_builder.html" title="Builder for SpanFirstQuery. " alt="" coords="955,71,1240,112"/>
+<area shape="rect" id="node6" href="$d2/da0/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_near_builder.html" title="Builder for SpanNearQuery. " alt="" coords="955,136,1240,177"/>
+<area shape="rect" id="node7" href="$db/dd2/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_not_builder.html" title="Builder for SpanNotQuery. " alt="" coords="955,201,1240,243"/>
+<area shape="rect" id="node8" href="$d7/d2e/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_or_builder.html" title="Builder for SpanOrQuery. " alt="" coords="955,267,1240,308"/>
+<area shape="rect" id="node9" href="$df/d6b/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_or_terms_builder.html" title="Builder that analyzes the text into a SpanOrQuery. " alt="" coords="955,332,1240,373"/>
+<area shape="rect" id="node10" href="$d4/ddb/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_term_builder.html" title="Builder for SpanTermQuery. " alt="" coords="955,397,1240,439"/>
+<area shape="rect" id="node2" href="$d6/ddc/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_query_builder.html" title="Interface for retrieving a SpanQuery. " alt="" coords="288,201,573,243"/>
+<area shape="rect" id="node3" href="$d3/d84/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1_query_builder.html" title="Implemented by objects that produce Lucene Query objects from XML streams. " alt="" coords="5,201,240,243"/>
+</map>

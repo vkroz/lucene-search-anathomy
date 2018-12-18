@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$dd/d18/classorg_1_1apache_1_1lucene_1_1util_1_1_recycling_int_block_allocator.html" title="A Allocator implementation that recycles unused int blocks in a buffer and reuses them in subsequent ..." alt="" coords="5,5,219,47"/>
+<area shape="rect" id="node1" href="$dc/de1/classorg_1_1apache_1_1lucene_1_1util_1_1fst_1_1_outputs.html" title="org.apache.lucene.util.fst.\lOutputs\&lt; IntsRef \&gt;" alt="" coords="5,5,179,47"/>
+<area shape="rect" id="node2" href="$df/dec/classorg_1_1apache_1_1lucene_1_1util_1_1fst_1_1_int_sequence_outputs.html" title="An FST Outputs implementation where each output is a sequence of ints. " alt="" coords="227,5,400,47"/>
 </map>

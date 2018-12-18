@@ -1,7 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d0/dc7/classorg_1_1apache_1_1lucene_1_1util_1_1_sorter.html" title="Base class for sorting algorithms implementations. " alt="" coords="5,111,197,138"/>
-<area shape="rect" id="node2" href="$d4/d78/classorg_1_1apache_1_1lucene_1_1util_1_1_in_place_merge_sorter.html" title="Sorter implementation based on the merge&#45;sort algorithm that merges in place (no extra memory will be..." alt="" coords="271,5,438,47"/>
-<area shape="rect" id="node3" href="$dc/dee/classorg_1_1apache_1_1lucene_1_1util_1_1_intro_sorter.html" title="Sorter implementation based on a variant of the quicksort algorithm called introsort: when the recurs..." alt="" coords="263,71,446,112"/>
-<area shape="rect" id="node4" href="$df/d47/classorg_1_1apache_1_1lucene_1_1util_1_1_m_s_b_radix_sorter.html" title="Radix sorter for variable&#45;length strings. " alt="" coords="245,136,464,177"/>
-<area shape="rect" id="node5" href="$d0/d13/classorg_1_1apache_1_1lucene_1_1util_1_1_tim_sorter.html" title="Sorter implementation based on the TimSort algorithm. " alt="" coords="265,201,444,243"/>
+<area shape="rect" id="node1" href="$db/d3b/classorg_1_1apache_1_1lucene_1_1util_1_1_int_block_pool.html" title="A pool for int blocks similar to ByteBlockPool .internal. " alt="" coords="5,5,176,47"/>
 </map>

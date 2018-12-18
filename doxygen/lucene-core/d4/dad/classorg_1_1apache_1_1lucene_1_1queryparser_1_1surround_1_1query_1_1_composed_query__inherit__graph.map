@@ -1,0 +1,7 @@
+<map id="org.apache.lucene.queryparser.surround.query.ComposedQuery" name="org.apache.lucene.queryparser.surround.query.ComposedQuery">
+<area shape="rect" id="node4" href="$dc/d12/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_and_query.html" title="Factory for conjunctions. " alt="" coords="840,5,1144,47"/>
+<area shape="rect" id="node5" href="$dc/d6c/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_distance_query.html" title="Factory for NEAR queries. " alt="" coords="840,71,1144,112"/>
+<area shape="rect" id="node6" href="$d2/d25/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_not_query.html" title="Factory for prohibited clauses. " alt="" coords="840,136,1144,177"/>
+<area shape="rect" id="node7" href="$d4/d02/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_or_query.html" title="Factory for disjunctions. " alt="" coords="840,201,1144,243"/>
+<area shape="rect" id="node2" href="$dc/d8c/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_srnd_query.html" title="Lowest level base class for surround queries. " alt="" coords="136,104,440,145"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.queryparser.flexible.standard.config.StandardQueryConfigHandler" name="org.apache.lucene.queryparser.flexible.standard.config.StandardQueryConfigHandler">
+<area shape="rect" id="node2" href="$d5/da4/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_query_config_handler.html" title="This class can be used to hold any query configuration and no field configuration. " alt="" coords="19,95,343,136"/>
+<area shape="rect" id="node3" href="$d1/dc8/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_abstract_query_config.html" title="org.apache.lucene.queryparser.flexible.core.config.\lAbstractQueryConfig" alt="" coords="19,5,343,47"/>
+</map>

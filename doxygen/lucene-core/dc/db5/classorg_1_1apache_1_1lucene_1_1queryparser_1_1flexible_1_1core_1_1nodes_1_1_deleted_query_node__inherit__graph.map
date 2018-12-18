@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.queryparser.flexible.core.nodes.DeletedQueryNode" name="org.apache.lucene.queryparser.flexible.core.nodes.DeletedQueryNode">
+<area shape="rect" id="node5" href="$da/dd7/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_match_no_docs_query_node.html" title="A MatchNoDocsQueryNode indicates that a query node tree or subtree will not match any documents if ex..." alt="" coords="1125,5,1451,47"/>
+<area shape="rect" id="node6" href="$d9/daf/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_no_token_found_query_node.html" title="A NoTokenFoundQueryNode is used if a term is convert into no tokens by the tokenizer/lemmatizer/analy..." alt="" coords="1125,71,1451,112"/>
+<area shape="rect" id="node2" href="$da/d0d/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_query_node_impl.html" title="A QueryNodeImpl is the default implementation of the interface QueryNode. " alt="" coords="379,39,704,80"/>
+<area shape="rect" id="node3" href="$d7/d9a/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_query_node.html" title="A QueryNode is a interface implemented by all nodes on a QueryNode tree. " alt="" coords="5,9,331,51"/>
+</map>

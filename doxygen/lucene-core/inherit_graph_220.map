@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$dd/d68/classorg_1_1apache_1_1lucene_1_1util_1_1_i_o_utils.html" title="This class emulates the new Java 7 &quot;Try&#45;With&#45;Resources&quot; statement. " alt="" coords="5,5,201,32"/>
+<area shape="rect" id="node1" href="$d4/db5/classorg_1_1apache_1_1lucene_1_1store_1_1_rate_limiter.html" title="Abstract base class to rate limit IO. " alt="" coords="5,5,175,47"/>
+<area shape="rect" id="node2" href="$d2/d3a/classorg_1_1apache_1_1lucene_1_1index_1_1_merge_rate_limiter.html" title="This is the RateLimiter that IndexWriter assigns to each running merge, to give MergeSchedulers ionic..." alt="" coords="223,5,393,47"/>
 </map>

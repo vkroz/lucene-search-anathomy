@@ -1,0 +1,4 @@
+var classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_term_range_query_node =
+[
+    [ "TermRangeQueryNode", "d7/dac/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_term_range_query_node.html#a09b26c54ad461d45bbb3b578c219312a", null ]
+];

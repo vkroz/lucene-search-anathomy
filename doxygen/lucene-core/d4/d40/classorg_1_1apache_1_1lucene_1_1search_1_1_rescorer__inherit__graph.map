@@ -1,4 +1,5 @@
 <map id="org.apache.lucene.search.Rescorer" name="org.apache.lucene.search.Rescorer">
 <area shape="rect" id="node2" href="$dd/d79/classorg_1_1apache_1_1lucene_1_1search_1_1_query_rescorer.html" title="A Rescorer that uses a provided Query to assign scores to the first&#45;pass hits. " alt="" coords="5,95,184,136"/>
 <area shape="rect" id="node3" href="$dc/d91/classorg_1_1apache_1_1lucene_1_1search_1_1_sort_rescorer.html" title="A Rescorer that re&#45;sorts according to a provided Sort. " alt="" coords="208,95,387,136"/>
+<area shape="rect" id="node4" title="A Rescorer that uses an expression to re&#45;score first pass hits. " alt="" coords="192,184,403,225"/>
 </map>

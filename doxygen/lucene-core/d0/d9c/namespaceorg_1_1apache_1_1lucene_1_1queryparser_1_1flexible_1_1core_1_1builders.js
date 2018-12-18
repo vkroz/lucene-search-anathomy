@@ -1,0 +1,5 @@
+var namespaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1builders =
+[
+    [ "QueryBuilder", "d3/dea/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1builders_1_1_query_builder.html", "d3/dea/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1builders_1_1_query_builder" ],
+    [ "QueryTreeBuilder", "d8/dcc/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1builders_1_1_query_tree_builder.html", "d8/dcc/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1builders_1_1_query_tree_builder" ]
+];

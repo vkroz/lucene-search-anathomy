@@ -1,0 +1,8 @@
+<map id="org.apache.lucene.queryparser.flexible.core.nodes.TextableQueryNode" name="org.apache.lucene.queryparser.flexible.core.nodes.TextableQueryNode">
+<area shape="rect" id="node2" href="$dc/d46/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_field_query_node.html" title="A FieldQueryNode represents a element that contains field/text tuple. " alt="" coords="391,71,717,112"/>
+<area shape="rect" id="node7" href="$df/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_regexp_query_node.html" title="A RegexpQueryNode represents RegexpQuery query Examples: /[a&#45;z]|[0&#45;9]/. " alt="" coords="379,136,729,177"/>
+<area shape="rect" id="node3" href="$d2/d86/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_fuzzy_query_node.html" title="A FuzzyQueryNode represents a element that contains field/text/similarity tuple. " alt="" coords="790,5,1115,47"/>
+<area shape="rect" id="node4" href="$d0/d3c/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_quoted_field_query_node.html" title="A QuotedFieldQueryNode represents phrase query. " alt="" coords="790,71,1115,112"/>
+<area shape="rect" id="node5" href="$da/df5/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_wildcard_query_node.html" title="A WildcardQueryNode represents wildcard query This does not apply to phrases. " alt="" coords="777,136,1128,177"/>
+<area shape="rect" id="node6" href="$df/dd1/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_prefix_wildcard_query_node.html" title="A PrefixWildcardQueryNode represents wildcardquery that matches abc* or *. " alt="" coords="1176,136,1527,177"/>
+</map>

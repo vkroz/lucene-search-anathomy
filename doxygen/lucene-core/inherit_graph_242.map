@@ -1,3 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d3/d54/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_monotonic_block_packed_writer.html" title="A writer for large monotonically increasing sequences of positive longs. " alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node1" href="$d5/d48/classorg_1_1apache_1_1lucene_1_1util_1_1_bytes_ref_array.html" title="A simple append only random&#45;access BytesRef array that stores full copies of the appended bytes in a ..." alt="" coords="5,5,195,47"/>
 </map>

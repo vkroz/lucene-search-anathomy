@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.queryparser.flexible.standard.builders.StandardQueryTreeBuilder" name="org.apache.lucene.queryparser.flexible.standard.builders.StandardQueryTreeBuilder">
+<area shape="rect" id="node2" href="$d8/dcc/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1builders_1_1_query_tree_builder.html" title="This class should be used when there is a builder for each type of node. " alt="" coords="402,5,738,47"/>
+<area shape="rect" id="node3" href="$d3/dea/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1builders_1_1_query_builder.html" title="This interface is used by implementors classes that builds some kind of object from a query tree..." alt="" coords="5,39,341,80"/>
+<area shape="rect" id="node4" href="$d0/d25/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_standard_query_builder.html" title="This interface should be implemented by every class that wants to build Query objects from QueryNode ..." alt="" coords="389,71,751,112"/>
+</map>

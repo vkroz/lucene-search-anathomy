@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d0/df5/classorg_1_1apache_1_1lucene_1_1index_1_1_reader_slice.html" title="Subreader slice from a parent composite reader. " alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node1" href="$dd/d91/classorg_1_1apache_1_1lucene_1_1index_1_1_numeric_doc_values.html" title="A per&#45;document numeric value. " alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node2" href="$d6/ddd/classorg_1_1apache_1_1lucene_1_1index_1_1_filter_numeric_doc_values.html" title="Delegates all methods to a wrapped NumericDocValues. " alt="" coords="224,5,395,47"/>
 </map>

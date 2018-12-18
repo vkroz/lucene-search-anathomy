@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$dc/d68/enumorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_compiled_automaton_1_1_a_u_t_o_m_a_t_o_n___t_y_p_e.html" title="Automata are compiled into different internal forms for the most efficient execution depending upon t..." alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node1" href="$d3/d1c/classorg_1_1apache_1_1lucene_1_1search_1_1_score_doc.html" title="Holds one hit in TopDocs. " alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node2" href="$db/db5/classorg_1_1apache_1_1lucene_1_1search_1_1_field_doc.html" title="Expert: A ScoreDoc which also contains information about how to sort the referenced document..." alt="" coords="232,5,411,47"/>
 </map>

@@ -1,0 +1,4 @@
+var classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_point_range_query_node_processor =
+[
+    [ "PointRangeQueryNodeProcessor", "d5/de9/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_point_range_query_node_processor.html#a3fbbdc848a7b37ae18a2335d95de0b05", null ]
+];

@@ -1,0 +1,4 @@
+var classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1precedence_1_1processors_1_1_boolean_modifiers_query_node_processor =
+[
+    [ "process", "dc/dd2/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1precedence_1_1processors_1_1_boolean_modifiers_query_node_processor.html#a41816e5eb5a950a26a082331e7d4f332", null ]
+];

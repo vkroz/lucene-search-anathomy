@@ -5,7 +5,9 @@ var searchData=
   ['dataoutput',['DataOutput',['../de/d31/classorg_1_1apache_1_1lucene_1_1store_1_1_data_output.html',1,'org::apache::lucene::store']]],
   ['datetools',['DateTools',['../d9/dbd/classorg_1_1apache_1_1lucene_1_1document_1_1_date_tools.html',1,'org::apache::lucene::document']]],
   ['decompressor',['Decompressor',['../d5/d0d/classorg_1_1apache_1_1lucene_1_1codecs_1_1compressing_1_1_decompressor.html',1,'org::apache::lucene::codecs::compressing']]],
+  ['defaultphraseslopquerynodeprocessor',['DefaultPhraseSlopQueryNodeProcessor',['../d0/d9f/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_default_phrase_slop_query_node_processor.html',1,'org::apache::lucene::queryparser::flexible::standard::processors']]],
   ['delegatinganalyzerwrapper',['DelegatingAnalyzerWrapper',['../d3/de2/classorg_1_1apache_1_1lucene_1_1analysis_1_1_delegating_analyzer_wrapper.html',1,'org::apache::lucene::analysis']]],
+  ['deletedquerynode',['DeletedQueryNode',['../de/d34/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_deleted_query_node.html',1,'org::apache::lucene::queryparser::flexible::core::nodes']]],
   ['dfisimilarity',['DFISimilarity',['../dc/d1c/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_d_f_i_similarity.html',1,'org::apache::lucene::search::similarities']]],
   ['dfrsimilarity',['DFRSimilarity',['../dc/d4b/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_d_f_r_similarity.html',1,'org::apache::lucene::search::similarities']]],
   ['directmonotonicreader',['DirectMonotonicReader',['../d9/d70/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_direct_monotonic_reader.html',1,'org::apache::lucene::util::packed']]],
@@ -18,7 +20,10 @@ var searchData=
   ['disiwrapper',['DisiWrapper',['../df/d57/classorg_1_1apache_1_1lucene_1_1search_1_1_disi_wrapper.html',1,'org::apache::lucene::search']]],
   ['disjunctiondisiapproximation',['DisjunctionDISIApproximation',['../d3/db2/classorg_1_1apache_1_1lucene_1_1search_1_1_disjunction_d_i_s_i_approximation.html',1,'org::apache::lucene::search']]],
   ['disjunctionmaxquery',['DisjunctionMaxQuery',['../d2/d5c/classorg_1_1apache_1_1lucene_1_1search_1_1_disjunction_max_query.html',1,'org::apache::lucene::search']]],
+  ['disjunctionmaxquerybuilder',['DisjunctionMaxQueryBuilder',['../d8/d24/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_disjunction_max_query_builder.html',1,'org::apache::lucene::queryparser::xml::builders']]],
   ['disjunctionmaxweight',['DisjunctionMaxWeight',['../d4/d32/classorg_1_1apache_1_1lucene_1_1search_1_1_disjunction_max_query_1_1_disjunction_max_weight.html',1,'org::apache::lucene::search::DisjunctionMaxQuery']]],
+  ['distancequery',['DistanceQuery',['../dc/d6c/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_distance_query.html',1,'org::apache::lucene::queryparser::surround::query']]],
+  ['distancesubquery',['DistanceSubQuery',['../da/d24/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_distance_sub_query.html',1,'org::apache::lucene::queryparser::surround::query']]],
   ['distribution',['Distribution',['../d4/d4b/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_distribution.html',1,'org::apache::lucene::search::similarities']]],
   ['distributionll',['DistributionLL',['../da/de8/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_distribution_l_l.html',1,'org::apache::lucene::search::similarities']]],
   ['distributionspl',['DistributionSPL',['../d1/dfa/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_distribution_s_p_l.html',1,'org::apache::lucene::search::similarities']]],
@@ -37,9 +42,11 @@ var searchData=
   ['docvaluesproducer',['DocValuesProducer',['../de/d3a/classorg_1_1apache_1_1lucene_1_1codecs_1_1_doc_values_producer.html',1,'org::apache::lucene::codecs']]],
   ['docvaluesrewritemethod',['DocValuesRewriteMethod',['../da/d53/classorg_1_1apache_1_1lucene_1_1search_1_1_doc_values_rewrite_method.html',1,'org::apache::lucene::search']]],
   ['docvaluestype',['DocValuesType',['../d6/d00/enumorg_1_1apache_1_1lucene_1_1index_1_1_doc_values_type.html',1,'org::apache::lucene::index']]],
+  ['domutils',['DOMUtils',['../d2/dc9/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1_d_o_m_utils.html',1,'org::apache::lucene::queryparser::xml']]],
   ['doubledocvaluesfield',['DoubleDocValuesField',['../d8/dea/classorg_1_1apache_1_1lucene_1_1document_1_1_double_doc_values_field.html',1,'org::apache::lucene::document']]],
   ['doublepoint',['DoublePoint',['../d2/db5/classorg_1_1apache_1_1lucene_1_1document_1_1_double_point.html',1,'org::apache::lucene::document']]],
   ['doublerange',['DoubleRange',['../d3/dcd/classorg_1_1apache_1_1lucene_1_1document_1_1_double_range.html',1,'org::apache::lucene::document']]],
   ['doublevalues',['DoubleValues',['../df/d70/classorg_1_1apache_1_1lucene_1_1search_1_1_double_values.html',1,'org::apache::lucene::search']]],
-  ['doublevaluessource',['DoubleValuesSource',['../df/da7/classorg_1_1apache_1_1lucene_1_1search_1_1_double_values_source.html',1,'org::apache::lucene::search']]]
+  ['doublevaluessource',['DoubleValuesSource',['../df/da7/classorg_1_1apache_1_1lucene_1_1search_1_1_double_values_source.html',1,'org::apache::lucene::search']]],
+  ['dummyquerynodebuilder',['DummyQueryNodeBuilder',['../d4/d30/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_dummy_query_node_builder.html',1,'org::apache::lucene::queryparser::flexible::standard::builders']]]
 ];

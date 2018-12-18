@@ -1,0 +1,4 @@
+var classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1precedence_1_1processors_1_1_preceden08a6aa471ab54e19d94a33db72a467bb =
+[
+    [ "PrecedenceQueryNodeProcessorPipeline", "da/dea/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1precedence_1_1processors_1_1_preceden08a6aa471ab54e19d94a33db72a467bb.html#a41ad6fb1c2a0497b7e208443697971e8", null ]
+];

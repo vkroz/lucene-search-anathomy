@@ -1,0 +1,12 @@
+<map id="org.apache.lucene.queryparser.classic.QueryParserBase" name="org.apache.lucene.queryparser.classic.QueryParserBase">
+<area shape="rect" id="node2" href="$d2/d1d/classorg_1_1apache_1_1lucene_1_1util_1_1_query_builder.html" title="Creates queries from the Analyzer chain. " alt="" coords="1001,65,1193,106"/>
+<area shape="rect" id="node3" href="$d6/d78/classorg_1_1apache_1_1lucene_1_1analysis_1_1_analyzer.html" title="An Analyzer builds TokenStreams, which analyze text. " alt="" coords="487,57,673,98"/>
+<area shape="rect" id="node5" href="$d9/df4/classorg_1_1apache_1_1lucene_1_1util_1_1_closeable_thread_local.html" title="org.apache.lucene.util.Closeable\lThreadLocal\&lt; Object \&gt;" alt="" coords="5,57,221,98"/>
+<area shape="rect" id="node6" title="Strategy defining how TokenStreamComponents are reused per call to Analyzer#tokenStream(String, java.io.Reader). " alt="" coords="20,122,207,163"/>
+<area shape="rect" id="node7" href="$d8/d7b/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1_common_query_parser_configuration.html" title="Configuration options common across queryparser implementations. " alt="" coords="941,134,1252,175"/>
+<area shape="rect" id="node8" href="$de/d2d/classorg_1_1apache_1_1lucene_1_1search_1_1_multi_term_query.html" title="An abstract Query that matches documents containing a subset of terms provided by a FilteredTermsEnum..." alt="" coords="1007,199,1186,241"/>
+<area shape="rect" id="node9" href="$d7/d78/classorg_1_1apache_1_1lucene_1_1search_1_1_query.html" title="The abstract base class for queries. " alt="" coords="491,122,669,163"/>
+<area shape="rect" id="node10" title="Abstract class that defines how the query is rewritten. " alt="" coords="475,215,685,257"/>
+<area shape="rect" id="node11" href="$d9/dbd/classorg_1_1apache_1_1lucene_1_1document_1_1_date_tools.html" title="Provides support for converting dates to strings and vice&#45;versa. " alt="" coords="998,329,1195,370"/>
+<area shape="rect" id="node13" title="The default operator for parsing queries. " alt="" coords="970,394,1223,435"/>
+</map>

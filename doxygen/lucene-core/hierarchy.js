@@ -6,6 +6,18 @@ var hierarchy =
     [ "org.apache.lucene.util.packed.AbstractPagedMutable< PagedMutable >", "d9/db5/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_abstract_paged_mutable.html", [
       [ "org.apache.lucene.util.packed.PagedMutable", "d0/df1/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_paged_mutable.html", null ]
     ] ],
+    [ "org.apache.lucene.queryparser.flexible.core.config.AbstractQueryConfig", "d1/dc8/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_abstract_query_config.html", [
+      [ "org.apache.lucene.queryparser.flexible.core.config.FieldConfig", "d5/dda/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_field_config.html", null ],
+      [ "org.apache.lucene.queryparser.flexible.core.config.QueryConfigHandler", "d5/da4/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_query_config_handler.html", [
+        [ "org.apache.lucene.queryparser.flexible.standard.config.StandardQueryConfigHandler", "d9/d0c/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1config_1_1_standard_query_config_handler.html", null ]
+      ] ]
+    ] ],
+    [ "org.apache.lucene.queryparser.flexible.standard.nodes.AbstractRangeQueryNode< FieldQueryNode >", "d4/db4/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_abstract_range_query_node.html", [
+      [ "org.apache.lucene.queryparser.flexible.standard.nodes.TermRangeQueryNode", "d7/dac/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_term_range_query_node.html", null ]
+    ] ],
+    [ "org.apache.lucene.queryparser.flexible.standard.nodes.AbstractRangeQueryNode< PointQueryNode >", "d4/db4/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_abstract_range_query_node.html", [
+      [ "org.apache.lucene.queryparser.flexible.standard.nodes.PointRangeQueryNode", "d6/d95/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_point_range_query_node.html", null ]
+    ] ],
     [ "org.apache.lucene.util.Accountable", "db/de6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_accountable.html", [
       [ "org.apache.lucene.codecs.blocktree.FieldReader", "d4/dd9/classorg_1_1apache_1_1lucene_1_1codecs_1_1blocktree_1_1_field_reader.html", null ],
       [ "org.apache.lucene.codecs.compressing.CompressingStoredFieldsIndexReader", "da/d6f/classorg_1_1apache_1_1lucene_1_1codecs_1_1compressing_1_1_compressing_stored_fields_index_reader.html", null ],
@@ -176,10 +188,14 @@ var hierarchy =
       [ "org.apache.lucene.search.similarities.BasicModelIn", "d5/d9b/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_basic_model_in.html", null ],
       [ "org.apache.lucene.search.similarities.BasicModelIne", "d3/deb/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_basic_model_ine.html", null ]
     ] ],
+    [ "org.apache.lucene.queryparser.surround.query.BasicQueryFactory", "d5/d27/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_basic_query_factory.html", null ],
     [ "org.apache.lucene.search.similarities.BasicStats", "db/d31/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_basic_stats.html", null ],
     [ "org.apache.lucene.index.BinaryDocValues", "dc/d40/classorg_1_1apache_1_1lucene_1_1index_1_1_binary_doc_values.html", [
       [ "org.apache.lucene.index.FilterBinaryDocValues", "d5/d23/classorg_1_1apache_1_1lucene_1_1index_1_1_filter_binary_doc_values.html", null ],
       [ "org.apache.lucene.index.SortedDocValues", "d4/d9c/classorg_1_1apache_1_1lucene_1_1index_1_1_sorted_doc_values.html", null ]
+    ] ],
+    [ "org.apache.lucene.expressions.Bindings", "d1/d74/classorg_1_1apache_1_1lucene_1_1expressions_1_1_bindings.html", [
+      [ "org.apache.lucene.expressions.SimpleBindings", "db/d60/classorg_1_1apache_1_1lucene_1_1expressions_1_1_simple_bindings.html", null ]
     ] ],
     [ "org.apache.lucene.util.Bits", "d8/d21/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_bits.html", [
       [ "org.apache.lucene.index.MultiBits", "df/dbb/classorg_1_1apache_1_1lucene_1_1index_1_1_multi_bits.html", null ],
@@ -215,7 +231,17 @@ var hierarchy =
     [ "org.apache.lucene.analysis.CharArrayMap<?>", "dd/d4b/classorg_1_1apache_1_1lucene_1_1analysis_1_1_char_array_map.html", null ],
     [ "CharSequence", null, [
       [ "org.apache.lucene.analysis.tokenattributes.CharTermAttribute", "d5/da2/interfaceorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_char_term_attribute.html", null ],
+      [ "org.apache.lucene.queryparser.flexible.core.util.UnescapedCharSequence", "d6/d1b/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1util_1_1_unescaped_char_sequence.html", null ],
       [ "org.apache.lucene.util.CharsRef", "d5/da1/classorg_1_1apache_1_1lucene_1_1util_1_1_chars_ref.html", null ]
+    ] ],
+    [ "org.apache.lucene.queryparser.classic.CharStream", "d0/d09/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1classic_1_1_char_stream.html", [
+      [ "org.apache.lucene.queryparser.classic.FastCharStream", "d7/d50/classorg_1_1apache_1_1lucene_1_1queryparser_1_1classic_1_1_fast_char_stream.html", null ]
+    ] ],
+    [ "org.apache.lucene.queryparser.surround.parser.CharStream", "d8/d74/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1parser_1_1_char_stream.html", [
+      [ "org.apache.lucene.queryparser.surround.parser.FastCharStream", "d0/db8/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1parser_1_1_fast_char_stream.html", null ]
+    ] ],
+    [ "org.apache.lucene.queryparser.flexible.standard.parser.CharStream", "d3/d2f/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1parser_1_1_char_stream.html", [
+      [ "org.apache.lucene.queryparser.flexible.standard.parser.FastCharStream", "da/ddd/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1parser_1_1_fast_char_stream.html", null ]
     ] ],
     [ "Cloneable", null, [
       [ "org.apache.lucene.analysis.tokenattributes.CharTermAttributeImpl", "d5/d90/classorg_1_1apache_1_1lucene_1_1analysis_1_1tokenattributes_1_1_char_term_attribute_impl.html", null ],
@@ -234,6 +260,56 @@ var hierarchy =
       [ "org.apache.lucene.index.TermState", "d2/d71/classorg_1_1apache_1_1lucene_1_1index_1_1_term_state.html", [
         [ "org.apache.lucene.index.OrdTermState", "d6/d6c/classorg_1_1apache_1_1lucene_1_1index_1_1_ord_term_state.html", [
           [ "org.apache.lucene.codecs.BlockTermState", "d1/dad/classorg_1_1apache_1_1lucene_1_1codecs_1_1_block_term_state.html", null ]
+        ] ]
+      ] ],
+      [ "org.apache.lucene.queryparser.flexible.core.nodes.QueryNodeImpl", "da/d0d/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_query_node_impl.html", [
+        [ "org.apache.lucene.queryparser.flexible.core.nodes.BooleanQueryNode", "de/d9b/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_boolean_query_node.html", [
+          [ "org.apache.lucene.queryparser.flexible.core.nodes.AndQueryNode", "d8/ddc/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_and_query_node.html", [
+            [ "org.apache.lucene.queryparser.flexible.core.nodes.AnyQueryNode", "dc/d72/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_any_query_node.html", null ]
+          ] ],
+          [ "org.apache.lucene.queryparser.flexible.core.nodes.OrQueryNode", "d9/dec/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_or_query_node.html", null ],
+          [ "org.apache.lucene.queryparser.flexible.core.nodes.ProximityQueryNode", "de/d7c/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_proximity_query_node.html", null ],
+          [ "org.apache.lucene.queryparser.flexible.standard.nodes.SynonymQueryNode", "db/d15/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_synonym_query_node.html", null ]
+        ] ],
+        [ "org.apache.lucene.queryparser.flexible.core.nodes.BoostQueryNode", "d7/d0d/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_boost_query_node.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.core.nodes.DeletedQueryNode", "de/d34/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_deleted_query_node.html", [
+          [ "org.apache.lucene.queryparser.flexible.core.nodes.MatchNoDocsQueryNode", "da/dd7/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_match_no_docs_query_node.html", null ],
+          [ "org.apache.lucene.queryparser.flexible.core.nodes.NoTokenFoundQueryNode", "d9/daf/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_no_token_found_query_node.html", null ]
+        ] ],
+        [ "org.apache.lucene.queryparser.flexible.core.nodes.FieldQueryNode", "dc/d46/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_field_query_node.html", [
+          [ "org.apache.lucene.queryparser.flexible.core.nodes.FuzzyQueryNode", "d2/d86/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_fuzzy_query_node.html", null ],
+          [ "org.apache.lucene.queryparser.flexible.core.nodes.QuotedFieldQueryNode", "d0/d3c/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_quoted_field_query_node.html", null ],
+          [ "org.apache.lucene.queryparser.flexible.standard.nodes.WildcardQueryNode", "da/df5/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_wildcard_query_node.html", [
+            [ "org.apache.lucene.queryparser.flexible.standard.nodes.PrefixWildcardQueryNode", "df/dd1/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_prefix_wildcard_query_node.html", null ]
+          ] ]
+        ] ],
+        [ "org.apache.lucene.queryparser.flexible.core.nodes.GroupQueryNode", "d0/d41/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_group_query_node.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.core.nodes.MatchAllDocsQueryNode", "d2/d93/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_match_all_docs_query_node.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.core.nodes.ModifierQueryNode", "dd/dc5/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_modifier_query_node.html", [
+          [ "org.apache.lucene.queryparser.flexible.standard.nodes.BooleanModifierNode", "df/da5/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_boolean_modifier_node.html", null ]
+        ] ],
+        [ "org.apache.lucene.queryparser.flexible.core.nodes.OpaqueQueryNode", "db/d41/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_opaque_query_node.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.core.nodes.PathQueryNode", "d5/d3b/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_path_query_node.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.core.nodes.PhraseSlopQueryNode", "d7/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_phrase_slop_query_node.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.core.nodes.SlopQueryNode", "d4/d95/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_slop_query_node.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.core.nodes.TokenizedPhraseQueryNode", "dc/d31/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_tokenized_phrase_query_node.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.nodes.AbstractRangeQueryNode< T extends FieldValuePairQueryNode<?>", "d4/db4/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_abstract_range_query_node.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.nodes.MultiPhraseQueryNode", "d0/d38/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_multi_phrase_query_node.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.nodes.PointQueryNode", "d2/dda/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_point_query_node.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.nodes.RegexpQueryNode", "df/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_regexp_query_node.html", null ]
+      ] ],
+      [ "org.apache.lucene.queryparser.surround.query.SrndQuery", "dc/d8c/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_srnd_query.html", [
+        [ "org.apache.lucene.queryparser.surround.query.ComposedQuery", "d5/d84/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_composed_query.html", [
+          [ "org.apache.lucene.queryparser.surround.query.AndQuery", "dc/d12/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_and_query.html", null ],
+          [ "org.apache.lucene.queryparser.surround.query.DistanceQuery", "dc/d6c/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_distance_query.html", null ],
+          [ "org.apache.lucene.queryparser.surround.query.NotQuery", "d2/d25/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_not_query.html", null ],
+          [ "org.apache.lucene.queryparser.surround.query.OrQuery", "d4/d02/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_or_query.html", null ]
+        ] ],
+        [ "org.apache.lucene.queryparser.surround.query.FieldsQuery", "dd/d55/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_fields_query.html", null ],
+        [ "org.apache.lucene.queryparser.surround.query.SimpleTerm", "d6/db7/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_simple_term.html", [
+          [ "org.apache.lucene.queryparser.surround.query.SrndPrefixQuery", "d0/d11/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_srnd_prefix_query.html", null ],
+          [ "org.apache.lucene.queryparser.surround.query.SrndTermQuery", "d5/d7c/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_srnd_term_query.html", null ],
+          [ "org.apache.lucene.queryparser.surround.query.SrndTruncQuery", "de/d92/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_srnd_trunc_query.html", null ]
         ] ]
       ] ],
       [ "org.apache.lucene.search.spans.SpanNearQuery", "d9/db2/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_near_query.html", null ],
@@ -295,10 +371,23 @@ var hierarchy =
     ] ],
     [ "org.apache.lucene.search.CollectorManager< org.apache.lucene.search.Collector, ?>", "d6/dd8/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_collector_manager.html", null ],
     [ "org.apache.lucene.util.CommandLineUtil", "d4/d6d/classorg_1_1apache_1_1lucene_1_1util_1_1_command_line_util.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.standard.CommonQueryParserConfiguration", "d8/d7b/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1_common_query_parser_configuration.html", [
+      [ "org.apache.lucene.queryparser.classic.QueryParserBase", "dc/d74/classorg_1_1apache_1_1lucene_1_1queryparser_1_1classic_1_1_query_parser_base.html", [
+        [ "org.apache.lucene.queryparser.classic.QueryParser", "df/d4b/classorg_1_1apache_1_1lucene_1_1queryparser_1_1classic_1_1_query_parser.html", [
+          [ "org.apache.lucene.queryparser.classic.MultiFieldQueryParser", "d3/d30/classorg_1_1apache_1_1lucene_1_1queryparser_1_1classic_1_1_multi_field_query_parser.html", null ],
+          [ "org.apache.lucene.queryparser.complexPhrase.ComplexPhraseQueryParser", "d1/d79/classorg_1_1apache_1_1lucene_1_1queryparser_1_1complex_phrase_1_1_complex_phrase_query_parser.html", null ],
+          [ "org.apache.lucene.queryparser.ext.ExtendableQueryParser", "d6/dd7/classorg_1_1apache_1_1lucene_1_1queryparser_1_1ext_1_1_extendable_query_parser.html", null ]
+        ] ]
+      ] ],
+      [ "org.apache.lucene.queryparser.flexible.standard.StandardQueryParser", "d0/dd1/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1_standard_query_parser.html", [
+        [ "org.apache.lucene.queryparser.flexible.precedence.PrecedenceQueryParser", "de/d18/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1precedence_1_1_precedence_query_parser.html", null ]
+      ] ]
+    ] ],
     [ "Comparable", null, [
       [ "org.apache.lucene.index.ConcurrentMergeScheduler.MergeThread", "d7/d2f/classorg_1_1apache_1_1lucene_1_1index_1_1_concurrent_merge_scheduler_1_1_merge_thread.html", null ],
       [ "org.apache.lucene.index.IndexCommit", "d9/dba/classorg_1_1apache_1_1lucene_1_1index_1_1_index_commit.html", null ],
       [ "org.apache.lucene.index.Term", "d4/d58/classorg_1_1apache_1_1lucene_1_1index_1_1_term.html", null ],
+      [ "org.apache.lucene.queryparser.surround.query.SimpleTerm", "d6/db7/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_simple_term.html", null ],
       [ "org.apache.lucene.util.BytesRef", "db/db3/classorg_1_1apache_1_1lucene_1_1util_1_1_bytes_ref.html", null ],
       [ "org.apache.lucene.util.CharsRef", "d5/da1/classorg_1_1apache_1_1lucene_1_1util_1_1_chars_ref.html", null ],
       [ "org.apache.lucene.util.IntsRef", "d8/d79/classorg_1_1apache_1_1lucene_1_1util_1_1_ints_ref.html", null ],
@@ -320,6 +409,22 @@ var hierarchy =
       [ "org.apache.lucene.codecs.lucene50.Lucene50CompoundFormat", "d6/da8/classorg_1_1apache_1_1lucene_1_1codecs_1_1lucene50_1_1_lucene50_compound_format.html", null ]
     ] ],
     [ "org.apache.lucene.codecs.compressing.CompressionMode", "db/d24/classorg_1_1apache_1_1lucene_1_1codecs_1_1compressing_1_1_compression_mode.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.config.ConfigurationKey< T >", "de/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_configuration_key.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.config.ConfigurationKey< Boolean >", "de/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_configuration_key.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.config.ConfigurationKey< CharSequence[]>", "de/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_configuration_key.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.config.ConfigurationKey< Float >", "de/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_configuration_key.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.config.ConfigurationKey< Integer >", "de/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_configuration_key.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.config.ConfigurationKey< Locale >", "de/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_configuration_key.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.config.ConfigurationKey< Map< CharSequence, org.apache.lucene.document.DateTools.Resolution > >", "de/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_configuration_key.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.config.ConfigurationKey< Map< String, Float > >", "de/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_configuration_key.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.config.ConfigurationKey< Map< String, org.apache.lucene.queryparser.flexible.standard.config.PointsConfig > >", "de/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_configuration_key.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.config.ConfigurationKey< Operator >", "de/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_configuration_key.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.config.ConfigurationKey< org.apache.lucene.analysis.Analyzer >", "de/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_configuration_key.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.config.ConfigurationKey< org.apache.lucene.document.DateTools.Resolution >", "de/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_configuration_key.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.config.ConfigurationKey< org.apache.lucene.queryparser.flexible.standard.config.FuzzyConfig >", "de/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_configuration_key.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.config.ConfigurationKey< org.apache.lucene.queryparser.flexible.standard.config.PointsConfig >", "de/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_configuration_key.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.config.ConfigurationKey< org.apache.lucene.search.MultiTermQuery.RewriteMethod >", "de/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_configuration_key.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.config.ConfigurationKey< TimeZone >", "de/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_configuration_key.html", null ],
     [ "org.apache.lucene.util.Constants", "dc/d09/classorg_1_1apache_1_1lucene_1_1util_1_1_constants.html", null ],
     [ "org.apache.lucene.store.IOContext.Context", "de/df7/enumorg_1_1apache_1_1lucene_1_1store_1_1_i_o_context_1_1_context.html", null ],
     [ "org.apache.lucene.util.Counter", "d5/d6e/classorg_1_1apache_1_1lucene_1_1util_1_1_counter.html", null ],
@@ -343,6 +448,11 @@ var hierarchy =
     [ "org.apache.lucene.util.packed.DirectReader", "d5/d6d/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_direct_reader.html", null ],
     [ "org.apache.lucene.util.packed.DirectWriter", "d6/d32/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_direct_writer.html", null ],
     [ "org.apache.lucene.search.DisiWrapper", "df/d57/classorg_1_1apache_1_1lucene_1_1search_1_1_disi_wrapper.html", null ],
+    [ "org.apache.lucene.queryparser.surround.query.DistanceSubQuery", "da/d24/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_distance_sub_query.html", [
+      [ "org.apache.lucene.queryparser.surround.query.DistanceQuery", "dc/d6c/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_distance_query.html", null ],
+      [ "org.apache.lucene.queryparser.surround.query.OrQuery", "d4/d02/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_or_query.html", null ],
+      [ "org.apache.lucene.queryparser.surround.query.SimpleTerm", "d6/db7/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_simple_term.html", null ]
+    ] ],
     [ "org.apache.lucene.search.similarities.Distribution", "d4/d4b/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_distribution.html", [
       [ "org.apache.lucene.search.similarities.DistributionLL", "da/de8/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_distribution_l_l.html", null ],
       [ "org.apache.lucene.search.similarities.DistributionSPL", "d1/dfa/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_distribution_s_p_l.html", null ]
@@ -376,11 +486,34 @@ var hierarchy =
     ] ],
     [ "org.apache.lucene.search.DocValuesRewriteMethod", "da/d53/classorg_1_1apache_1_1lucene_1_1search_1_1_doc_values_rewrite_method.html", null ],
     [ "org.apache.lucene.index.DocValuesType", "d6/d00/enumorg_1_1apache_1_1lucene_1_1index_1_1_doc_values_type.html", null ],
+    [ "org.apache.lucene.queryparser.xml.DOMUtils", "d2/dc9/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1_d_o_m_utils.html", null ],
     [ "org.apache.lucene.search.DoubleValues", "df/d70/classorg_1_1apache_1_1lucene_1_1search_1_1_double_values.html", null ],
     [ "org.apache.lucene.geo.EdgeTree", "d7/d7b/classorg_1_1apache_1_1lucene_1_1geo_1_1_edge_tree.html", [
       [ "org.apache.lucene.geo.Polygon2D", "d9/def/classorg_1_1apache_1_1lucene_1_1geo_1_1_polygon2_d.html", null ]
     ] ],
+    [ "Error", null, [
+      [ "org.apache.lucene.queryparser.classic.TokenMgrError", "df/da3/classorg_1_1apache_1_1lucene_1_1queryparser_1_1classic_1_1_token_mgr_error.html", null ],
+      [ "org.apache.lucene.queryparser.flexible.core.QueryNodeError", "dc/d74/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1_query_node_error.html", null ],
+      [ "org.apache.lucene.queryparser.flexible.standard.parser.TokenMgrError", "d7/d8b/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1parser_1_1_token_mgr_error.html", null ],
+      [ "org.apache.lucene.queryparser.surround.parser.TokenMgrError", "d1/dde/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1parser_1_1_token_mgr_error.html", null ]
+    ] ],
+    [ "org.apache.lucene.queryparser.flexible.core.parser.EscapeQuerySyntax", "dd/d99/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1parser_1_1_escape_query_syntax.html", [
+      [ "org.apache.lucene.queryparser.flexible.standard.parser.EscapeQuerySyntaxImpl", "d6/dd5/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1parser_1_1_escape_query_syntax_impl.html", null ]
+    ] ],
+    [ "Exception", null, [
+      [ "org.apache.lucene.queryparser.classic.ParseException", "df/d86/classorg_1_1apache_1_1lucene_1_1queryparser_1_1classic_1_1_parse_exception.html", null ],
+      [ "org.apache.lucene.queryparser.flexible.core.QueryNodeException", "d4/da8/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1_query_node_exception.html", [
+        [ "org.apache.lucene.queryparser.flexible.core.QueryNodeParseException", "d0/d95/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1_query_node_parse_exception.html", [
+          [ "org.apache.lucene.queryparser.flexible.standard.parser.ParseException", "d7/d49/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1parser_1_1_parse_exception.html", null ]
+        ] ]
+      ] ],
+      [ "org.apache.lucene.queryparser.surround.parser.ParseException", "d2/d79/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1parser_1_1_parse_exception.html", null ],
+      [ "org.apache.lucene.queryparser.xml.ParserException", "dd/d04/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1_parser_exception.html", null ]
+    ] ],
     [ "org.apache.lucene.search.Explanation", "dd/d56/classorg_1_1apache_1_1lucene_1_1search_1_1_explanation.html", null ],
+    [ "org.apache.lucene.expressions.Expression", "d2/d46/classorg_1_1apache_1_1lucene_1_1expressions_1_1_expression.html", null ],
+    [ "org.apache.lucene.queryparser.ext.ExtensionQuery", "da/dd3/classorg_1_1apache_1_1lucene_1_1queryparser_1_1ext_1_1_extension_query.html", null ],
+    [ "org.apache.lucene.queryparser.ext.Extensions", "d5/d20/classorg_1_1apache_1_1lucene_1_1queryparser_1_1ext_1_1_extensions.html", null ],
     [ "org.apache.lucene.search.FieldComparator< T >", "db/d2b/classorg_1_1apache_1_1lucene_1_1search_1_1_field_comparator.html", [
       [ "org.apache.lucene.search.SimpleFieldComparator< T >", "db/d09/classorg_1_1apache_1_1lucene_1_1search_1_1_simple_field_comparator.html", null ]
     ] ],
@@ -390,6 +523,11 @@ var hierarchy =
     [ "org.apache.lucene.search.FieldComparator< Integer >", "db/d2b/classorg_1_1apache_1_1lucene_1_1search_1_1_field_comparator.html", null ],
     [ "org.apache.lucene.search.FieldComparator<?>", "db/d2b/classorg_1_1apache_1_1lucene_1_1search_1_1_field_comparator.html", null ],
     [ "org.apache.lucene.search.FieldComparatorSource", "d3/daf/classorg_1_1apache_1_1lucene_1_1search_1_1_field_comparator_source.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.config.FieldConfigListener", "d9/dc7/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_field_config_listener.html", [
+      [ "org.apache.lucene.queryparser.flexible.standard.config.FieldBoostMapFCListener", "df/da8/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1config_1_1_field_boost_map_f_c_listener.html", null ],
+      [ "org.apache.lucene.queryparser.flexible.standard.config.FieldDateResolutionFCListener", "d2/d80/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1config_1_1_field_date_resolution_f_c_listener.html", null ],
+      [ "org.apache.lucene.queryparser.flexible.standard.config.PointsConfigListener", "d4/daa/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1config_1_1_points_config_listener.html", null ]
+    ] ],
     [ "org.apache.lucene.index.FieldInfo", "d4/dcb/classorg_1_1apache_1_1lucene_1_1index_1_1_field_info.html", null ],
     [ "org.apache.lucene.codecs.FieldInfosFormat", "d9/d2b/classorg_1_1apache_1_1lucene_1_1codecs_1_1_field_infos_format.html", [
       [ "org.apache.lucene.codecs.lucene50.Lucene50FieldInfosFormat", "d4/d5b/classorg_1_1apache_1_1lucene_1_1codecs_1_1lucene50_1_1_lucene50_field_infos_format.html", null ],
@@ -398,6 +536,10 @@ var hierarchy =
     [ "org.apache.lucene.index.FieldInvertState", "d9/dfa/classorg_1_1apache_1_1lucene_1_1index_1_1_field_invert_state.html", null ],
     [ "org.apache.lucene.search.FieldValueHitQueue< Entry >", "d4/daa/classorg_1_1apache_1_1lucene_1_1search_1_1_field_value_hit_queue.html", null ],
     [ "org.apache.lucene.search.FieldValueHitQueue< T >", "d4/daa/classorg_1_1apache_1_1lucene_1_1search_1_1_field_value_hit_queue.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.nodes.FieldValuePairQueryNode< CharSequence >", "d0/d3f/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_field_value_pair_query_node.html", [
+      [ "org.apache.lucene.queryparser.flexible.core.nodes.FieldQueryNode", "dc/d46/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_field_query_node.html", null ]
+    ] ],
+    [ "org.apache.lucene.queryparser.flexible.core.nodes.FieldValuePairQueryNode< Number >", "d0/d3f/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_field_value_pair_query_node.html", null ],
     [ "org.apache.lucene.util.automaton.FiniteStringsIterator", "d8/d1f/classorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_finite_strings_iterator.html", [
       [ "org.apache.lucene.util.automaton.LimitedFiniteStringsIterator", "d2/dbc/classorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_limited_finite_strings_iterator.html", null ]
     ] ],
@@ -407,6 +549,7 @@ var hierarchy =
     [ "org.apache.lucene.util.fst.FST< org.apache.lucene.util.BytesRef >", "d2/de5/classorg_1_1apache_1_1lucene_1_1util_1_1fst_1_1_f_s_t.html", null ],
     [ "org.apache.lucene.util.FutureArrays", "d3/da3/classorg_1_1apache_1_1lucene_1_1util_1_1_future_arrays.html", null ],
     [ "org.apache.lucene.util.FutureObjects", "d6/deb/classorg_1_1apache_1_1lucene_1_1util_1_1_future_objects.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.standard.config.FuzzyConfig", "d4/d49/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1config_1_1_fuzzy_config.html", null ],
     [ "org.apache.lucene.geo.GeoEncodingUtils", "d4/d0c/classorg_1_1apache_1_1lucene_1_1geo_1_1_geo_encoding_utils.html", null ],
     [ "org.apache.lucene.geo.GeoUtils", "d9/dda/classorg_1_1apache_1_1lucene_1_1geo_1_1_geo_utils.html", null ],
     [ "org.apache.lucene.util.graph.GraphTokenStreamFiniteStrings", "d4/d1f/classorg_1_1apache_1_1lucene_1_1util_1_1graph_1_1_graph_token_stream_finite_strings.html", null ],
@@ -499,6 +642,7 @@ var hierarchy =
       ] ]
     ] ],
     [ "org.apache.lucene.util.packed.PackedLongValues.Iterator", "d3/d9e/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_packed_long_values_1_1_iterator.html", null ],
+    [ "org.apache.lucene.expressions.js.JavascriptCompiler", "da/d4a/classorg_1_1apache_1_1lucene_1_1expressions_1_1js_1_1_javascript_compiler.html", null ],
     [ "org.apache.lucene.search.similarities.Lambda", "d6/d4b/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_lambda.html", [
       [ "org.apache.lucene.search.similarities.LambdaDF", "de/da3/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_lambda_d_f.html", null ],
       [ "org.apache.lucene.search.similarities.LambdaTTF", "da/daa/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_lambda_t_t_f.html", null ]
@@ -533,13 +677,13 @@ var hierarchy =
     [ "org.apache.lucene.store.LockStressTest", "d8/dea/classorg_1_1apache_1_1lucene_1_1store_1_1_lock_stress_test.html", null ],
     [ "org.apache.lucene.store.LockVerifyServer", "d2/d37/classorg_1_1apache_1_1lucene_1_1store_1_1_lock_verify_server.html", null ],
     [ "org.apache.lucene.util.LongBitSet", "d1/d2d/classorg_1_1apache_1_1lucene_1_1util_1_1_long_bit_set.html", null ],
+    [ "org.apache.lucene.search.LongValues", "d3/db7/classorg_1_1apache_1_1lucene_1_1search_1_1_long_values.html", null ],
     [ "org.apache.lucene.util.LongValues", "d6/d44/classorg_1_1apache_1_1lucene_1_1util_1_1_long_values.html", [
       [ "org.apache.lucene.util.packed.AbstractPagedMutable< T extends AbstractPagedMutable< T >", "d9/db5/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_abstract_paged_mutable.html", null ],
       [ "org.apache.lucene.util.packed.BlockPackedReader", "d3/d4b/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_block_packed_reader.html", null ],
       [ "org.apache.lucene.util.packed.MonotonicBlockPackedReader", "dd/de7/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_monotonic_block_packed_reader.html", null ],
       [ "org.apache.lucene.util.packed.PackedLongValues", "d2/d19/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_packed_long_values.html", null ]
     ] ],
-    [ "org.apache.lucene.search.LongValues", "d3/db7/classorg_1_1apache_1_1lucene_1_1search_1_1_long_values.html", null ],
     [ "org.apache.lucene.util.LSBRadixSorter", "d3/d0f/classorg_1_1apache_1_1lucene_1_1util_1_1_l_s_b_radix_sorter.html", null ],
     [ "org.apache.lucene.LucenePackage", "d5/dfd/classorg_1_1apache_1_1lucene_1_1_lucene_package.html", null ],
     [ "org.apache.lucene.util.MapOfSets< K, V >", "de/ded/classorg_1_1apache_1_1lucene_1_1util_1_1_map_of_sets.html", null ],
@@ -548,6 +692,7 @@ var hierarchy =
       [ "org.apache.lucene.search.FilterMatchesIterator", "d4/dd8/classorg_1_1apache_1_1lucene_1_1search_1_1_filter_matches_iterator.html", null ]
     ] ],
     [ "org.apache.lucene.search.MatchesUtils", "dc/d48/classorg_1_1apache_1_1lucene_1_1search_1_1_matches_utils.html", null ],
+    [ "org.apache.lucene.queryparser.surround.query.SimpleTerm.MatchingTermVisitor", "dd/dd8/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_simple_term_1_1_matching_term_visitor.html", null ],
     [ "org.apache.lucene.util.MathUtil", "d7/d6f/classorg_1_1apache_1_1lucene_1_1util_1_1_math_util.html", null ],
     [ "org.apache.lucene.index.MergePolicy.MergeContext", "d2/d9b/interfaceorg_1_1apache_1_1lucene_1_1index_1_1_merge_policy_1_1_merge_context.html", [
       [ "org.apache.lucene.index.IndexWriter", "df/dbc/classorg_1_1apache_1_1lucene_1_1index_1_1_index_writer.html", null ]
@@ -569,7 +714,11 @@ var hierarchy =
     ] ],
     [ "org.apache.lucene.index.MergeState", "dc/d72/classorg_1_1apache_1_1lucene_1_1index_1_1_merge_state.html", null ],
     [ "org.apache.lucene.index.MergeTrigger", "dd/dd6/enumorg_1_1apache_1_1lucene_1_1index_1_1_merge_trigger.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.messages.Message", "d2/d40/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1messages_1_1_message.html", [
+      [ "org.apache.lucene.queryparser.flexible.messages.MessageImpl", "d8/dad/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1messages_1_1_message_impl.html", null ]
+    ] ],
     [ "org.apache.lucene.util.automaton.MinimizationOperations", "dc/d67/classorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_minimization_operations.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.nodes.ModifierQueryNode.Modifier", "dc/de6/enumorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_modifier_query_node_1_1_modifier.html", null ],
     [ "org.apache.lucene.util.packed.MonotonicBlockPackedWriter", "d3/d54/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_monotonic_block_packed_writer.html", null ],
     [ "org.apache.lucene.index.MultiDocValues", "df/df1/classorg_1_1apache_1_1lucene_1_1index_1_1_multi_doc_values.html", null ],
     [ "org.apache.lucene.index.MultiLeafReader", "db/dac/classorg_1_1apache_1_1lucene_1_1index_1_1_multi_leaf_reader.html", null ],
@@ -580,6 +729,13 @@ var hierarchy =
     [ "org.apache.lucene.util.NamedSPILoader< org.apache.lucene.codecs.PostingsFormat >", "d9/d18/classorg_1_1apache_1_1lucene_1_1util_1_1_named_s_p_i_loader.html", null ],
     [ "org.apache.lucene.search.spans.NearSpansOrdered", "d8/dbf/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_near_spans_ordered.html", null ],
     [ "org.apache.lucene.search.spans.NearSpansUnordered", "d8/d65/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_near_spans_unordered.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.messages.NLS", "dc/df0/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1messages_1_1_n_l_s.html", [
+      [ "org.apache.lucene.queryparser.flexible.core.messages.QueryParserMessages", "d3/db2/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1messages_1_1_query_parser_messages.html", null ]
+    ] ],
+    [ "org.apache.lucene.queryparser.flexible.messages.NLSException", "d3/da8/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1messages_1_1_n_l_s_exception.html", [
+      [ "org.apache.lucene.queryparser.flexible.core.QueryNodeError", "dc/d74/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1_query_node_error.html", null ],
+      [ "org.apache.lucene.queryparser.flexible.core.QueryNodeException", "d4/da8/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1_query_node_exception.html", null ]
+    ] ],
     [ "org.apache.lucene.search.similarities.Normalization", "de/d20/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_normalization.html", [
       [ "org.apache.lucene.search.similarities.NormalizationH1", "d0/d42/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_normalization_h1.html", null ],
       [ "org.apache.lucene.search.similarities.NormalizationH2", "d0/dda/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_normalization_h2.html", null ],
@@ -620,6 +776,8 @@ var hierarchy =
     [ "org.apache.lucene.util.packed.PackedDataInput", "d1/da6/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_packed_data_input.html", null ],
     [ "org.apache.lucene.util.packed.PackedDataOutput", "d7/df0/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_packed_data_output.html", null ],
     [ "org.apache.lucene.util.packed.PackedInts", "da/de2/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_packed_ints.html", null ],
+    [ "org.apache.lucene.queryparser.ext.ParserExtension", "d5/d3a/classorg_1_1apache_1_1lucene_1_1queryparser_1_1ext_1_1_parser_extension.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.standard.config.PointsConfig", "d2/dac/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1config_1_1_points_config.html", null ],
     [ "org.apache.lucene.codecs.PointsFormat", "db/d73/classorg_1_1apache_1_1lucene_1_1codecs_1_1_points_format.html", [
       [ "org.apache.lucene.codecs.lucene60.Lucene60PointsFormat", "d8/da9/classorg_1_1apache_1_1lucene_1_1codecs_1_1lucene60_1_1_lucene60_points_format.html", null ]
     ] ],
@@ -685,13 +843,135 @@ var hierarchy =
       [ "org.apache.lucene.search.TermInSetQuery", "d1/dce/classorg_1_1apache_1_1lucene_1_1search_1_1_term_in_set_query.html", null ],
       [ "org.apache.lucene.search.TermQuery", "de/dc2/classorg_1_1apache_1_1lucene_1_1search_1_1_term_query.html", null ]
     ] ],
-    [ "org.apache.lucene.util.QueryBuilder", "d2/d1d/classorg_1_1apache_1_1lucene_1_1util_1_1_query_builder.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.builders.QueryBuilder", "d3/dea/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1builders_1_1_query_builder.html", [
+      [ "org.apache.lucene.queryparser.flexible.core.builders.QueryTreeBuilder", "d8/dcc/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1builders_1_1_query_tree_builder.html", [
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.StandardQueryTreeBuilder", "d0/d2b/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_standard_query_tree_builder.html", null ]
+      ] ],
+      [ "org.apache.lucene.queryparser.flexible.standard.builders.StandardQueryBuilder", "d0/d25/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_standard_query_builder.html", [
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.AnyQueryNodeBuilder", "db/d83/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_any_query_node_builder.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.BooleanQueryNodeBuilder", "d5/d9a/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_boolean_query_node_builder.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.BoostQueryNodeBuilder", "d5/dc6/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_boost_query_node_builder.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.DummyQueryNodeBuilder", "d4/d30/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_dummy_query_node_builder.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.FieldQueryNodeBuilder", "d6/da2/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_field_query_node_builder.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.FuzzyQueryNodeBuilder", "d5/d59/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_fuzzy_query_node_builder.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.GroupQueryNodeBuilder", "dc/d02/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_group_query_node_builder.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.MatchAllDocsQueryNodeBuilder", "d9/d69/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_match_all_docs_query_node_builder.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.MatchNoDocsQueryNodeBuilder", "da/d48/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_match_no_docs_query_node_builder.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.ModifierQueryNodeBuilder", "d0/d6f/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_modifier_query_node_builder.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.MultiPhraseQueryNodeBuilder", "d4/db8/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_multi_phrase_query_node_builder.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.PhraseQueryNodeBuilder", "da/d2d/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_phrase_query_node_builder.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.PointRangeQueryNodeBuilder", "d5/dae/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_point_range_query_node_builder.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.PrefixWildcardQueryNodeBuilder", "d7/d86/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_prefix_wildcard_query_node_builder.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.RegexpQueryNodeBuilder", "d1/ddd/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_regexp_query_node_builder.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.SlopQueryNodeBuilder", "d8/d84/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_slop_query_node_builder.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.StandardQueryTreeBuilder", "d0/d2b/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_standard_query_tree_builder.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.SynonymQueryNodeBuilder", "d2/de8/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_synonym_query_node_builder.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.TermRangeQueryNodeBuilder", "dc/d26/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_term_range_query_node_builder.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.builders.WildcardQueryNodeBuilder", "da/d20/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_wildcard_query_node_builder.html", null ]
+      ] ]
+    ] ],
+    [ "org.apache.lucene.util.QueryBuilder", "d2/d1d/classorg_1_1apache_1_1lucene_1_1util_1_1_query_builder.html", [
+      [ "org.apache.lucene.queryparser.classic.QueryParserBase", "dc/d74/classorg_1_1apache_1_1lucene_1_1queryparser_1_1classic_1_1_query_parser_base.html", null ],
+      [ "org.apache.lucene.queryparser.simple.SimpleQueryParser", "dd/db4/classorg_1_1apache_1_1lucene_1_1queryparser_1_1simple_1_1_simple_query_parser.html", null ]
+    ] ],
+    [ "org.apache.lucene.queryparser.xml.QueryBuilder", "d3/d84/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1_query_builder.html", [
+      [ "org.apache.lucene.queryparser.xml.builders.BooleanQueryBuilder", "d1/d88/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_boolean_query_builder.html", null ],
+      [ "org.apache.lucene.queryparser.xml.builders.ConstantScoreQueryBuilder", "d7/d21/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_constant_score_query_builder.html", null ],
+      [ "org.apache.lucene.queryparser.xml.builders.DisjunctionMaxQueryBuilder", "d8/d24/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_disjunction_max_query_builder.html", null ],
+      [ "org.apache.lucene.queryparser.xml.builders.FuzzyLikeThisQueryBuilder", "d8/d38/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_fuzzy_like_this_query_builder.html", null ],
+      [ "org.apache.lucene.queryparser.xml.builders.LikeThisQueryBuilder", "d0/d63/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_like_this_query_builder.html", null ],
+      [ "org.apache.lucene.queryparser.xml.builders.MatchAllDocsQueryBuilder", "d8/dff/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_match_all_docs_query_builder.html", null ],
+      [ "org.apache.lucene.queryparser.xml.builders.PointRangeQueryBuilder", "da/d71/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_point_range_query_builder.html", null ],
+      [ "org.apache.lucene.queryparser.xml.builders.RangeQueryBuilder", "d1/d20/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_range_query_builder.html", null ],
+      [ "org.apache.lucene.queryparser.xml.builders.SpanQueryBuilder", "d6/ddc/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_query_builder.html", [
+        [ "org.apache.lucene.queryparser.xml.builders.SpanBuilderBase", "d9/d08/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_builder_base.html", [
+          [ "org.apache.lucene.queryparser.xml.builders.BoostingTermBuilder", "d6/df8/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_boosting_term_builder.html", null ],
+          [ "org.apache.lucene.queryparser.xml.builders.SpanFirstBuilder", "d4/d7b/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_first_builder.html", null ],
+          [ "org.apache.lucene.queryparser.xml.builders.SpanNearBuilder", "d2/da0/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_near_builder.html", null ],
+          [ "org.apache.lucene.queryparser.xml.builders.SpanNotBuilder", "db/dd2/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_not_builder.html", null ],
+          [ "org.apache.lucene.queryparser.xml.builders.SpanOrBuilder", "d7/d2e/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_or_builder.html", null ],
+          [ "org.apache.lucene.queryparser.xml.builders.SpanOrTermsBuilder", "df/d6b/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_or_terms_builder.html", null ],
+          [ "org.apache.lucene.queryparser.xml.builders.SpanTermBuilder", "d4/ddb/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_term_builder.html", null ]
+        ] ],
+        [ "org.apache.lucene.queryparser.xml.builders.SpanQueryBuilderFactory", "db/def/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_query_builder_factory.html", null ],
+        [ "org.apache.lucene.queryparser.xml.CoreParser", "da/d57/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1_core_parser.html", [
+          [ "org.apache.lucene.queryparser.xml.CorePlusQueriesParser", "da/d1d/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1_core_plus_queries_parser.html", [
+            [ "org.apache.lucene.queryparser.xml.CorePlusExtensionsParser", "df/dc9/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1_core_plus_extensions_parser.html", null ]
+          ] ]
+        ] ]
+      ] ],
+      [ "org.apache.lucene.queryparser.xml.builders.TermQueryBuilder", "d2/dbb/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_term_query_builder.html", null ],
+      [ "org.apache.lucene.queryparser.xml.builders.TermsQueryBuilder", "d6/d36/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_terms_query_builder.html", null ],
+      [ "org.apache.lucene.queryparser.xml.builders.UserInputQueryBuilder", "de/d47/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_user_input_query_builder.html", null ],
+      [ "org.apache.lucene.queryparser.xml.CoreParser", "da/d57/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1_core_parser.html", null ],
+      [ "org.apache.lucene.queryparser.xml.QueryBuilderFactory", "d5/dfe/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1_query_builder_factory.html", null ]
+    ] ],
     [ "org.apache.lucene.search.QueryCache", "d4/d06/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_query_cache.html", [
       [ "org.apache.lucene.search.LRUQueryCache", "d1/d04/classorg_1_1apache_1_1lucene_1_1search_1_1_l_r_u_query_cache.html", null ]
     ] ],
     [ "org.apache.lucene.search.QueryCachingPolicy", "dc/d59/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_query_caching_policy.html", [
       [ "org.apache.lucene.search.UsageTrackingQueryCachingPolicy", "d2/d4e/classorg_1_1apache_1_1lucene_1_1search_1_1_usage_tracking_query_caching_policy.html", null ]
     ] ],
+    [ "org.apache.lucene.queryparser.flexible.core.nodes.QueryNode", "d7/d9a/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_query_node.html", [
+      [ "org.apache.lucene.queryparser.flexible.core.nodes.FieldableNode", "d9/dd5/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_fieldable_node.html", [
+        [ "org.apache.lucene.queryparser.flexible.core.nodes.FieldValuePairQueryNode< T extends Object >", "d0/d3f/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_field_value_pair_query_node.html", [
+          [ "org.apache.lucene.queryparser.flexible.standard.nodes.PointQueryNode", "d2/dda/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_point_query_node.html", null ]
+        ] ],
+        [ "org.apache.lucene.queryparser.flexible.core.nodes.PhraseSlopQueryNode", "d7/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_phrase_slop_query_node.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.core.nodes.RangeQueryNode< T extends FieldValuePairQueryNode<?>", "d4/d96/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_range_query_node.html", [
+          [ "org.apache.lucene.queryparser.flexible.standard.nodes.AbstractRangeQueryNode< T extends FieldValuePairQueryNode<?>", "d4/db4/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_abstract_range_query_node.html", null ]
+        ] ],
+        [ "org.apache.lucene.queryparser.flexible.core.nodes.SlopQueryNode", "d4/d95/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_slop_query_node.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.core.nodes.TokenizedPhraseQueryNode", "dc/d31/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_tokenized_phrase_query_node.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.nodes.MultiPhraseQueryNode", "d0/d38/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_multi_phrase_query_node.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.nodes.RegexpQueryNode", "df/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_regexp_query_node.html", null ]
+      ] ],
+      [ "org.apache.lucene.queryparser.flexible.core.nodes.QueryNodeImpl", "da/d0d/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_query_node_impl.html", null ],
+      [ "org.apache.lucene.queryparser.flexible.core.nodes.ValueQueryNode< T extends Object >", "df/d4e/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_value_query_node.html", null ]
+    ] ],
+    [ "org.apache.lucene.queryparser.flexible.core.util.QueryNodeOperation", "d8/d48/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1util_1_1_query_node_operation.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.processors.QueryNodeProcessor", "d9/de0/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors_1_1_query_node_processor.html", [
+      [ "org.apache.lucene.queryparser.flexible.core.processors.QueryNodeProcessorImpl", "d8/dcc/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors_1_1_query_node_processor_impl.html", [
+        [ "org.apache.lucene.queryparser.flexible.core.processors.NoChildOptimizationQueryNodeProcessor", "d0/da5/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors_1_1_no_child_optimization_query_node_processor.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.core.processors.RemoveDeletedQueryNodesProcessor", "da/d97/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors_1_1_remove_deleted_query_nodes_processor.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.precedence.processors.BooleanModifiersQueryNodeProcessor", "dc/dd2/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1precedence_1_1processors_1_1_boolean_modifiers_query_node_processor.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.processors.AllowLeadingWildcardProcessor", "d6/d42/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_allow_leading_wildcard_processor.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.processors.AnalyzerQueryNodeProcessor", "d1/d21/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_analyzer_query_node_processor.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.processors.BooleanSingleChildOptimizationQueryNodeProcessor", "d9/ded/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_boolean_sif8620946e46b74a7b46e57f8f3ff3630.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.processors.BoostQueryNodeProcessor", "d2/db9/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_boost_query_node_processor.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.processors.DefaultPhraseSlopQueryNodeProcessor", "d0/d9f/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_default_phrase_slop_query_node_processor.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.processors.FuzzyQueryNodeProcessor", "db/d39/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_fuzzy_query_node_processor.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.processors.MatchAllDocsQueryNodeProcessor", "d2/d0a/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_match_all_docs_query_node_processor.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.processors.MultiFieldQueryNodeProcessor", "da/dce/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_multi_field_query_node_processor.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.processors.MultiTermRewriteMethodProcessor", "d3/d53/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_multi_term_rewrite_method_processor.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.processors.OpenRangeQueryNodeProcessor", "d5/d4a/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_open_range_query_node_processor.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.processors.PhraseSlopQueryNodeProcessor", "d2/d59/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_phrase_slop_query_node_processor.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.processors.PointQueryNodeProcessor", "d8/dc3/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_point_query_node_processor.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.processors.PointRangeQueryNodeProcessor", "d5/de9/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_point_range_query_node_processor.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.processors.RegexpQueryNodeProcessor", "d0/d3d/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_regexp_query_node_processor.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.processors.RemoveEmptyNonLeafQueryNodeProcessor", "d1/d31/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_remove_empfdf4f99783bd026e8241a3babc55e89b.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.processors.TermRangeQueryNodeProcessor", "d1/dfb/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_term_range_query_node_processor.html", null ],
+        [ "org.apache.lucene.queryparser.flexible.standard.processors.WildcardQueryNodeProcessor", "dd/dfa/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_wildcard_query_node_processor.html", null ]
+      ] ],
+      [ "org.apache.lucene.queryparser.flexible.core.processors.QueryNodeProcessorPipeline", "d1/d85/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors_1_1_query_node_processor_pipeline.html", [
+        [ "org.apache.lucene.queryparser.flexible.standard.processors.StandardQueryNodeProcessorPipeline", "d5/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_standard_query_node_processor_pipeline.html", [
+          [ "org.apache.lucene.queryparser.flexible.precedence.processors.PrecedenceQueryNodeProcessorPipeline", "da/dea/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1precedence_1_1processors_1_1_preceden08a6aa471ab54e19d94a33db72a467bb.html", null ]
+        ] ]
+      ] ],
+      [ "org.apache.lucene.queryparser.flexible.standard.processors.BooleanQuery2ModifierNodeProcessor", "d1/d89/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_boolean_query2_modifier_node_processor.html", null ]
+    ] ],
+    [ "org.apache.lucene.queryparser.classic.QueryParserConstants", "de/df6/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1classic_1_1_query_parser_constants.html", [
+      [ "org.apache.lucene.queryparser.classic.QueryParser", "df/d4b/classorg_1_1apache_1_1lucene_1_1queryparser_1_1classic_1_1_query_parser.html", null ],
+      [ "org.apache.lucene.queryparser.classic.QueryParserTokenManager", "d8/db7/classorg_1_1apache_1_1lucene_1_1queryparser_1_1classic_1_1_query_parser_token_manager.html", null ]
+    ] ],
+    [ "org.apache.lucene.queryparser.surround.parser.QueryParserConstants", "d7/da7/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1parser_1_1_query_parser_constants.html", [
+      [ "org.apache.lucene.queryparser.surround.parser.QueryParser", "d3/dbb/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1parser_1_1_query_parser.html", null ],
+      [ "org.apache.lucene.queryparser.surround.parser.QueryParserTokenManager", "d7/d78/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1parser_1_1_query_parser_token_manager.html", null ]
+    ] ],
+    [ "org.apache.lucene.queryparser.flexible.core.QueryParserHelper", "da/da6/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1_query_parser_helper.html", [
+      [ "org.apache.lucene.queryparser.flexible.standard.StandardQueryParser", "d0/dd1/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1_standard_query_parser.html", null ]
+    ] ],
+    [ "org.apache.lucene.queryparser.flexible.standard.QueryParserUtil", "d1/dbd/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1_query_parser_util.html", null ],
     [ "org.apache.lucene.index.QueryTimeout", "da/d4c/interfaceorg_1_1apache_1_1lucene_1_1index_1_1_query_timeout.html", [
       [ "org.apache.lucene.index.QueryTimeoutImpl", "d5/dce/classorg_1_1apache_1_1lucene_1_1index_1_1_query_timeout_impl.html", null ]
     ] ],
@@ -701,6 +981,7 @@ var hierarchy =
       [ "org.apache.lucene.store.ByteBuffersDataInput", "d9/db9/classorg_1_1apache_1_1lucene_1_1store_1_1_byte_buffers_data_input.html", null ],
       [ "org.apache.lucene.store.ByteBuffersIndexInput", "d2/daf/classorg_1_1apache_1_1lucene_1_1store_1_1_byte_buffers_index_input.html", null ]
     ] ],
+    [ "org.apache.lucene.queryparser.flexible.core.nodes.RangeQueryNode< FieldValuePairQueryNode<?> >", "d4/d96/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_range_query_node.html", null ],
     [ "org.apache.lucene.store.RateLimiter", "d4/db5/classorg_1_1apache_1_1lucene_1_1store_1_1_rate_limiter.html", [
       [ "org.apache.lucene.index.MergeRateLimiter", "d2/d3a/classorg_1_1apache_1_1lucene_1_1index_1_1_merge_rate_limiter.html", null ]
     ] ],
@@ -786,6 +1067,11 @@ var hierarchy =
       [ "org.apache.lucene.util.RadixSelector", "d9/d49/classorg_1_1apache_1_1lucene_1_1util_1_1_radix_selector.html", null ]
     ] ],
     [ "org.apache.lucene.util.SentinelIntSet", "d2/dfe/classorg_1_1apache_1_1lucene_1_1util_1_1_sentinel_int_set.html", null ],
+    [ "Serializable", null, [
+      [ "org.apache.lucene.queryparser.classic.Token", "d5/d88/classorg_1_1apache_1_1lucene_1_1queryparser_1_1classic_1_1_token.html", null ],
+      [ "org.apache.lucene.queryparser.flexible.standard.parser.Token", "d9/d36/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1parser_1_1_token.html", null ],
+      [ "org.apache.lucene.queryparser.surround.parser.Token", "db/d8b/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1parser_1_1_token.html", null ]
+    ] ],
     [ "org.apache.lucene.util.SetOnce< org.apache.lucene.index.IndexWriter >", "d9/d65/classorg_1_1apache_1_1lucene_1_1util_1_1_set_once.html", null ],
     [ "org.apache.lucene.search.similarities.Similarity", "d6/dab/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_similarity.html", [
       [ "org.apache.lucene.search.similarities.BM25Similarity", "d0/d67/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_b_m25_similarity.html", null ],
@@ -834,7 +1120,12 @@ var hierarchy =
     [ "org.apache.lucene.util.OfflineSorter.SortInfo", "dd/dee/classorg_1_1apache_1_1lucene_1_1util_1_1_offline_sorter_1_1_sort_info.html", null ],
     [ "org.apache.lucene.search.spans.SpanCollector", "d2/d82/interfaceorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_collector.html", null ],
     [ "org.apache.lucene.search.spans.SpanContainingQuery", "d1/d9a/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_containing_query.html", null ],
+    [ "org.apache.lucene.queryparser.surround.query.SpanNearClauseFactory", "d8/d37/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_span_near_clause_factory.html", null ],
     [ "org.apache.lucene.search.spans.SpanWithinQuery", "d1/df8/classorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_within_query.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.standard.parser.StandardSyntaxParserConstants", "d4/d31/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1parser_1_1_standard_syntax_parser_constants.html", [
+      [ "org.apache.lucene.queryparser.flexible.standard.parser.StandardSyntaxParser", "d3/dae/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1parser_1_1_standard_syntax_parser.html", null ],
+      [ "org.apache.lucene.queryparser.flexible.standard.parser.StandardSyntaxParserTokenManager", "d0/dc2/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1parser_1_1_standard_syntax_parser_token_manager.html", null ]
+    ] ],
     [ "org.apache.lucene.analysis.standard.StandardTokenizerImpl", "d9/dce/classorg_1_1apache_1_1lucene_1_1analysis_1_1standard_1_1_standard_tokenizer_impl.html", null ],
     [ "org.apache.lucene.util.automaton.StatePair", "df/dd8/classorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_state_pair.html", null ],
     [ "org.apache.lucene.codecs.blocktree.Stats", "d5/d4c/classorg_1_1apache_1_1lucene_1_1codecs_1_1blocktree_1_1_stats.html", null ],
@@ -847,7 +1138,11 @@ var hierarchy =
       [ "org.apache.lucene.document.DocumentStoredFieldVisitor", "d6/d21/classorg_1_1apache_1_1lucene_1_1document_1_1_document_stored_field_visitor.html", null ]
     ] ],
     [ "org.apache.lucene.util.StringHelper", "da/dfd/classorg_1_1apache_1_1lucene_1_1util_1_1_string_helper.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.util.StringUtils", "d4/db2/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1util_1_1_string_utils.html", null ],
     [ "org.apache.lucene.util.SuppressForbidden", "de/df6/interfaceorg_1_1apache_1_1lucene_1_1util_1_1_suppress_forbidden.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.parser.SyntaxParser", "d3/d90/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1parser_1_1_syntax_parser.html", [
+      [ "org.apache.lucene.queryparser.flexible.standard.parser.StandardSyntaxParser", "d3/dae/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1parser_1_1_standard_syntax_parser.html", null ]
+    ] ],
     [ "org.apache.lucene.index.Terms", "d2/d9e/classorg_1_1apache_1_1lucene_1_1index_1_1_terms.html", [
       [ "org.apache.lucene.codecs.blocktree.FieldReader", "d4/dd9/classorg_1_1apache_1_1lucene_1_1codecs_1_1blocktree_1_1_field_reader.html", null ],
       [ "org.apache.lucene.index.MultiTerms", "df/dae/classorg_1_1apache_1_1lucene_1_1index_1_1_multi_terms.html", null ]
@@ -859,6 +1154,10 @@ var hierarchy =
       [ "org.apache.lucene.codecs.compressing.CompressingTermVectorsFormat", "dc/dda/classorg_1_1apache_1_1lucene_1_1codecs_1_1compressing_1_1_compressing_term_vectors_format.html", [
         [ "org.apache.lucene.codecs.lucene50.Lucene50TermVectorsFormat", "d9/d39/classorg_1_1apache_1_1lucene_1_1codecs_1_1lucene50_1_1_lucene50_term_vectors_format.html", null ]
       ] ]
+    ] ],
+    [ "org.apache.lucene.queryparser.flexible.core.nodes.TextableQueryNode", "d1/d5f/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_textable_query_node.html", [
+      [ "org.apache.lucene.queryparser.flexible.core.nodes.FieldQueryNode", "dc/d46/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_field_query_node.html", null ],
+      [ "org.apache.lucene.queryparser.flexible.standard.nodes.RegexpQueryNode", "df/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_regexp_query_node.html", null ]
     ] ],
     [ "Thread", null, [
       [ "org.apache.lucene.index.ConcurrentMergeScheduler.MergeThread", "d7/d2f/classorg_1_1apache_1_1lucene_1_1index_1_1_concurrent_merge_scheduler_1_1_merge_thread.html", null ],
@@ -886,11 +1185,17 @@ var hierarchy =
     ] ],
     [ "org.apache.lucene.index.TwoPhaseCommitTool", "d7/d1a/classorg_1_1apache_1_1lucene_1_1index_1_1_two_phase_commit_tool.html", null ],
     [ "org.apache.lucene.search.TwoPhaseIterator", "d1/d26/classorg_1_1apache_1_1lucene_1_1search_1_1_two_phase_iterator.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.parser.EscapeQuerySyntax.Type", "d8/dc8/enumorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1parser_1_1_escape_query_syntax_1_1_type.html", null ],
     [ "org.apache.lucene.search.SortedSetSelector.Type", "d5/dbd/enumorg_1_1apache_1_1lucene_1_1search_1_1_sorted_set_selector_1_1_type.html", null ],
     [ "org.apache.lucene.search.SortedNumericSelector.Type", "d1/d8b/enumorg_1_1apache_1_1lucene_1_1search_1_1_sorted_numeric_selector_1_1_type.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.nodes.ProximityQueryNode.Type", "da/dab/enumorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_proximity_query_node_1_1_type.html", null ],
     [ "org.apache.lucene.util.UnicodeUtil", "dc/dee/classorg_1_1apache_1_1lucene_1_1util_1_1_unicode_util.html", null ],
     [ "org.apache.lucene.util.automaton.UTF32ToUTF8", "d9/ddc/classorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_u_t_f32_to_u_t_f8.html", null ],
     [ "org.apache.lucene.util.fst.Util", "d1/d09/classorg_1_1apache_1_1lucene_1_1util_1_1fst_1_1_util.html", null ],
+    [ "org.apache.lucene.queryparser.flexible.core.nodes.ValueQueryNode< T >", "df/d4e/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_value_query_node.html", [
+      [ "org.apache.lucene.queryparser.flexible.core.nodes.FieldValuePairQueryNode< T extends Object >", "d0/d3f/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_field_value_pair_query_node.html", null ]
+    ] ],
+    [ "org.apache.lucene.expressions.js.VariableContext", "da/dda/classorg_1_1apache_1_1lucene_1_1expressions_1_1js_1_1_variable_context.html", null ],
     [ "org.apache.lucene.util.Version", "dc/d5b/classorg_1_1apache_1_1lucene_1_1util_1_1_version.html", null ],
     [ "org.apache.lucene.util.VirtualMethod< C >", "d2/d60/classorg_1_1apache_1_1lucene_1_1util_1_1_virtual_method.html", null ],
     [ "org.apache.lucene.util.WeakIdentityMap< K, V >", "d3/d3a/classorg_1_1apache_1_1lucene_1_1util_1_1_weak_identity_map.html", null ],
@@ -1021,6 +1326,7 @@ var hierarchy =
       [ "org.apache.lucene.index.CorruptIndexException", "d6/d9c/classorg_1_1apache_1_1lucene_1_1index_1_1_corrupt_index_exception.html", null ],
       [ "org.apache.lucene.index.IndexFormatTooNewException", "d1/d0b/classorg_1_1apache_1_1lucene_1_1index_1_1_index_format_too_new_exception.html", null ],
       [ "org.apache.lucene.index.IndexFormatTooOldException", "d8/d84/classorg_1_1apache_1_1lucene_1_1index_1_1_index_format_too_old_exception.html", null ],
+      [ "org.apache.lucene.queryparser.surround.query.TooManyBasicQueries", "d4/dec/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_too_many_basic_queries.html", null ],
       [ "org.apache.lucene.store.LockObtainFailedException", "d7/db3/classorg_1_1apache_1_1lucene_1_1store_1_1_lock_obtain_failed_exception.html", null ],
       [ "org.apache.lucene.store.LockReleaseFailedException", "d0/da8/classorg_1_1apache_1_1lucene_1_1store_1_1_lock_release_failed_exception.html", null ]
     ] ],
@@ -1029,6 +1335,12 @@ var hierarchy =
       [ "org.apache.lucene.util.FilterIterator< T, InnerT extends T >", "da/db8/classorg_1_1apache_1_1lucene_1_1util_1_1_filter_iterator.html", null ],
       [ "org.apache.lucene.util.MergedIterator< T extends Comparable< T >", "d1/d16/classorg_1_1apache_1_1lucene_1_1util_1_1_merged_iterator.html", null ],
       [ "org.apache.lucene.util.SPIClassIterator< S >", "df/d72/classorg_1_1apache_1_1lucene_1_1util_1_1_s_p_i_class_iterator.html", null ]
+    ] ],
+    [ "List", null, [
+      [ "org.apache.lucene.queryparser.flexible.core.processors.QueryNodeProcessorPipeline", "d1/d85/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors_1_1_query_node_processor_pipeline.html", null ]
+    ] ],
+    [ "NumberFormat", null, [
+      [ "org.apache.lucene.queryparser.flexible.standard.config.NumberDateFormat", "d3/d2a/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1config_1_1_number_date_format.html", null ]
     ] ],
     [ "Reader", null, [
       [ "org.apache.lucene.analysis.CharFilter", "de/dbf/classorg_1_1apache_1_1lucene_1_1analysis_1_1_char_filter.html", null ]

@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d5/d03/classorg_1_1apache_1_1lucene_1_1store_1_1_merge_info.html" title="org.apache.lucene.store.\lMergeInfo" alt="" coords="5,5,175,47"/>
+<area shape="rect" id="node1" href="$db/d87/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_matches_iterator.html" title="An iterator over match positions (and optionally offsets) for a single document and field..." alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node2" href="$d4/dd8/classorg_1_1apache_1_1lucene_1_1search_1_1_filter_matches_iterator.html" title="A MatchesIterator that delegates all calls to another MatchesIterator. " alt="" coords="232,5,411,47"/>
 </map>

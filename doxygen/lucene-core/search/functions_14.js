@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['validate',['validate',['../db/d60/classorg_1_1apache_1_1lucene_1_1expressions_1_1_simple_bindings.html#a9820cc31b30eba7d7348937abcdbc8a3',1,'org::apache::lucene::expressions::SimpleBindings']]],
   ['validatesettings',['validateSettings',['../df/d17/classorg_1_1apache_1_1lucene_1_1codecs_1_1blocktree_1_1_block_tree_terms_writer.html#acbab1dd4c2ee25c314439886ca25d1ef',1,'org::apache::lucene::codecs::blocktree::BlockTreeTermsWriter']]],
   ['value',['value',['../db/d2b/classorg_1_1apache_1_1lucene_1_1search_1_1_field_comparator.html#a822ec1ac348130d8bca0237734be3000',1,'org::apache::lucene::search::FieldComparator']]],
   ['valueiterator',['valueIterator',['../d3/d3a/classorg_1_1apache_1_1lucene_1_1util_1_1_weak_identity_map.html#ac801dc348193843c02a62b34371b428d',1,'org::apache::lucene::util::WeakIdentityMap']]],

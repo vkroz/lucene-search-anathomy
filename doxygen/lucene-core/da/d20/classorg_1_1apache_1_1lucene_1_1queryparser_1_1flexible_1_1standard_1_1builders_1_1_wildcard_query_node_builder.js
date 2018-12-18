@@ -1,0 +1,4 @@
+var classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_wildcard_query_node_builder =
+[
+    [ "build", "da/d20/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_wildcard_query_node_builder.html#a6e92c6dd7094dc3c3437c2ec5513bcba", null ]
+];

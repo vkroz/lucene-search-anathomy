@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.queryparser.surround.query.AndQuery" name="org.apache.lucene.queryparser.surround.query.AndQuery">
+<area shape="rect" id="node2" href="$d5/d84/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_composed_query.html" title="Base class for composite queries (such as AND/OR/NOT) " alt="" coords="5,169,309,211"/>
+<area shape="rect" id="node3" href="$dc/d8c/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_srnd_query.html" title="Lowest level base class for surround queries. " alt="" coords="5,80,309,121"/>
+</map>

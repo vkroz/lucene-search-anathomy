@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.queryparser.xml.builders.SpanOrBuilder" name="org.apache.lucene.queryparser.xml.builders.SpanOrBuilder">
+<area shape="rect" id="node2" href="$d9/d08/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_builder_base.html" title="Base class for building SpanQuerys. " alt="" coords="5,184,291,225"/>
+<area shape="rect" id="node3" href="$d6/ddc/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_query_builder.html" title="Interface for retrieving a SpanQuery. " alt="" coords="5,95,291,136"/>
+<area shape="rect" id="node4" href="$d3/d84/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1_query_builder.html" title="Implemented by objects that produce Lucene Query objects from XML streams. " alt="" coords="31,5,265,47"/>
+</map>

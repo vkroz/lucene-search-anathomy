@@ -1,0 +1,4 @@
+var classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_group_query_node_builder =
+[
+    [ "build", "dc/d02/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_group_query_node_builder.html#a0b21363d685fcabbc6e6a2cd30c4ff24", null ]
+];

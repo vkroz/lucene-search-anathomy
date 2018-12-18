@@ -1,0 +1,1018 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+      
+      
+      
+        <meta name="lang:clipboard.copy" content="Copy to clipboard">
+      
+        <meta name="lang:clipboard.copied" content="Copied to clipboard">
+      
+        <meta name="lang:search.language" content="en">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="No matching documents">
+      
+        <meta name="lang:search.result.one" content="1 matching document">
+      
+        <meta name="lang:search.result.other" content="# matching documents">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.1.0">
+    
+    
+      
+        <title>Quick look inside - Apache Lucene developer's guide</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/application.11e41852.css">
+      
+      
+    
+    
+      <script src="../assets/javascripts/modernizr.20ef595d.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../assets/fonts/material-icons.css">
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    
+  </head>
+  
+    <body dir="ltr">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#lucene-quick-look-inside" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href=".." title="Apache Lucene developer's guide" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon"></i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                Apache Lucene developer's guide
+              </span>
+              <span class="md-header-nav__topic">
+                Quick look inside
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Type to start searching
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href=".." title="Apache Lucene developer's guide" class="md-nav__button md-logo">
+      
+        <i class="md-icon"></i>
+      
+    </a>
+    Apache Lucene developer's guide
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href=".." title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Quick look inside
+      </label>
+    
+    <a href="./" title="Quick look inside" class="md-nav__link md-nav__link--active">
+      Quick look inside
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#main-points" title="Main points" class="md-nav__link">
+    Main points
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#writing-documents" title="Writing documents" class="md-nav__link">
+    Writing documents
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#searching-documents" title="Searching documents" class="md-nav__link">
+    Searching documents
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lucene-api" title="Lucene API" class="md-nav__link">
+    Lucene API
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#package-orgapachelucenedocument" title="Package: org.apache.lucene.document" class="md-nav__link">
+    Package: org.apache.lucene.document
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#package-orgapacheluceneanalysis" title="Package: org.apache.lucene.analysis" class="md-nav__link">
+    Package: org.apache.lucene.analysis
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#package-orgapacheluceneindex" title="Package: org.apache.lucene.index" class="md-nav__link">
+    Package: org.apache.lucene.index
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#some-inverted-index-strategies" title="Some Inverted Index Strategies" class="md-nav__link">
+    Some Inverted Index Strategies
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lucenes-index-algorithm" title="Lucene's Index Algorithm" class="md-nav__link">
+    Lucene's Index Algorithm
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#indexing-diagram" title="Indexing Diagram" class="md-nav__link">
+    Indexing Diagram
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#index-compression" title="Index Compression" class="md-nav__link">
+    Index Compression
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#package-orgapachelucenesearch" title="Package: org.apache.lucene.search" class="md-nav__link">
+    Package: org.apache.lucene.search
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#search-algorithms" title="Search algorithms" class="md-nav__link">
+    Search algorithms
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lucenes-disjunctive-search-algorithm" title="Lucene's Disjunctive Search Algorithm" class="md-nav__link">
+    Lucene's Disjunctive Search Algorithm
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lucenes-conjunctive-search-algorithm" title="Lucene's Conjunctive Search Algorithm" class="md-nav__link">
+    Lucene's Conjunctive Search Algorithm
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#scoring" title="Scoring" class="md-nav__link">
+    Scoring
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lucenes-phrase-scoring" title="Lucene's Phrase Scoring" class="md-nav__link">
+    Lucene's Phrase Scoring
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../doxygen/lucene-core/" title="API" class="md-nav__link">
+      API
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../links/" title="Links" class="md-nav__link">
+      Links
+    </a>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#main-points" title="Main points" class="md-nav__link">
+    Main points
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#writing-documents" title="Writing documents" class="md-nav__link">
+    Writing documents
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#searching-documents" title="Searching documents" class="md-nav__link">
+    Searching documents
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lucene-api" title="Lucene API" class="md-nav__link">
+    Lucene API
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#package-orgapachelucenedocument" title="Package: org.apache.lucene.document" class="md-nav__link">
+    Package: org.apache.lucene.document
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#package-orgapacheluceneanalysis" title="Package: org.apache.lucene.analysis" class="md-nav__link">
+    Package: org.apache.lucene.analysis
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#package-orgapacheluceneindex" title="Package: org.apache.lucene.index" class="md-nav__link">
+    Package: org.apache.lucene.index
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#some-inverted-index-strategies" title="Some Inverted Index Strategies" class="md-nav__link">
+    Some Inverted Index Strategies
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lucenes-index-algorithm" title="Lucene's Index Algorithm" class="md-nav__link">
+    Lucene's Index Algorithm
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#indexing-diagram" title="Indexing Diagram" class="md-nav__link">
+    Indexing Diagram
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#index-compression" title="Index Compression" class="md-nav__link">
+    Index Compression
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#package-orgapachelucenesearch" title="Package: org.apache.lucene.search" class="md-nav__link">
+    Package: org.apache.lucene.search
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#search-algorithms" title="Search algorithms" class="md-nav__link">
+    Search algorithms
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lucenes-disjunctive-search-algorithm" title="Lucene's Disjunctive Search Algorithm" class="md-nav__link">
+    Lucene's Disjunctive Search Algorithm
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lucenes-conjunctive-search-algorithm" title="Lucene's Conjunctive Search Algorithm" class="md-nav__link">
+    Lucene's Conjunctive Search Algorithm
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#scoring" title="Scoring" class="md-nav__link">
+    Scoring
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lucenes-phrase-scoring" title="Lucene's Phrase Scoring" class="md-nav__link">
+    Lucene's Phrase Scoring
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="lucene-quick-look-inside">Lucene - quick look inside</h1>
+<div class="admonition sources">
+<p class="admonition-title">Sources</p>
+<ul>
+<li><a href="http://lucene.sourceforge.net/talks/pisa/">http://lucene.sourceforge.net/talks/pisa/</a></li>
+<li><a href="https://www.baeldung.com/lucene">https://www.baeldung.com/lucene</a></li>
+</ul>
+</div>
+<h2 id="main-points">Main points</h2>
+<h3 id="writing-documents">Writing documents</h3>
+<ul>
+<li>Index is represented by <code class="codehilite">Directory</code> object. Could be on file, in memory, database etc</li>
+<li><code class="codehilite">IndexWriter</code> writes documents into index. <code class="codehilite">IndexWriterConfig</code> provides writer configuration. </li>
+<li><code class="codehilite">Analyzer</code> is a very important part of configuration, both for writing and reading. See <a href="http://localhost:63342/code-snippets/lucene-core-7.4.0-javadoc.jar/org/apache/lucene/analysis/Analyzer.html">http://localhost:63342/code-snippets/lucene-core-7.4.0-javadoc.jar/org/apache/lucene/analysis/Analyzer.html</a></li>
+<li><a href="http://localhost:63342/code-snippets/lucene-core-7.4.0-javadoc.jar/org/apache/lucene/document/Document.html">Documents</a> are the unit of indexing and search. A Document is a set of <a href="http://localhost:63342/code-snippets/lucene-core-7.4.0-javadoc.jar/org/apache/lucene/document/Field.html">fields</a>. Each field has a name and a textual value.  </li>
+</ul>
+<h3 id="searching-documents">Searching documents</h3>
+<ul>
+<li><a href="http://localhost:63342/code-snippets/lucene-core-7.4.0-javadoc.jar/org/apache/lucene/index/IndexReader.html">IndexReader</a> provides an interface for accessing a point-in-time view of an index.</li>
+<li><a href="http://localhost:63342/code-snippets/lucene-core-7.4.0-javadoc.jar/org/apache/lucene/search/IndexSearcher.html">IndexSearcher</a> implements search over a single IndexReader. </li>
+<li>To search an index:<ul>
+<li>Instantiate <a href="http://localhost:63342/code-snippets/lucene-queryparser-7.4.0-javadoc.jar/org/apache/lucene/queryparser/classic/QueryParser.html">QueryParser</a>. This object can be reused multiple times for various queries. When creating QueryParser provide an <a href="http://localhost:63342/code-snippets/lucene-core-7.4.0-javadoc.jar/org/apache/lucene/analysis/Analyzer.html">analyzer</a> similar to how we did for writing an index </li>
+<li>Create a <a href="http://localhost:63342/code-snippets/lucene-core-7.4.0-javadoc.jar/org/apache/lucene/search/Query.html">Query</a> using <a href="http://localhost:63342/code-snippets/lucene-queryparser-7.4.0-javadoc.jar/org/apache/lucene/queryparser/classic/QueryParser.html">QueryParser</a> represented by  for using with query</li>
+<li>Submit query instance to <code class="codehilite">indexSearcher.search()</code> and process results. </li>
+</ul>
+</li>
+</ul>
+<h2 id="lucene-api">Lucene API</h2>
+<ul>
+<li>org.apache.lucene.document</li>
+<li>org.apache.lucene.analysis</li>
+<li>org.apache.lucene.index</li>
+<li>org.apache.lucene.search</li>
+</ul>
+<h3 id="package-orgapachelucenedocument">Package: org.apache.lucene.document</h3>
+<ul>
+<li>A Document is a sequence of Fields.</li>
+<li>A Field is a <em><name, value></em> pair.<ul>
+<li><em>name</em> is the name of the field, e.g., title, body, subject, date, etc. </li>
+<li><em>value</em> is text.</li>
+</ul>
+</li>
+<li>Field values may be stored, indexed or analyzed (and, now, vectored).</li>
+</ul>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<div class="codehilite"><pre><span></span><span class="n">Document</span> <span class="nf">makeDocument</span><span class="o">(</span><span class="n">String</span> <span class="n">title</span><span class="o">,</span> <span class="n">String</span> <span class="n">body</span><span class="o">)</span> <span class="o">{</span>
+    <span class="n">Document</span> <span class="n">doc</span> <span class="o">=</span> <span class="k">new</span> <span class="n">Document</span><span class="o">();</span>
+    <span class="n">doc</span><span class="o">.</span><span class="na">add</span><span class="o">(</span><span class="k">new</span> <span class="n">TextField</span><span class="o">(</span><span class="s">&quot;title&quot;</span><span class="o">,</span> <span class="n">title</span><span class="o">,</span> <span class="n">Field</span><span class="o">.</span><span class="na">Store</span><span class="o">.</span><span class="na">YES</span><span class="o">));</span>
+    <span class="n">doc</span><span class="o">.</span><span class="na">add</span><span class="o">(</span><span class="k">new</span> <span class="n">TextField</span><span class="o">(</span><span class="s">&quot;body&quot;</span><span class="o">,</span> <span class="n">body</span><span class="o">,</span> <span class="n">Field</span><span class="o">.</span><span class="na">Store</span><span class="o">.</span><span class="na">YES</span><span class="o">));</span>
+    <span class="k">return</span> <span class="n">doc</span><span class="o">;</span>
+<span class="o">}</span>
+</pre></div>
+
+</div>
+<h3 id="package-orgapacheluceneanalysis">Package: org.apache.lucene.analysis</h3>
+<ul>
+<li>An <strong>Analyzer</strong> is a <strong>TokenStream</strong> factory.</li>
+<li>A <strong>TokenStream</strong> is an iterator over Tokens.<ul>
+<li>input is a character iterator (Reader)</li>
+</ul>
+</li>
+<li>A <strong>Token</strong> is tuple <em><text, type, start, length, positionIncrement></em><ul>
+<li><strong>text</strong> (e.g., “pisa”).</li>
+<li><strong>type</strong> (e.g., “word”, “sent”, “para”).</li>
+<li><strong>start</strong> &amp; length offsets, in characters (e.g, &lt;5,4&gt;)</li>
+<li><strong>positionIncrement</strong> (normally 1)</li>
+</ul>
+</li>
+<li>standard <strong>TokenStream</strong> implementations are<ul>
+<li><strong>Tokenizers</strong>, which divide characters into tokens and </li>
+<li><strong>TokenFilters</strong>, e.g., stop lists, stemmers, etc.</li>
+</ul>
+</li>
+</ul>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<div class="codehilite"><pre><span></span><span class="kd">public</span> <span class="kd">class</span> <span class="nc">ItalianAnalyzer</span> <span class="kd">extends</span> <span class="n">Analyzer</span> <span class="o">{</span>
+  <span class="kd">private</span> <span class="n">Set</span> <span class="n">stopWords</span> <span class="o">=</span> 
+    <span class="n">StopFilter</span><span class="o">.</span><span class="na">makeStopSet</span><span class="o">(</span><span class="k">new</span> <span class="n">String</span><span class="o">[]</span> <span class="o">{</span><span class="s">&quot;il&quot;</span><span class="o">,</span> <span class="s">&quot;la&quot;</span><span class="o">,</span> <span class="s">&quot;in&quot;</span><span class="o">};</span>
+
+  <span class="kd">public</span> <span class="n">TokenStream</span> <span class="nf">tokenStream</span><span class="o">(</span><span class="n">String</span> <span class="n">fieldName</span><span class="o">,</span> <span class="n">Reader</span> <span class="n">reader</span><span class="o">)</span> <span class="o">{</span>
+    <span class="n">TokenStream</span> <span class="n">result</span> <span class="o">=</span> <span class="k">new</span> <span class="n">WhitespaceTokenizer</span><span class="o">(</span><span class="n">reader</span><span class="o">);</span>
+    <span class="n">result</span> <span class="o">=</span> <span class="k">new</span> <span class="n">LowerCaseFilter</span><span class="o">(</span><span class="n">result</span><span class="o">);</span>
+    <span class="n">result</span> <span class="o">=</span> <span class="k">new</span> <span class="n">StopFilter</span><span class="o">(</span><span class="n">result</span><span class="o">,</span> <span class="n">stopWords</span><span class="o">);</span>
+    <span class="n">result</span> <span class="o">=</span> <span class="k">new</span> <span class="n">SnowballFilter</span><span class="o">(</span><span class="n">result</span><span class="o">,</span> <span class="s">&quot;Italian&quot;</span><span class="o">);</span>
+    <span class="k">return</span> <span class="n">result</span><span class="o">;</span>
+ <span class="o">}</span>
+<span class="o">}</span>
+</pre></div>
+
+</div>
+<h2 id="package-orgapacheluceneindex">Package: org.apache.lucene.index</h2>
+<ul>
+<li><strong>Term</strong> is <code class="codehilite">&lt;fieldName, text&gt;</code></li>
+<li>Index maps <code class="codehilite">Term → &lt;df, &lt;docNum, &lt;position&gt;* &gt;*&gt;</code> <br/>
+  e.g. <code class="codehilite">“content:pisa” → &lt;2, &lt;2, &lt;14&gt;&gt;, &lt;4, &lt;2, 9&gt;&gt;&gt;</code></li>
+<li>Term vectors</li>
+<li>Example</li>
+</ul>
+<p><img alt="tf-df" src="../img/tf-idf.png" /></p>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<div class="codehilite"><pre><span></span><span class="n">IndexWriter</span> <span class="n">writer</span> <span class="o">=</span> <span class="k">new</span> <span class="n">IndexWriter</span><span class="o">(</span><span class="s">&quot;index&quot;</span><span class="o">,</span> <span class="k">new</span> <span class="n">ItalianAnalyzer</span><span class="o">());</span>
+<span class="n">File</span><span class="o">[]</span> <span class="n">files</span> <span class="o">=</span> <span class="n">directory</span><span class="o">.</span><span class="na">listFiles</span><span class="o">();</span>
+<span class="k">for</span> <span class="o">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="o">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">files</span><span class="o">.</span><span class="na">length</span><span class="o">;</span> <span class="n">i</span><span class="o">++)</span> <span class="o">{</span>
+  <span class="n">writer</span><span class="o">.</span><span class="na">addDocument</span><span class="o">(</span><span class="n">makeDocument</span><span class="o">(</span><span class="n">files</span><span class="o">[</span><span class="n">i</span><span class="o">]));</span>
+<span class="o">}</span>
+<span class="n">writer</span><span class="o">.</span><span class="na">close</span><span class="o">();</span>
+</pre></div>
+
+</div>
+<h3 id="some-inverted-index-strategies">Some Inverted Index Strategies</h3>
+<table>
+<thead>
+<tr>
+<th>Strategy</th>
+<th>Pro</th>
+<th>Cons</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Batch-based: use file-sorting algorithms (textbook)</td>
+<td>- fastest to build <br/> - fastest to search</td>
+<td>slow to update</td>
+</tr>
+<tr>
+<td>B-tree based: update in place <br/> <a href="http://lucene.sf.net/papers/sigir90.ps">http://lucene.sf.net/papers/sigir90.ps</a></td>
+<td>fast to search</td>
+<td>- update/build does not scale <br/> - complex implementation</td>
+</tr>
+<tr>
+<td>Segment based: lots of small indexes</td>
+<td>- fast to build <br/> - fast to update</td>
+<td>slower to search</td>
+</tr>
+</tbody>
+</table>
+<h3 id="lucenes-index-algorithm">Lucene's Index Algorithm</h3>
+<ul>
+<li>two basic algorithms<ol>
+<li>make an index for a single document</li>
+<li>merge a set of indices</li>
+</ol>
+</li>
+<li>incremental algorithm:<ul>
+<li>maintain a stack of segment indices</li>
+<li>create index for each incoming document</li>
+<li>push new indexes onto the stack</li>
+<li>let b=10 be the merge factor; M=∞; </li>
+</ul>
+</li>
+</ul>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<div class="codehilite"><pre><span></span><span class="k">for</span> <span class="o">(</span><span class="n">size</span> <span class="o">=</span> <span class="mi">1</span><span class="o">;</span> <span class="n">size</span> <span class="o">&lt;</span> <span class="n">M</span><span class="o">;</span> <span class="n">size</span> <span class="o">*=</span> <span class="n">b</span><span class="o">)</span> <span class="o">{</span>
+  <span class="k">if</span> <span class="o">(</span><span class="n">there</span> <span class="n">are</span> <span class="n">b</span> <span class="n">indexes</span> <span class="n">with</span> <span class="n">size</span> <span class="n">docs</span> <span class="n">on</span> <span class="n">top</span> <span class="n">of</span> <span class="n">the</span> <span class="n">stack</span><span class="o">)</span> <span class="o">{</span>
+   <span class="n">pop</span> <span class="n">them</span> <span class="n">off</span> <span class="n">the</span> <span class="n">stack</span><span class="o">;</span>
+   <span class="n">merge</span> <span class="n">them</span> <span class="n">into</span> <span class="n">a</span> <span class="n">single</span> <span class="n">index</span><span class="o">;</span>
+   <span class="n">push</span> <span class="n">the</span> <span class="n">merged</span> <span class="n">index</span> <span class="n">onto</span> <span class="n">the</span> <span class="n">stack</span><span class="o">;</span>
+ <span class="o">}</span> <span class="k">else</span> <span class="o">{</span>
+   <span class="k">break</span><span class="o">;</span>
+ <span class="o">}</span>
+<span class="o">}</span>
+</pre></div>
+
+<div class="admonition todo">
+<p class="admonition-title">Todo</p>
+<p>Need to check/elaborate</p>
+</div>
+</div>
+<ul>
+<li>optimization: single-doc indexes kept in RAM, saves system calls</li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<ul>
+<li>average <code class="codehilite">b*logb(N)/2</code> indexes<ul>
+<li>N=1M, b=2 gives just 20 indexes</li>
+<li>fast to update and not too slow to search</li>
+</ul>
+</li>
+<li>batch indexing  w/ M=∞, merge all at end<ul>
+<li>equivalent to external merge sort, optimal</li>
+</ul>
+</li>
+<li>segment indexing w/ M&lt;∞</li>
+</ul>
+</div>
+<h3 id="indexing-diagram">Indexing Diagram</h3>
+<ul>
+<li>b = 3</li>
+<li>11 documents indexed</li>
+<li>stack has four indexes</li>
+<li>grayed indexes have been deleted</li>
+<li>5 merges have occurred</li>
+</ul>
+<p><img alt="indexing" src="../img/indexing.png" /></p>
+<h3 id="index-compression">Index Compression</h3>
+<p>For keys in <code class="codehilite">Term -&gt; ... map</code>, use technique from <a href="http://roquefort.di.unipi.it/~ferrax/Teach/InformationRetrieval.html">Paolo's slides</a>:</p>
+<p><strong>4<sup>th</sup> solution: front coding</strong></p>
+<p>Idea: sorted words commonly have long common prefix - stored diffrences only wrt the first term in a block og k</p>
+<p><img alt="index_compression_idea" src="../img/index_compression_idea.png" /></p>
+<p>For values in Term -&gt; ... map, use technique from <a href="http://roquefort.di.unipi.it/~ferrax/Teach/InformationRetrieval.html">Paolo's slides</a>:</p>
+<p><img alt="bytes_encoding" src="../img/bytes_encoding.png" /></p>
+<p>VInt Encoding Example</p>
+<table>
+<thead>
+<tr>
+<th>Value</th>
+<th>First byte</th>
+<th>Second byte</th>
+<th>Third byte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td>00000000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1</td>
+<td>00000001</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>00000010</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>127</td>
+<td>01111111</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>128</td>
+<td>10000000</td>
+<td>00000001</td>
+<td></td>
+</tr>
+<tr>
+<td>129</td>
+<td>10000001</td>
+<td>00000001</td>
+<td></td>
+</tr>
+<tr>
+<td>130</td>
+<td>10000010</td>
+<td>00000001</td>
+<td></td>
+</tr>
+<tr>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16,383</td>
+<td>11111111</td>
+<td>01111111</td>
+<td></td>
+</tr>
+<tr>
+<td>16,384</td>
+<td>10000000</td>
+<td>10000000</td>
+<td>00000001</td>
+</tr>
+<tr>
+<td>16,385</td>
+<td>10000001</td>
+<td>10000000</td>
+<td>00000001</td>
+</tr>
+<tr>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>This provides compression while still being efficient to decode.</p>
+<h2 id="package-orgapachelucenesearch">Package: <code class="codehilite">org.apache.lucene.search</code></h2>
+<ul>
+<li>primitive queries:<ul>
+<li><strong>TermQuery</strong>: match docs containing a Term</li>
+<li><strong>PhraseQuery</strong>: match docs w/ sequence of Terms</li>
+<li><strong>BooleanQuery</strong>: match docs matching other queries.<br/>
+  e.g., <code class="codehilite">+path:pisa +content:“Doug Cutting” -path:nutch</code></li>
+<li>new: <strong>SpansQuery</strong></li>
+<li>derived queries:<ul>
+<li><strong>PrefixQuery</strong>, <strong>WildcardQuery</strong>, etc.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<div class="codehilite"><pre><span></span><span class="n">Query</span> <span class="n">pisa</span> <span class="o">=</span> <span class="k">new</span> <span class="n">TermQuery</span><span class="o">(</span><span class="k">new</span> <span class="n">Term</span><span class="o">(</span><span class="s">&quot;content&quot;</span><span class="o">,</span> <span class="s">&quot;pisa&quot;</span><span class="o">));</span>
+<span class="n">Query</span> <span class="n">babel</span> <span class="o">=</span> <span class="k">new</span> <span class="n">TermQuery</span><span class="o">(</span><span class="k">new</span> <span class="n">Term</span><span class="o">(</span><span class="s">&quot;content&quot;</span><span class="o">,</span> <span class="s">&quot;babel&quot;</span><span class="o">));</span>
+
+<span class="n">PhraseQuery</span> <span class="n">leaningTower</span> <span class="o">=</span> <span class="k">new</span> <span class="n">PhraseQuery</span><span class="o">();</span>
+<span class="n">leaningTower</span><span class="o">.</span><span class="na">add</span><span class="o">(</span><span class="k">new</span> <span class="n">Term</span><span class="o">(</span><span class="s">&quot;content&quot;</span><span class="o">,</span> <span class="s">&quot;leaning&quot;</span><span class="o">));</span>
+<span class="n">leaningTower</span><span class="o">.</span><span class="na">add</span><span class="o">(</span><span class="k">new</span> <span class="n">Term</span><span class="o">(</span><span class="s">&quot;content&quot;</span><span class="o">,</span> <span class="s">&quot;tower&quot;</span><span class="o">));</span>
+
+<span class="n">BooleanQuery</span> <span class="n">query</span> <span class="o">=</span> <span class="k">new</span> <span class="n">BooleanQuery</span><span class="o">();</span>
+<span class="n">query</span><span class="o">.</span><span class="na">add</span><span class="o">(</span><span class="n">leaningTower</span><span class="o">,</span> <span class="n">Occur</span><span class="o">.</span><span class="na">MUST</span><span class="o">);</span>
+<span class="n">query</span><span class="o">.</span><span class="na">add</span><span class="o">(</span><span class="n">pisa</span><span class="o">,</span> <span class="n">Occur</span><span class="o">.</span><span class="na">SHOULD</span><span class="o">);</span>
+<span class="n">query</span><span class="o">.</span><span class="na">add</span><span class="o">(</span><span class="n">babel</span><span class="o">,</span> <span class="n">Occur</span><span class="o">.</span><span class="na">MUST_NOT</span><span class="o">);</span>
+</pre></div>
+
+</div>
+<h3 id="search-algorithms">Search algorithms</h3>
+<p>From <a href="http://roquefort.di.unipi.it/~ferrax/Teach/InformationRetrieval.html">Paolo's slides</a>:</p>
+<p><img alt="merge" src="../img/merge.png" /></p>
+<h3 id="lucenes-disjunctive-search-algorithm">Lucene's Disjunctive Search Algorithm</h3>
+<ul>
+<li>described in http://lucene.sf.net/papers/riao97.ps</li>
+<li>since all postings must be processed<ul>
+<li>goal is to minimize per-posting computation</li>
+</ul>
+</li>
+<li>merges postings through a fixed-size array of accumulator buckets</li>
+<li>performs boolean logic with bit masks</li>
+<li>scales well with large queries</li>
+</ul>
+<div class="admonition todo">
+<p class="admonition-title">Todo</p>
+<p>draw a diagram to illustrate?</p>
+</div>
+<h3 id="lucenes-conjunctive-search-algorithm">Lucene's Conjunctive Search Algorithm</h3>
+<p>From Paolo's slides:
+<img alt="skip_pointers" src="../img/skip_pointers.png" /></p>
+<p>Algorithm
+- use linked list of pointers to doc list
+- initially sorted by doc
+- loop
+    - if all are at same doc, record hit
+    - skip first to-or-past last and move to end of list</p>
+<h3 id="scoring">Scoring</h3>
+<p>From Paolo's slides:</p>
+<p><img alt="scoring" src="../img/scoring.png" /></p>
+<ul>
+<li>Is very much like <a href="https://lucene.apache.org/core/7_5_0/core/org/apache/lucene/search/similarities/Similarity.html">Lucene's Similarity</a></li>
+</ul>
+<h3 id="lucenes-phrase-scoring">Lucene's Phrase Scoring</h3>
+<ul>
+<li>approximate phrase IDF with sum of terms</li>
+<li>compute actual tf of phrase</li>
+<li>slop penalizes slight mismatches by edit-distance</li>
+</ul>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href=".." title="Home" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Home
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../links/" title="Links" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Links
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../assets/javascripts/application.9e1f3b71.js"></script>
+      
+      <script>app.initialize({version:"1.0.4",url:{base:".."}})</script>
+      
+    
+    
+      
+    
+  </body>
+</html>

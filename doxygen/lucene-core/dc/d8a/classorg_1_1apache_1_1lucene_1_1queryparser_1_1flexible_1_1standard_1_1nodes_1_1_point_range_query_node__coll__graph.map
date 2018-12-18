@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.queryparser.flexible.standard.nodes.PointRangeQueryNode" name="org.apache.lucene.queryparser.flexible.standard.nodes.PointRangeQueryNode">
+<area shape="rect" id="node2" href="$d4/db4/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_abstract_range_query_node.html" title="org.apache.lucene.queryparser.flexible.standard.nodes.\lAbstractRangeQueryNode\&lt; PointQueryNode \&gt;" alt="" coords="5,5,356,47"/>
+<area shape="rect" id="node3" href="$d2/dac/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1config_1_1_points_config.html" title="This class holds the configuration used to parse numeric queries and create PointValues queries..." alt="" coords="5,71,356,112"/>
+</map>

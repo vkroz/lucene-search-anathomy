@@ -1,4 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d7/d7b/classorg_1_1apache_1_1lucene_1_1geo_1_1_edge_tree.html" title="2D line/polygon geometry implementation represented as a balanced interval tree of edges..." alt="" coords="5,5,225,32"/>
-<area shape="rect" id="node2" href="$d9/def/classorg_1_1apache_1_1lucene_1_1geo_1_1_polygon2_d.html" title="2D polygon implementation represented as a balanced interval tree of edges. " alt="" coords="273,5,500,32"/>
+<area shape="rect" id="node1" href="$d1/d74/classorg_1_1apache_1_1lucene_1_1expressions_1_1_bindings.html" title="Binds variable names in expressions to actual data. " alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node2" href="$db/d60/classorg_1_1apache_1_1lucene_1_1expressions_1_1_simple_bindings.html" title="Simple class that binds expression variable names to SortFields or other Expressions. " alt="" coords="264,5,475,47"/>
 </map>

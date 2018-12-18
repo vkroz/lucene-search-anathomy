@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.queryparser.surround.query.SimpleTerm" name="org.apache.lucene.queryparser.surround.query.SimpleTerm">
+<area shape="rect" id="node2" href="$dc/d8c/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_srnd_query.html" title="Lowest level base class for surround queries. " alt="" coords="136,5,440,47"/>
+<area shape="rect" id="node4" href="$da/d24/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1query_1_1_distance_sub_query.html" title="Interface for queries that can be nested as subqueries into a span near. " alt="" coords="136,71,440,112"/>
+</map>

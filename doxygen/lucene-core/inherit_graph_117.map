@@ -1,3 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d3/de0/enumorg_1_1apache_1_1lucene_1_1search_1_1_score_mode.html" title="Different modes of search. " alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node1" href="$d4/d31/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1parser_1_1_standard_syntax_parser_constants.html" title="Token literal values and constants. " alt="" coords="5,71,357,112"/>
+<area shape="rect" id="node2" href="$d3/dae/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1parser_1_1_standard_syntax_parser.html" title="Parser for the standard Lucene syntax. " alt="" coords="405,5,757,47"/>
+<area shape="rect" id="node3" href="$d0/dc2/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1parser_1_1_standard_syntax_parser_token_manager.html" title="Token Manager. " alt="" coords="405,71,757,112"/>
+<area shape="rect" id="node4" href="$d3/d90/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1parser_1_1_syntax_parser.html" title="A parser needs to implement SyntaxParser interface. " alt="" coords="18,5,345,47"/>
 </map>

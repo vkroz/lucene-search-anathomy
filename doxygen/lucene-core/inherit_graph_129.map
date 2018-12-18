@@ -1,5 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d6/d4b/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_lambda.html" title="The lambda (λw) parameter in information&#45;based models. " alt="" coords="5,39,251,80"/>
-<area shape="rect" id="node2" href="$de/da3/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_lambda_d_f.html" title="Computes lambda as. " alt="" coords="299,5,544,47"/>
-<area shape="rect" id="node3" href="$da/daa/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_lambda_t_t_f.html" title="Computes lambda as. " alt="" coords="299,71,544,112"/>
+<area shape="rect" id="node1" href="$d4/db4/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_abstract_range_query_node.html" title="org.apache.lucene.queryparser.flexible.standard.nodes.\lAbstractRangeQueryNode\&lt; PointQueryNode \&gt;" alt="" coords="5,5,356,47"/>
+<area shape="rect" id="node2" href="$d6/d95/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_point_range_query_node.html" title="This query node represents a range query composed by PointQueryNode bounds, which means the bound val..." alt="" coords="404,5,755,47"/>
 </map>

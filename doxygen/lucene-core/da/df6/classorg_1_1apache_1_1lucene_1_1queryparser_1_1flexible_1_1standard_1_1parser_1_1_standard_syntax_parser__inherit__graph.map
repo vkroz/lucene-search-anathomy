@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.queryparser.flexible.standard.parser.StandardSyntaxParser" name="org.apache.lucene.queryparser.flexible.standard.parser.StandardSyntaxParser">
+<area shape="rect" id="node2" href="$d3/d90/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1parser_1_1_syntax_parser.html" title="A parser needs to implement SyntaxParser interface. " alt="" coords="18,5,345,47"/>
+<area shape="rect" id="node3" href="$d4/d31/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1parser_1_1_standard_syntax_parser_constants.html" title="Token literal values and constants. " alt="" coords="5,71,357,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.apache.lucene.queryparser.xml.CorePlusQueriesParser" name="org.apache.lucene.queryparser.xml.CorePlusQueriesParser">
+<area shape="rect" id="node5" href="$df/dc9/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1_core_plus_extensions_parser.html" title="Assembles a QueryBuilder which uses Query objects from Lucene&#39;s sandbox and queries modules in additi..." alt="" coords="1187,5,1421,47"/>
+<area shape="rect" id="node2" href="$da/d57/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1_core_parser.html" title="Assembles a QueryBuilder which uses only core Lucene Query objects. " alt="" coords="621,5,856,47"/>
+<area shape="rect" id="node3" href="$d3/d84/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1_query_builder.html" title="Implemented by objects that produce Lucene Query objects from XML streams. " alt="" coords="5,5,240,47"/>
+<area shape="rect" id="node4" href="$d6/ddc/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_query_builder.html" title="Interface for retrieving a SpanQuery. " alt="" coords="288,35,573,76"/>
+</map>

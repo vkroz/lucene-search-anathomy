@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$db/d21/classorg_1_1apache_1_1lucene_1_1search_1_1_sort.html" title="Encapsulates sort criteria for returned hits. " alt="" coords="5,5,209,32"/>
+<area shape="rect" id="node1" href="$d8/d74/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1parser_1_1_char_stream.html" title="This interface describes a character stream that maintains line and column number positions of the ch..." alt="" coords="5,5,313,47"/>
+<area shape="rect" id="node2" href="$d0/db8/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1parser_1_1_fast_char_stream.html" title="An efficient implementation of JavaCC&#39;s CharStream interface. " alt="" coords="361,5,669,47"/>
 </map>

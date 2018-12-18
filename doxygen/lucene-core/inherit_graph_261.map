@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$db/d4e/classorg_1_1apache_1_1lucene_1_1util_1_1_ram_usage_estimator.html" title="Estimates the size (memory representation) of Java objects. " alt="" coords="5,5,189,47"/>
+<area shape="rect" id="node1" href="$dc/de1/classorg_1_1apache_1_1lucene_1_1util_1_1fst_1_1_outputs.html" title="org.apache.lucene.util.fst.\lOutputs\&lt; BytesRef \&gt;" alt="" coords="5,5,179,47"/>
+<area shape="rect" id="node2" href="$de/dfc/classorg_1_1apache_1_1lucene_1_1util_1_1fst_1_1_byte_sequence_outputs.html" title="An FST Outputs implementation where each output is a sequence of bytes. " alt="" coords="227,5,400,47"/>
 </map>

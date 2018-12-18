@@ -1,0 +1,4 @@
+var classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_allow_leading_wildcard_processor =
+[
+    [ "process", "d6/d42/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1processors_1_1_allow_leading_wildcard_processor.html#a93506cfd3772ae2a65c7ad3b9069b7fd", null ]
+];

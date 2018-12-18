@@ -1,0 +1,8 @@
+var namespaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors =
+[
+    [ "NoChildOptimizationQueryNodeProcessor", "d0/da5/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors_1_1_no_child_optimization_query_node_processor.html", null ],
+    [ "QueryNodeProcessor", "d9/de0/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors_1_1_query_node_processor.html", "d9/de0/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors_1_1_query_node_processor" ],
+    [ "QueryNodeProcessorImpl", "d8/dcc/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors_1_1_query_node_processor_impl.html", "d8/dcc/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors_1_1_query_node_processor_impl" ],
+    [ "QueryNodeProcessorPipeline", "d1/d85/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors_1_1_query_node_processor_pipeline.html", "d1/d85/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors_1_1_query_node_processor_pipeline" ],
+    [ "RemoveDeletedQueryNodesProcessor", "da/d97/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors_1_1_remove_deleted_query_nodes_processor.html", "da/d97/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors_1_1_remove_deleted_query_nodes_processor" ]
+];

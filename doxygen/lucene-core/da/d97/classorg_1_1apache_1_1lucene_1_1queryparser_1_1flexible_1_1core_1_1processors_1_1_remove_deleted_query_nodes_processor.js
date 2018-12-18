@@ -1,0 +1,4 @@
+var classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors_1_1_remove_deleted_query_nodes_processor =
+[
+    [ "process", "da/d97/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors_1_1_remove_deleted_query_nodes_processor.html#a11984b1d2257f9a189664e731105f641", null ]
+];

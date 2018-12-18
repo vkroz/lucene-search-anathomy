@@ -1,15 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$df/d39/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_collector.html" title="org.apache.lucene.search.\lCollector" alt="" coords="5,201,184,243"/>
-<area shape="rect" id="node2" href="$d7/d79/classorg_1_1apache_1_1lucene_1_1search_1_1_filter_collector.html" title="Collector delegator. " alt="" coords="254,37,433,79"/>
-<area shape="rect" id="node5" href="$d9/d0b/classorg_1_1apache_1_1lucene_1_1search_1_1_multi_collector.html" title="A Collector which allows running a search with several Collectors. " alt="" coords="254,103,433,144"/>
-<area shape="rect" id="node6" href="$db/d32/classorg_1_1apache_1_1lucene_1_1search_1_1_multi_collector_manager_1_1_collectors.html" title="org.apache.lucene.search.\lMultiCollectorManager.Collectors" alt="" coords="234,168,453,209"/>
-<area shape="rect" id="node7" href="$d0/d31/classorg_1_1apache_1_1lucene_1_1search_1_1_simple_collector.html" title="Base Collector implementation that is used to collect all contexts. " alt="" coords="254,380,433,421"/>
-<area shape="rect" id="node9" href="$d7/d0f/classorg_1_1apache_1_1lucene_1_1search_1_1_time_limiting_collector.html" title="The TimeLimitingCollector is used to timeout search requests that take longer than the maximum allowe..." alt="" coords="254,233,433,275"/>
-<area shape="rect" id="node10" href="$d4/dbb/classorg_1_1apache_1_1lucene_1_1search_1_1_top_docs_collector.html" title="A base class for all collectors that return a TopDocs output. " alt="" coords="245,299,442,355"/>
-<area shape="rect" id="node3" href="$d4/dba/classorg_1_1apache_1_1lucene_1_1search_1_1_caching_collector.html" title="Caches all docs, and optionally also scores, coming from a search, and is then able to replay them to..." alt="" coords="509,5,687,47"/>
-<area shape="rect" id="node4" href="$df/d2d/classorg_1_1apache_1_1lucene_1_1search_1_1_positive_scores_only_collector.html" title="A Collector implementation which wraps another Collector and makes sure only documents with scores &gt; ..." alt="" coords="503,71,693,112"/>
-<area shape="rect" id="node8" href="$de/d2e/classorg_1_1apache_1_1lucene_1_1search_1_1_total_hit_count_collector.html" title="Just counts the total number of hits. " alt="" coords="509,380,687,421"/>
-<area shape="rect" id="node11" href="$d3/d1a/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_leaf_collector.html" title="org.apache.lucene.search.\lLeafCollector" alt="" coords="5,445,184,487"/>
-<area shape="rect" id="node12" href="$df/d42/classorg_1_1apache_1_1lucene_1_1search_1_1_filter_leaf_collector.html" title="LeafCollector delegator. " alt="" coords="254,445,433,487"/>
-<area shape="rect" id="node13" href="$d4/d8c/classorg_1_1apache_1_1lucene_1_1search_1_1_multi_collector_manager_1_1_collectors_1_1_leaf_collectors.html" title="org.apache.lucene.search.\lMultiCollectorManager.Collectors.\lLeafCollectors" alt="" coords="232,511,455,567"/>
+<area shape="rect" id="node1" href="$de/d13/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_configuration_key.html" title="org.apache.lucene.queryparser.flexible.core.config.\lConfigurationKey\&lt; org.apache.lucene.document.Date\lTools.Resolution \&gt;" alt="" coords="5,5,345,61"/>
 </map>

@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.queryparser.flexible.core.QueryParserHelper" name="org.apache.lucene.queryparser.flexible.core.QueryParserHelper">
+<area shape="rect" id="node2" href="$d0/dd1/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1_standard_query_parser.html" title="This class is a helper that enables users to easily use the Lucene query parser. " alt="" coords="15,95,325,136"/>
+<area shape="rect" id="node3" href="$de/d18/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1precedence_1_1_precedence_query_parser.html" title="org.apache.lucene.queryparser.flexible.precedence.\lPrecedenceQueryParser" alt="" coords="5,184,335,225"/>
+</map>

@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d9/df4/classorg_1_1apache_1_1lucene_1_1util_1_1_closeable_thread_local.html" title="org.apache.lucene.util.Closeable\lThreadLocal\&lt; org.apache.lucene.codecs.\lTermVectorsReader \&gt;" alt="" coords="5,5,272,61"/>
+<area shape="rect" id="node1" href="$de/d08/classorg_1_1apache_1_1lucene_1_1search_1_1_sort_field.html" title="Stores information about how to sort documents by terms in an individual field. " alt="" coords="5,39,184,80"/>
+<area shape="rect" id="node2" href="$df/d2b/classorg_1_1apache_1_1lucene_1_1search_1_1_sorted_numeric_sort_field.html" title="SortField for SortedNumericDocValues. " alt="" coords="232,5,411,47"/>
+<area shape="rect" id="node3" href="$dc/d66/classorg_1_1apache_1_1lucene_1_1search_1_1_sorted_set_sort_field.html" title="SortField for SortedSetDocValues. " alt="" coords="232,71,411,112"/>
 </map>

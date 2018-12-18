@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.queryparser.flexible.core.config.QueryConfigHandler" name="org.apache.lucene.queryparser.flexible.core.config.QueryConfigHandler">
+<area shape="rect" id="node3" href="$d9/d0c/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1config_1_1_standard_query_config_handler.html" title="This query configuration handler is used for almost every processor defined in the StandardQueryNodeP..." alt="" coords="749,5,1100,47"/>
+<area shape="rect" id="node2" href="$d1/dc8/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_abstract_query_config.html" title="org.apache.lucene.queryparser.flexible.core.config.\lAbstractQueryConfig" alt="" coords="5,5,329,47"/>
+</map>

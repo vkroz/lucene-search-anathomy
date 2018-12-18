@@ -1,3 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$df/d70/classorg_1_1apache_1_1lucene_1_1search_1_1_double_values.html" title="Per&#45;segment, per&#45;document double values, which can be calculated at search&#45;time. " alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node1" href="$d1/dc8/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_abstract_query_config.html" title="org.apache.lucene.queryparser.flexible.core.config.\lAbstractQueryConfig" alt="" coords="5,39,329,80"/>
+<area shape="rect" id="node2" href="$d5/dda/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_field_config.html" title="This class represents a field configuration. " alt="" coords="377,5,701,47"/>
+<area shape="rect" id="node3" href="$d5/da4/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1config_1_1_query_config_handler.html" title="This class can be used to hold any query configuration and no field configuration. " alt="" coords="377,71,701,112"/>
+<area shape="rect" id="node4" href="$d9/d0c/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1config_1_1_standard_query_config_handler.html" title="This query configuration handler is used for almost every processor defined in the StandardQueryNodeP..." alt="" coords="749,71,1100,112"/>
 </map>

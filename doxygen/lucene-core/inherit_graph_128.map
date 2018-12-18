@@ -1,6 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d6/d4a/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_independence.html" title="Computes the measure of divergence from independence for DFI scoring functions. " alt="" coords="5,71,251,112"/>
-<area shape="rect" id="node2" href="$d3/d2b/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_independence_chi_squared.html" title="Normalized chi&#45;squared measure of distance from independence. " alt="" coords="299,5,544,47"/>
-<area shape="rect" id="node3" href="$d1/de0/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_independence_saturated.html" title="Saturated measure of distance from independence. " alt="" coords="299,71,544,112"/>
-<area shape="rect" id="node4" href="$d1/d0a/classorg_1_1apache_1_1lucene_1_1search_1_1similarities_1_1_independence_standardized.html" title="Standardized measure of distance from independence. " alt="" coords="299,136,544,177"/>
+<area shape="rect" id="node1" href="$d4/db4/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_abstract_range_query_node.html" title="org.apache.lucene.queryparser.flexible.standard.nodes.\lAbstractRangeQueryNode\&lt; FieldQueryNode \&gt;" alt="" coords="5,5,356,47"/>
+<area shape="rect" id="node2" href="$d7/dac/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_term_range_query_node.html" title="This query node represents a range query composed by FieldQueryNode bounds, which means the bound val..." alt="" coords="404,5,755,47"/>
 </map>

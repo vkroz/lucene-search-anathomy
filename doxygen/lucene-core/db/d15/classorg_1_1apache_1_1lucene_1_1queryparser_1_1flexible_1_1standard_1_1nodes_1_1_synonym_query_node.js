@@ -1,0 +1,4 @@
+var classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_synonym_query_node =
+[
+    [ "SynonymQueryNode", "db/d15/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1nodes_1_1_synonym_query_node.html#a321bc61b61265825c1fcd5a27f7534f8", null ]
+];

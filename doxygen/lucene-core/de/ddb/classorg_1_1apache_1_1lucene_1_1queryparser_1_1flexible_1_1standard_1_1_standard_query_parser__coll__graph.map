@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.queryparser.flexible.standard.StandardQueryParser" name="org.apache.lucene.queryparser.flexible.standard.StandardQueryParser">
+<area shape="rect" id="node2" href="$da/da6/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1_query_parser_helper.html" title="This class is a helper for the query parser framework, it does all the three query parser phrases at ..." alt="" coords="18,5,303,47"/>
+<area shape="rect" id="node3" href="$d8/d7b/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1_common_query_parser_configuration.html" title="Configuration options common across queryparser implementations. " alt="" coords="5,71,316,112"/>
+</map>

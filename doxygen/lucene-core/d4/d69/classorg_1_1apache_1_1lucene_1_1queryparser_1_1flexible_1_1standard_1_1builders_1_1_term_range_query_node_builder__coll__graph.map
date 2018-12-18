@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.queryparser.flexible.standard.builders.TermRangeQueryNodeBuilder" name="org.apache.lucene.queryparser.flexible.standard.builders.TermRangeQueryNodeBuilder">
+<area shape="rect" id="node2" href="$d0/d25/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1builders_1_1_standard_query_builder.html" title="This interface should be implemented by every class that wants to build Query objects from QueryNode ..." alt="" coords="5,95,367,136"/>
+<area shape="rect" id="node3" href="$d3/dea/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1builders_1_1_query_builder.html" title="This interface is used by implementors classes that builds some kind of object from a query tree..." alt="" coords="18,5,354,47"/>
+</map>

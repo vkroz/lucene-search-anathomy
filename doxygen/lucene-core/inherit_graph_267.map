@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node2" href="$d7/d7c/classorg_1_1apache_1_1lucene_1_1util_1_1_same_thread_executor_service.html" title="An. " alt="" coords="221,5,412,47"/>
+<area shape="rect" id="node1" href="$dc/de1/classorg_1_1apache_1_1lucene_1_1util_1_1fst_1_1_outputs.html" title="org.apache.lucene.util.fst.\lOutputs\&lt; PairOutputs.Pair\l\&lt; A, B \&gt; \&gt;" alt="" coords="5,5,183,61"/>
+<area shape="rect" id="node2" href="$d5/d46/classorg_1_1apache_1_1lucene_1_1util_1_1fst_1_1_pair_outputs.html" title="An FST Outputs implementation, holding two other outputs. " alt="" coords="231,13,404,54"/>
 </map>

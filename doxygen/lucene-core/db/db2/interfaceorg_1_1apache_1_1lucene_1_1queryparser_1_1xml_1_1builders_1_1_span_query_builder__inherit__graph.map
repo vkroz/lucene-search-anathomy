@@ -1,0 +1,15 @@
+<map id="org.apache.lucene.queryparser.xml.builders.SpanQueryBuilder" name="org.apache.lucene.queryparser.xml.builders.SpanQueryBuilder">
+<area shape="rect" id="node3" href="$d9/d08/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_builder_base.html" title="Base class for building SpanQuerys. " alt="" coords="621,235,907,276"/>
+<area shape="rect" id="node11" href="$db/def/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_query_builder_factory.html" title="Factory for SpanQueryBuilders. " alt="" coords="621,316,907,357"/>
+<area shape="rect" id="node12" href="$da/d57/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1_core_parser.html" title="Assembles a QueryBuilder which uses only core Lucene Query objects. " alt="" coords="647,431,881,472"/>
+<area shape="rect" id="node2" href="$d3/d84/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1_query_builder.html" title="Implemented by objects that produce Lucene Query objects from XML streams. " alt="" coords="5,316,240,357"/>
+<area shape="rect" id="node4" href="$d6/df8/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_boosting_term_builder.html" title="Builder for PayloadScoreQuery. " alt="" coords="955,5,1240,47"/>
+<area shape="rect" id="node5" href="$d4/d7b/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_first_builder.html" title="Builder for SpanFirstQuery. " alt="" coords="955,71,1240,112"/>
+<area shape="rect" id="node6" href="$d2/da0/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_near_builder.html" title="Builder for SpanNearQuery. " alt="" coords="955,136,1240,177"/>
+<area shape="rect" id="node7" href="$db/dd2/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_not_builder.html" title="Builder for SpanNotQuery. " alt="" coords="955,201,1240,243"/>
+<area shape="rect" id="node8" href="$d7/d2e/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_or_builder.html" title="Builder for SpanOrQuery. " alt="" coords="955,267,1240,308"/>
+<area shape="rect" id="node9" href="$df/d6b/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_or_terms_builder.html" title="Builder that analyzes the text into a SpanOrQuery. " alt="" coords="955,332,1240,373"/>
+<area shape="rect" id="node10" href="$d4/ddb/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1builders_1_1_span_term_builder.html" title="Builder for SpanTermQuery. " alt="" coords="955,397,1240,439"/>
+<area shape="rect" id="node13" href="$da/d1d/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1_core_plus_queries_parser.html" title="Assembles a QueryBuilder which uses Query objects from Lucene&#39;s queries module in addition to core qu..." alt="" coords="980,463,1215,504"/>
+<area shape="rect" id="node14" href="$df/dc9/classorg_1_1apache_1_1lucene_1_1queryparser_1_1xml_1_1_core_plus_extensions_parser.html" title="Assembles a QueryBuilder which uses Query objects from Lucene&#39;s sandbox and queries modules in additi..." alt="" coords="1288,463,1523,504"/>
+</map>

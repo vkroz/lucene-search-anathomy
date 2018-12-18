@@ -1,3 +1,9 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d2/dd4/classorg_1_1apache_1_1lucene_1_1index_1_1_doc_i_d_merger.html" title="org.apache.lucene.index.\lDocIDMerger\&lt; T \&gt;" alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node1" href="$dd/df2/classorg_1_1apache_1_1lucene_1_1index_1_1_base_composite_reader.html" title="org.apache.lucene.index.\lBaseCompositeReader\&lt; LeafReader \&gt;" alt="" coords="5,103,257,144"/>
+<area shape="rect" id="node2" href="$df/dfb/classorg_1_1apache_1_1lucene_1_1index_1_1_directory_reader.html" title="DirectoryReader is an implementation of CompositeReader that can read indexes in a Directory..." alt="" coords="307,69,477,111"/>
+<area shape="rect" id="node7" href="$d9/d09/classorg_1_1apache_1_1lucene_1_1index_1_1_parallel_composite_reader.html" title="An CompositeReader which reads multiple, parallel indexes. " alt="" coords="305,135,479,176"/>
+<area shape="rect" id="node3" href="$d0/dfc/classorg_1_1apache_1_1lucene_1_1index_1_1_filter_directory_reader.html" title="A FilterDirectoryReader wraps another DirectoryReader, allowing implementations to transform or exten..." alt="" coords="528,37,699,79"/>
+<area shape="rect" id="node6" href="$da/d48/classorg_1_1apache_1_1lucene_1_1index_1_1_standard_directory_reader.html" title="Default implementation of DirectoryReader. " alt="" coords="527,103,700,144"/>
+<area shape="rect" id="node4" href="$d8/d3d/classorg_1_1apache_1_1lucene_1_1index_1_1_exitable_directory_reader.html" title="The ExitableDirectoryReader wraps a real index DirectoryReader and allows for a QueryTimeout implemen..." alt="" coords="782,5,953,47"/>
+<area shape="rect" id="node5" href="$da/d35/classorg_1_1apache_1_1lucene_1_1index_1_1_soft_deletes_directory_reader_wrapper.html" title="This reader filters out documents that have a doc values value in the given field and treat these doc..." alt="" coords="748,71,987,112"/>
 </map>

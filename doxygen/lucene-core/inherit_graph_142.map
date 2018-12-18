@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$de/db6/enumorg_1_1apache_1_1lucene_1_1search_1_1spans_1_1_span_weight_1_1_postings.html" title="Enumeration defining what postings information should be retrieved from the index for a given Spans..." alt="" coords="5,5,224,47"/>
+<area shape="rect" id="node2" href="$d8/d08/classorg_1_1apache_1_1lucene_1_1search_1_1_collection_terminated_exception.html" title="Throw this exception in LeafCollector#collect(int) to prematurely terminate collection of the current..." alt="" coords="202,5,409,47"/>
+<area shape="rect" id="node3" href="$d9/dc6/classorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_too_complex_to_determinize_exception.html" title="This exception is thrown when determinizing an automaton would result in one has too many states..." alt="" coords="184,71,427,112"/>
+<area shape="rect" id="node4" href="$dd/dbe/classorg_1_1apache_1_1lucene_1_1util_1_1_thread_interrupted_exception.html" title="Thrown by lucene on detecting that Thread.interrupt() had been called. " alt="" coords="206,136,405,177"/>
 </map>

@@ -1,0 +1,4 @@
+<map id="org.apache.lucene.queryparser.flexible.standard.processors.StandardQueryNodeProcessorPipeline" name="org.apache.lucene.queryparser.flexible.standard.processors.StandardQueryNodeProcessorPipeline">
+<area shape="rect" id="node2" href="$d1/d85/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors_1_1_query_node_processor_pipeline.html" title="A QueryNodeProcessorPipeline class should be used to build a query node processor pipeline..." alt="" coords="408,39,763,80"/>
+<area shape="rect" id="node3" href="$d9/de0/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1processors_1_1_query_node_processor.html" title="A QueryNodeProcessor is an interface for classes that process a QueryNode tree. " alt="" coords="5,5,360,47"/>
+</map>

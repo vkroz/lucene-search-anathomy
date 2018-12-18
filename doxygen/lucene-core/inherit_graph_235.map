@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$de/d76/classorg_1_1apache_1_1lucene_1_1util_1_1packed_1_1_block_packed_reader_iterator.html" title="Reader for sequences of longs written with BlockPackedWriter. " alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node1" href="$d0/da5/classorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_run_automaton.html" title="Finite&#45;state automaton with fast run operation. " alt="" coords="5,39,228,80"/>
+<area shape="rect" id="node2" href="$d3/d4c/classorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_byte_run_automaton.html" title="Automaton representation for matching UTF&#45;8 byte[]. " alt="" coords="276,5,499,47"/>
+<area shape="rect" id="node3" href="$dc/d2a/classorg_1_1apache_1_1lucene_1_1util_1_1automaton_1_1_character_run_automaton.html" title="Automaton representation for matching char[]. " alt="" coords="276,71,499,112"/>
 </map>

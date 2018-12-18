@@ -1,0 +1,9 @@
+<map id="org.apache.lucene.queryparser.classic.QueryParser" name="org.apache.lucene.queryparser.classic.QueryParser">
+<area shape="rect" id="node6" href="$d3/d30/classorg_1_1apache_1_1lucene_1_1queryparser_1_1classic_1_1_multi_field_query_parser.html" title="A QueryParser which constructs queries to search multiple fields. " alt="" coords="970,5,1223,47"/>
+<area shape="rect" id="node7" href="$d1/d79/classorg_1_1apache_1_1lucene_1_1queryparser_1_1complex_phrase_1_1_complex_phrase_query_parser.html" title="QueryParser which permits complex phrase query syntax eg &quot;(john jon jonathan~) peters*&quot;. " alt="" coords="967,71,1227,112"/>
+<area shape="rect" id="node8" href="$d6/dd7/classorg_1_1apache_1_1lucene_1_1queryparser_1_1ext_1_1_extendable_query_parser.html" title="The ExtendableQueryParser enables arbitrary query parser extension based on a customizable field nami..." alt="" coords="981,136,1213,177"/>
+<area shape="rect" id="node2" href="$dc/d74/classorg_1_1apache_1_1lucene_1_1queryparser_1_1classic_1_1_query_parser_base.html" title="This class is overridden by QueryParser in QueryParser.jj and acts to separate the majority of the Ja..." alt="" coords="364,37,617,79"/>
+<area shape="rect" id="node3" href="$d2/d1d/classorg_1_1apache_1_1lucene_1_1util_1_1_query_builder.html" title="Creates queries from the Analyzer chain. " alt="" coords="65,5,257,47"/>
+<area shape="rect" id="node4" href="$d8/d7b/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1_common_query_parser_configuration.html" title="Configuration options common across queryparser implementations. " alt="" coords="5,71,316,112"/>
+<area shape="rect" id="node5" href="$de/df6/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1classic_1_1_query_parser_constants.html" title="Token literal values and constants. " alt="" coords="364,103,617,144"/>
+</map>

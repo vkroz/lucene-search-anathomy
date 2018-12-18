@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d6/dd8/interfaceorg_1_1apache_1_1lucene_1_1search_1_1_collector_manager.html" title="A manager of collectors. " alt="" coords="5,5,204,61"/>
+<area shape="rect" id="node2" href="$d5/d88/classorg_1_1apache_1_1lucene_1_1queryparser_1_1classic_1_1_token.html" title="Describes the input token stream. " alt="" coords="193,5,447,47"/>
+<area shape="rect" id="node3" href="$d9/d36/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1standard_1_1parser_1_1_token.html" title="Describes the input token stream. " alt="" coords="144,71,496,112"/>
+<area shape="rect" id="node4" href="$db/d8b/classorg_1_1apache_1_1lucene_1_1queryparser_1_1surround_1_1parser_1_1_token.html" title="Describes the input token stream. " alt="" coords="166,136,474,177"/>
 </map>

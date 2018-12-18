@@ -1,0 +1,5 @@
+<map id="org.apache.lucene.queryparser.flexible.core.nodes.MatchNoDocsQueryNode" name="org.apache.lucene.queryparser.flexible.core.nodes.MatchNoDocsQueryNode">
+<area shape="rect" id="node2" href="$de/d34/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_deleted_query_node.html" title="A DeletedQueryNode represents a node that was deleted from the query node tree. " alt="" coords="119,184,444,225"/>
+<area shape="rect" id="node3" href="$da/d0d/classorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_query_node_impl.html" title="A QueryNodeImpl is the default implementation of the interface QueryNode. " alt="" coords="119,95,444,136"/>
+<area shape="rect" id="node4" href="$d7/d9a/interfaceorg_1_1apache_1_1lucene_1_1queryparser_1_1flexible_1_1core_1_1nodes_1_1_query_node.html" title="A QueryNode is a interface implemented by all nodes on a QueryNode tree. " alt="" coords="5,5,331,47"/>
+</map>
