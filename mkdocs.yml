@@ -1,9 +1,17 @@
+# ---------
+# For more about configuration of mkdoks and material design theme see:
+# - https://squidfunk.github.io/mkdocs-material/
+# - https://facelessuser.github.io/pymdown-extensions/
+# - https://www.webpagefx.com/tools/emoji-cheat-sheet/
+# ---------
+
 site_name: Apache Lucene developer's guide
 nav:
   - Home: index.md
-  - Quick look inside: hello_lucene.md
-  - API: doxygen/lucene-core/
+  - Getting started: getting_started.md
+  - Look inside: look_inside.md
   - links.md
+  - API: doxygen/lucene-core/
 
 theme:
   name: material
@@ -23,13 +31,8 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - pymdownx.inlinehilite
-#  - pymdownx.magiclink
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences
-#  - pymdownx.tasklist:
-#      custom_checkbox: true
   - pymdownx.tilde
