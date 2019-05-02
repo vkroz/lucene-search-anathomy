@@ -2,7 +2,7 @@
 
 
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en" class="no-js">
   <head>
     
@@ -32,20 +32,20 @@
         <meta name="lang:search.tokenizer" content="[\s\-]+">
       
       <link rel="shortcut icon" href="../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.1.0">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.2.0">
     
     
       
-        <title>Quick look inside - Apache Lucene developer's guide</title>
+        <title>Look inside - Apache Lucene developer's guide</title>
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/application.11e41852.css">
+      <link rel="stylesheet" href="../assets/stylesheets/application.750b69bd.css">
       
       
     
     
-      <script src="../assets/javascripts/modernizr.20ef595d.js"></script>
+      <script src="../assets/javascripts/modernizr.74668098.js"></script>
     
     
       
@@ -58,6 +58,9 @@
     
     
       <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    
+      
     
     
   </head>
@@ -95,22 +98,19 @@
       <div class="md-flex__cell md-flex__cell--stretch">
         <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
           
-            
-              <span class="md-header-nav__topic">
-                Apache Lucene developer's guide
-              </span>
-              <span class="md-header-nav__topic">
-                Quick look inside
-              </span>
-            
+            <span class="md-header-nav__topic">
+              Apache Lucene developer's guide
+            </span>
+            <span class="md-header-nav__topic">
+              Look inside
+            </span>
           
         </div>
       </div>
       <div class="md-flex__cell md-flex__cell--shrink">
         
+          <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
           
-            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
-            
 <div class="md-search" data-md-component="search" role="dialog">
   <label class="md-search__overlay" for="__search"></label>
   <div class="md-search__inner" role="search">
@@ -133,7 +133,6 @@
     </div>
   </div>
 </div>
-          
         
       </div>
       
@@ -181,6 +180,18 @@
       
       
 
+
+  <li class="md-nav__item">
+    <a href="../getting_started/" title="Getting started" class="md-nav__link">
+      Getting started
+    </a>
+  </li>
+
+    
+      
+      
+      
+
   
 
 
@@ -192,11 +203,11 @@
     
     
       <label class="md-nav__link md-nav__link--active" for="__toc">
-        Quick look inside
+        Look inside
       </label>
     
-    <a href="./" title="Quick look inside" class="md-nav__link md-nav__link--active">
-      Quick look inside
+    <a href="./" title="Look inside" class="md-nav__link md-nav__link--active">
+      Look inside
     </a>
     
       
@@ -258,12 +269,7 @@
   
 </li>
         
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
+          <li class="md-nav__item">
   <a href="#package-orgapacheluceneindex" title="Package: org.apache.lucene.index" class="md-nav__link">
     Package: org.apache.lucene.index
   </a>
@@ -303,8 +309,8 @@
     </nav>
   
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#package-orgapachelucenesearch" title="Package: org.apache.lucene.search" class="md-nav__link">
     Package: org.apache.lucene.search
   </a>
@@ -351,6 +357,18 @@
     </nav>
   
 </li>
+        
+          <li class="md-nav__item">
+  <a href="#physical-index-formats" title="Physical index formats" class="md-nav__link">
+    Physical index formats
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
       
       
       
@@ -369,8 +387,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../doxygen/lucene-core/" title="API" class="md-nav__link">
-      API
+    <a href="../links/" title="Links" class="md-nav__link">
+      Links
     </a>
   </li>
 
@@ -381,8 +399,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../links/" title="Links" class="md-nav__link">
-      Links
+    <a href="../doxygen/lucene-core/" title="API" class="md-nav__link">
+      API
     </a>
   </li>
 
@@ -456,12 +474,7 @@
   
 </li>
         
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
+          <li class="md-nav__item">
   <a href="#package-orgapacheluceneindex" title="Package: org.apache.lucene.index" class="md-nav__link">
     Package: org.apache.lucene.index
   </a>
@@ -501,8 +514,8 @@
     </nav>
   
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#package-orgapachelucenesearch" title="Package: org.apache.lucene.search" class="md-nav__link">
     Package: org.apache.lucene.search
   </a>
@@ -549,6 +562,18 @@
     </nav>
   
 </li>
+        
+          <li class="md-nav__item">
+  <a href="#physical-index-formats" title="Physical index formats" class="md-nav__link">
+    Physical index formats
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
       
       
       
@@ -572,7 +597,7 @@
 <p class="admonition-title">Sources</p>
 <ul>
 <li><a href="http://lucene.sourceforge.net/talks/pisa/">http://lucene.sourceforge.net/talks/pisa/</a></li>
-<li><a href="https://www.baeldung.com/lucene">https://www.baeldung.com/lucene</a></li>
+<li><a href="https://www.youtube.com/watch?v=T5RmMNDR5XI&amp;feature=youtu.be">https://www.youtube.com/watch?v=T5RmMNDR5XI&amp;feature=youtu.be</a></li>
 </ul>
 </div>
 <h2 id="main-points">Main points</h2>
@@ -659,7 +684,7 @@
 </pre></div>
 
 </div>
-<h2 id="package-orgapacheluceneindex">Package: org.apache.lucene.index</h2>
+<h3 id="package-orgapacheluceneindex">Package: org.apache.lucene.index</h3>
 <ul>
 <li><strong>Term</strong> is <code class="codehilite">&lt;fieldName, text&gt;</code></li>
 <li>Index maps <code class="codehilite">Term → &lt;df, &lt;docNum, &lt;position&gt;* &gt;*&gt;</code> <br/>
@@ -679,7 +704,11 @@
 </pre></div>
 
 </div>
-<h3 id="some-inverted-index-strategies">Some Inverted Index Strategies</h3>
+<ul>
+<li>Index API: https://lucene.apache.org/core/7_6_0/core/org/apache/lucene/index/package-summary.html</li>
+<li>Index format and structure is defined by codecs: https://lucene.apache.org/core/7_6_0/core/org/apache/lucene/codecs/lucene70/package-summary.html#package.description</li>
+</ul>
+<h4 id="some-inverted-index-strategies">Some Inverted Index Strategies</h4>
 <table>
 <thead>
 <tr>
@@ -706,7 +735,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="lucenes-index-algorithm">Lucene's Index Algorithm</h3>
+<h4 id="lucenes-index-algorithm">Lucene's Index Algorithm</h4>
 <ul>
 <li>two basic algorithms<ol>
 <li>make an index for a single document</li>
@@ -757,7 +786,7 @@
 <li>segment indexing w/ M&lt;∞</li>
 </ul>
 </div>
-<h3 id="indexing-diagram">Indexing Diagram</h3>
+<h4 id="indexing-diagram">Indexing Diagram</h4>
 <ul>
 <li>b = 3</li>
 <li>11 documents indexed</li>
@@ -766,7 +795,7 @@
 <li>5 merges have occurred</li>
 </ul>
 <p><img alt="indexing" src="../img/indexing.png" /></p>
-<h3 id="index-compression">Index Compression</h3>
+<h4 id="index-compression">Index Compression</h4>
 <p>For keys in <code class="codehilite">Term -&gt; ... map</code>, use technique from <a href="http://roquefort.di.unipi.it/~ferrax/Teach/InformationRetrieval.html">Paolo's slides</a>:</p>
 <p><strong>4<sup>th</sup> solution: front coding</strong></p>
 <p>Idea: sorted words commonly have long common prefix - stored diffrences only wrt the first term in a block og k</p>
@@ -865,7 +894,7 @@
 </tbody>
 </table>
 <p>This provides compression while still being efficient to decode.</p>
-<h2 id="package-orgapachelucenesearch">Package: <code class="codehilite">org.apache.lucene.search</code></h2>
+<h3 id="package-orgapachelucenesearch">Package: <code class="codehilite">org.apache.lucene.search</code></h3>
 <ul>
 <li>primitive queries:<ul>
 <li><strong>TermQuery</strong>: match docs containing a Term</li>
@@ -896,10 +925,10 @@
 </pre></div>
 
 </div>
-<h3 id="search-algorithms">Search algorithms</h3>
+<h4 id="search-algorithms">Search algorithms</h4>
 <p>From <a href="http://roquefort.di.unipi.it/~ferrax/Teach/InformationRetrieval.html">Paolo's slides</a>:</p>
 <p><img alt="merge" src="../img/merge.png" /></p>
-<h3 id="lucenes-disjunctive-search-algorithm">Lucene's Disjunctive Search Algorithm</h3>
+<h4 id="lucenes-disjunctive-search-algorithm">Lucene's Disjunctive Search Algorithm</h4>
 <ul>
 <li>described in http://lucene.sf.net/papers/riao97.ps</li>
 <li>since all postings must be processed<ul>
@@ -914,7 +943,7 @@
 <p class="admonition-title">Todo</p>
 <p>draw a diagram to illustrate?</p>
 </div>
-<h3 id="lucenes-conjunctive-search-algorithm">Lucene's Conjunctive Search Algorithm</h3>
+<h4 id="lucenes-conjunctive-search-algorithm">Lucene's Conjunctive Search Algorithm</h4>
 <p>From Paolo's slides:
 <img alt="skip_pointers" src="../img/skip_pointers.png" /></p>
 <p>Algorithm
@@ -923,18 +952,20 @@
 - loop
     - if all are at same doc, record hit
     - skip first to-or-past last and move to end of list</p>
-<h3 id="scoring">Scoring</h3>
+<h4 id="scoring">Scoring</h4>
 <p>From Paolo's slides:</p>
 <p><img alt="scoring" src="../img/scoring.png" /></p>
 <ul>
 <li>Is very much like <a href="https://lucene.apache.org/core/7_5_0/core/org/apache/lucene/search/similarities/Similarity.html">Lucene's Similarity</a></li>
 </ul>
-<h3 id="lucenes-phrase-scoring">Lucene's Phrase Scoring</h3>
+<h4 id="lucenes-phrase-scoring">Lucene's Phrase Scoring</h4>
 <ul>
 <li>approximate phrase IDF with sum of terms</li>
 <li>compute actual tf of phrase</li>
 <li>slop penalizes slight mismatches by edit-distance</li>
 </ul>
+<h3 id="physical-index-formats">Physical index formats</h3>
+<p>See: https://lucene.apache.org/core/7_6_0/core/org/apache/lucene/codecs/lucene70/package-summary.html</p>
                 
                   
                 
@@ -955,7 +986,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid">
         
-          <a href=".." title="Home" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../getting_started/" title="Getting started" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-flex__cell md-flex__cell--shrink">
               <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
@@ -964,7 +995,7 @@
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Home
+                Getting started
               </span>
             </div>
           </a>
@@ -998,20 +1029,15 @@
           Material for MkDocs</a>
       </div>
       
-        
-      
     </div>
   </div>
 </footer>
       
     </div>
     
-      <script src="../assets/javascripts/application.9e1f3b71.js"></script>
+      <script src="../assets/javascripts/application.39abc4af.js"></script>
       
       <script>app.initialize({version:"1.0.4",url:{base:".."}})</script>
-      
-    
-    
       
     
   </body>
