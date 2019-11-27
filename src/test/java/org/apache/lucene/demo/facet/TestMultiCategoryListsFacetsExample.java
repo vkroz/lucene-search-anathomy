@@ -17,7 +17,7 @@
 package org.apache.lucene.demo.facet;
 
 
-import org.apache.lucene.demo.BaseTestCase;
+import org.samplets.lucene.TestUtils;
 import org.apache.lucene.facet.FacetResult;
 import org.junit.Test;
 
@@ -25,7 +25,7 @@ import java.util.List;
 
 import static junit.framework.TestCase.assertEquals;
 
-public class TestMultiCategoryListsFacetsExample extends BaseTestCase {
+public class TestMultiCategoryListsFacetsExample extends TestUtils {
 
   @Test
   public void testExample() throws Exception {

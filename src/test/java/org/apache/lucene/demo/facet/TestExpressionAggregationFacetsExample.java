@@ -17,13 +17,13 @@
 package org.apache.lucene.demo.facet;
 
 
-import org.apache.lucene.demo.BaseTestCase;
+import org.samplets.lucene.TestUtils;
 import org.apache.lucene.facet.FacetResult;
 import org.junit.Test;
 
 import static junit.framework.TestCase.assertEquals;
 
-public class TestExpressionAggregationFacetsExample extends BaseTestCase {
+public class TestExpressionAggregationFacetsExample extends TestUtils {
 
   @Test
   public void testSimple() throws Exception {

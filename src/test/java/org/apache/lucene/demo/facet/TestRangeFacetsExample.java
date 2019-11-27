@@ -17,14 +17,14 @@
 package org.apache.lucene.demo.facet;
 
 
-import org.apache.lucene.demo.BaseTestCase;
+import org.samplets.lucene.TestUtils;
 import org.apache.lucene.facet.FacetResult;
 import org.apache.lucene.search.TopDocs;
 import org.junit.Test;
 
 import static junit.framework.TestCase.assertEquals;
 
-public class TestRangeFacetsExample extends BaseTestCase {
+public class TestRangeFacetsExample extends TestUtils {
 
   @Test
   public void testSimple() throws Exception {
