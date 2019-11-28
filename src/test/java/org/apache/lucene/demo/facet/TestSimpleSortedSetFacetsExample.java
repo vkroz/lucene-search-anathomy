@@ -17,7 +17,7 @@
 package org.apache.lucene.demo.facet;
 
 
-import org.apache.lucene.demo.BaseTestCase;
+import org.samplets.lucene.TestUtils;
 import org.apache.lucene.facet.FacetResult;
 import org.junit.Test;
 
@@ -27,7 +27,7 @@ import static junit.framework.TestCase.assertEquals;
 
 
 // We require sorted set DVs:
-public class TestSimpleSortedSetFacetsExample extends BaseTestCase {
+public class TestSimpleSortedSetFacetsExample extends TestUtils {
 
   @Test
   public void testSimple() throws Exception {

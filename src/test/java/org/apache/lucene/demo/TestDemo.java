@@ -18,6 +18,7 @@ package org.apache.lucene.demo;
 
 
 import org.junit.Test;
+import org.samplets.lucene.TestUtils;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
@@ -27,7 +28,7 @@ import java.nio.file.Path;
 import static junit.framework.TestCase.assertTrue;
 
 
-public class TestDemo extends BaseTestCase {
+public class TestDemo extends TestUtils {
 
     private void testOneSearch(Path indexPath, String query, int expectedHitCount)
             throws Exception {

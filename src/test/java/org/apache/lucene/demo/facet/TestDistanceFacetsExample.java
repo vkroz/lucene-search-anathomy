@@ -18,14 +18,14 @@ package org.apache.lucene.demo.facet;
 
 
 
-import org.apache.lucene.demo.BaseTestCase;
+import org.samplets.lucene.TestUtils;
 import org.apache.lucene.facet.FacetResult;
 import org.apache.lucene.search.TopDocs;
 import org.junit.Test;
 
 import static junit.framework.TestCase.assertEquals;
 
-public class TestDistanceFacetsExample extends BaseTestCase {
+public class TestDistanceFacetsExample extends TestUtils {
 
 
     @Test
