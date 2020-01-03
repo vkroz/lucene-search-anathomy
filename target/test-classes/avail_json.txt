@@ -1,4 +1,0 @@
-{"abstract_product_id":"BV03","product_type":"VARIANT","payload":"{\"availabilityData\":\"1\",\"storeId\":\"5594\"}","timestamp": 1431417818544,"version": "1","product_id": "var01","tenant_id": "0","mart_id": "0","event_type": "SLAP_INV"}
-{"abstract_product_id":"BV03","product_type":"VARIANT","payload":"{\"availabilityData\":\"0\",\"storeId\":\"5594\"}","timestamp": 1431417818544,"version": "1","product_id": "var02","tenant_id": "0","mart_id": "0","event_type": "SLAP_INV"}
-{"abstract_product_id":"BV03","product_type":"VARIANT","payload":"{\"availabilityData\":\"0\",\"storeId\":\"5594\"}","timestamp": 1431417818544,"version": "1","product_id": "va03","tenant_id": "0","mart_id": "0","event_type": "SLAP_INV"}
-{"abstract_product_id":"","product_type":"REGULAR","payload":"{\"availabilityData\":\"10\",\"storeId\":\"5594\"}","timestamp": 1431417818544,"version": "1","product_id": "va04","tenant_id": "0","mart_id": "0","event_type": "SLAP_INV"}
