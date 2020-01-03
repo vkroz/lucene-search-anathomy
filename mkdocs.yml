@@ -5,13 +5,16 @@
 # - https://www.webpagefx.com/tools/emoji-cheat-sheet/
 # ---------
 
-site_name: Apache Lucene developer's guide
+site_name: Anatomy of e-Commerce Search
 nav:
   - Home: index.md
-  - Getting started: getting_started.md
-  - Look inside: look_inside.md
-  - links.md
-  - API: doxygen/lucene-core/
+  - Visual Search: visual_search/vs_index.md
+  - Apache Lucene:
+    - Guides: lucene-index.md
+    - Getting started: getting_started.md
+    - Look inside: look_inside.md
+    - links.md
+    - API: doxygen/lucene-core/
 
 theme:
   name: material

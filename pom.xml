@@ -7,6 +7,7 @@
     <groupId>org.codingpractice</groupId>
     <version>1.0-SNAPSHOT</version>
     <artifactId>lucene-tutorial</artifactId>
+    <name>search-anatomy</name>
     <packaging>jar</packaging>
 
     <properties>

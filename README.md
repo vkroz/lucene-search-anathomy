@@ -1,21 +1,8 @@
-# Apache Lucene developer's guide
+# Anatomy of e-Commerce Search 
 
-Tutorial, documentation and code examples for Lucene developers
+Comprehensive guide on search techniques and technologies in e-Commerce
 
-See: [https://vkroz.github.io/lucene-search-anathomy/](https://vkroz.github.io/lucene-search-anathomy/)
+Documentation sources: [docs]
+Published documentation: [https://vkroz.github.io/search-anatomy/](https://vkroz.github.io/search-anatomy/)
 
-
-
-# Setup dev environment
-
-## Setup docs generator
-
-Install 
-
-    pip install mkdocs
-    pip install mkdocs-material
-
-To serve documentation locally
-
-    mkdocs serve
-
+For build instructions see: [DEVELOP.md]
